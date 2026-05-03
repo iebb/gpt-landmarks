@@ -1,0 +1,23 @@
+# EU prompts
+
+## Reserved codes - EU square:
+EU square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for the European Union (EU), representing multiple countries without using flags or text.
+Scene/backdrop: Brussels European Quarter with modern glass institutions, cobbled plaza, tram line, tree-lined avenue, and layered European city rooftops.
+Subject: a European Union civic district travel scene, recognizable through Brussels-style modern institutions and urban European setting.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with civic buildings and plaza, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag symbols, no circle of stars.
+
+## Reserved codes - EU wide:
+EU wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for the European Union (EU), representing multiple countries without using flags or text.
+Scene/backdrop: Brussels European Quarter with modern glass institutions, cobbled plaza, tram line, tree-lined avenue, and layered European city rooftops.
+Subject: a European Union civic district travel scene, recognizable through Brussels-style modern institutions and urban European setting.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with civic buildings, tram, trees, and skyline spreading horizontally, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag symbols, no circle of stars.

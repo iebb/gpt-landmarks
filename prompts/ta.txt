@@ -1,0 +1,23 @@
+# TA prompts
+
+## Reserved codes - TA square:
+TA square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for Tristan da Cunha (TA), a remote United Kingdom island in the South Atlantic.
+Scene/backdrop: Volcanic green cone rising behind Edinburgh of the Seven Seas, small settlement cottages, rugged cliffs, sheep pasture, and deep blue Atlantic.
+Subject: Tristan da Cunha's isolated volcanic island and village landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with volcano and settlement centered, ocean and cliffs foreground, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
+
+## Reserved codes - TA wide:
+TA wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for Tristan da Cunha (TA), a remote United Kingdom island in the South Atlantic.
+Scene/backdrop: Volcanic green cone rising behind Edinburgh of the Seven Seas, small settlement cottages, rugged cliffs, sheep pasture, and deep blue Atlantic.
+Subject: Tristan da Cunha's isolated volcanic island and village landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with volcano, village, pasture, cliffs, and ocean spreading horizontally, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.

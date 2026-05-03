@@ -1,0 +1,23 @@
+# UN prompts
+
+## Reserved codes - UN square:
+UN square:
+Use case: illustration-story
+Asset type: native square reserved-code civic image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration image for the United Nations (UN), representing the organization without any text or emblem.
+Scene/backdrop: United Nations Headquarters-style glass Secretariat building beside the East River in New York, international plaza, trees, water, and skyline in clear daylight.
+Subject: a global diplomatic headquarters city scene, not a specific nation.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with tall glass building and river balanced, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flags, no emblems, no laurel symbols.
+
+## Reserved codes - UN wide:
+UN wide:
+Use case: illustration-story
+Asset type: native wide reserved-code civic image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration image for the United Nations (UN), representing the organization without any text or emblem.
+Scene/backdrop: United Nations Headquarters-style glass Secretariat building beside the East River in New York, international plaza, trees, water, and skyline in clear daylight.
+Subject: a global diplomatic headquarters city scene, not a specific nation.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with the glass headquarters, river, and skyline spreading horizontally, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flags, no emblems, no laurel symbols.

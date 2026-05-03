@@ -1,0 +1,23 @@
+# AC prompts
+
+## Reserved codes - AC square:
+AC square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for Ascension Island (AC), a United Kingdom overseas territory and reserved ISO code.
+Scene/backdrop: Remote South Atlantic volcanic island with Green Mountain rising above black lava coast, bright ocean, sparse scrub, and a small settlement hint.
+Subject: Green Mountain and rugged volcanic shoreline as the recognizable Ascension Island landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with mountain centered, ocean and lava foreground, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
+
+## Reserved codes - AC wide:
+AC wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for Ascension Island (AC), a United Kingdom overseas territory and reserved ISO code.
+Scene/backdrop: Remote South Atlantic volcanic island with Green Mountain rising above black lava coast, bright ocean, sparse scrub, and a small settlement hint.
+Subject: Green Mountain and rugged volcanic shoreline as the recognizable Ascension Island landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with mountain and coastline stretching horizontally, ocean and lava foreground, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.

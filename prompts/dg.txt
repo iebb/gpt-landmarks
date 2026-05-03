@@ -1,0 +1,23 @@
+# DG prompts
+
+## Reserved codes - DG square:
+DG square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for Diego Garcia (DG), a remote island in the British Indian Ocean Territory.
+Scene/backdrop: Long coral atoll lagoon with turquoise Indian Ocean water, palm-lined shore, white sand, reef shallows, and a quiet jetty or airstrip suggested subtly in the distance.
+Subject: Diego Garcia's curved tropical lagoon and isolated atoll landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with lagoon curve and palms, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
+
+## Reserved codes - DG wide:
+DG wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for Diego Garcia (DG), a remote island in the British Indian Ocean Territory.
+Scene/backdrop: Long coral atoll lagoon with turquoise Indian Ocean water, palm-lined shore, white sand, reef shallows, and a quiet jetty or airstrip suggested subtly in the distance.
+Subject: Diego Garcia's curved tropical lagoon and isolated atoll landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with lagoon arc and palms stretching across the frame, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.

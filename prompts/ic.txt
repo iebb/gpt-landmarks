@@ -1,0 +1,23 @@
+# IC prompts
+
+## Reserved codes - IC square:
+IC square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for the Canary Islands (IC), Spain.
+Scene/backdrop: Tenerife volcanic landscape with Mount Teide, black lava slopes, pine forest, white villages, and Atlantic coast under bright island light.
+Subject: Mount Teide and Canary Islands volcanic island scenery.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with volcano centered, coast and village foreground, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
+
+## Reserved codes - IC wide:
+IC wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for the Canary Islands (IC), Spain.
+Scene/backdrop: Tenerife volcanic landscape with Mount Teide, black lava slopes, pine forest, white villages, and Atlantic coast under bright island light.
+Subject: Mount Teide and Canary Islands volcanic island scenery.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with volcano, coast, village, and pine forest spreading horizontally, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.

@@ -1,0 +1,23 @@
+# SU prompts
+
+## Reserved codes - SU square:
+SU square:
+Use case: illustration-story
+Asset type: native square historical reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for the former USSR / Soviet Union (SU), represented historically without symbols or text.
+Scene/backdrop: Broad Moscow skyline with Saint Basil-style onion domes, Kremlin-like red brick walls, snow-dusted plaza, birch trees, and winter evening light.
+Subject: historical Soviet-era Moscow cityscape as a recognizable former-country travel scene.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with domes and red walls centered, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flags, no hammer-and-sickle symbol.
+
+## Reserved codes - SU wide:
+SU wide:
+Use case: illustration-story
+Asset type: native wide historical reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for the former USSR / Soviet Union (SU), represented historically without symbols or text.
+Scene/backdrop: Broad Moscow skyline with Saint Basil-style onion domes, Kremlin-like red brick walls, snow-dusted plaza, birch trees, and winter evening light.
+Subject: historical Soviet-era Moscow cityscape as a recognizable former-country travel scene.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with domes, red walls, and winter city skyline stretching horizontally, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flags, no hammer-and-sickle symbol.

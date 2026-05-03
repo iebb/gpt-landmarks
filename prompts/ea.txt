@@ -1,0 +1,23 @@
+# EA prompts
+
+## Reserved codes - EA square:
+EA square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for Ceuta and Melilla (EA), Spanish North African enclaves.
+Scene/backdrop: Mediterranean Spanish-North-African coastal city with old fortress walls, white buildings, harbor water, palm trees, and distant Rif hills.
+Subject: Ceuta and Melilla represented by fortified coastal city architecture and Mediterranean harbor landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with fortress, city, harbor, and hills layered clearly, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
+
+## Reserved codes - EA wide:
+EA wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for Ceuta and Melilla (EA), Spanish North African enclaves.
+Scene/backdrop: Mediterranean Spanish-North-African coastal city with old fortress walls, white buildings, harbor water, palm trees, and distant Rif hills.
+Subject: Ceuta and Melilla represented by fortified coastal city architecture and Mediterranean harbor landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with fortress, harbor, city, and hills stretching across the frame, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.

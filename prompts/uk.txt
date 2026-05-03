@@ -1,0 +1,23 @@
+# UK prompts
+
+## Reserved codes - UK square:
+UK square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for the United Kingdom reserved code UK, distinct from the existing GB image.
+Scene/backdrop: Westminster and the River Thames with Big Ben, stone bridge, red buses without readable markings, cloudy bright London sky, green embankment trees, and no flagpoles anywhere.
+Subject: iconic United Kingdom London landmarks as a travel scene.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with Big Ben and Thames centered, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flags of any kind, no flagpoles, no flag symbols, no Union Jack.
+
+## Reserved codes - UK wide:
+UK wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for the United Kingdom reserved code UK, distinct from the existing GB image.
+Scene/backdrop: Westminster and the River Thames with Big Ben, stone bridge, red buses suggested without readable markings, cloudy bright London sky, and green embankment trees.
+Subject: iconic United Kingdom London landmarks as a travel scene.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with Big Ben, Westminster, Thames, bridge, and embankment stretching horizontally, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flags of any kind, no flagpoles, no flag symbols.

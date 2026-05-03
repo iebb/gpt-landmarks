@@ -1,0 +1,23 @@
+# CQ prompts
+
+## Reserved codes - CQ square:
+CQ square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for the Island of Sark (CQ), a small Channel Island associated with the United Kingdom.
+Scene/backdrop: Rugged Channel Island cliffs, green fields, stone cottages, a narrow lane, wildflowers, and blue sea under a bright sky.
+Subject: Sark's car-free island landscape with granite cliffs and village cottages.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1 with cliffs and cottages balanced, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
+
+## Reserved codes - CQ wide:
+CQ wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for the Island of Sark (CQ), a small Channel Island associated with the United Kingdom.
+Scene/backdrop: Rugged Channel Island cliffs, green fields, stone cottages, a narrow lane, wildflowers, and blue sea under a bright sky.
+Subject: Sark's car-free island landscape with granite cliffs and village cottages.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1 with coastline and village stretching horizontally, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.

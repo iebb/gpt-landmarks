@@ -1,0 +1,23 @@
+# CP prompts
+
+## Reserved codes - CP square:
+CP square:
+Use case: illustration-story
+Asset type: native square reserved-code travel image, final PNG 1254x1254.
+Primary request: Create a simple vector-illustration travel image for Clipperton Island (CP), a remote French coral atoll in the eastern Pacific.
+Scene/backdrop: Ring-shaped coral atoll with turquoise lagoon, low sand and scrub, surf breaking on reef, seabirds, and open ocean horizon.
+Subject: Clipperton Island's isolated coral lagoon and reef rim as the recognizable landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: square 1:1, lagoon centered with reef and ocean layers, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
+
+## Reserved codes - CP wide:
+CP wide:
+Use case: illustration-story
+Asset type: native wide reserved-code travel image, final PNG 1774x887.
+Primary request: Create a simple vector-illustration travel image for Clipperton Island (CP), a remote French coral atoll in the eastern Pacific.
+Scene/backdrop: Ring-shaped coral atoll with turquoise lagoon, low sand and scrub, surf breaking on reef, seabirds, and open ocean horizon.
+Subject: Clipperton Island's isolated coral lagoon and reef rim as the recognizable landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: panoramic 2:1, atoll and lagoon spanning the frame, generous safe margins.
+Constraints: no text, no letters, no numbers, no labels, no watermark, no flag overlay.
