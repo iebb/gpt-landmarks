@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ISO 3166-2 Stamps Gallery favicon">
+  <defs>
+    <linearGradient id="paper" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7f1e1"/>
+      <stop offset="1" stop-color="#efe6cc"/>
+    </linearGradient>
+    <mask id="perforated">
+      <rect x="54" y="54" width="404" height="404" rx="22" fill="#fff"/>
+      <g fill="#000">
+        <circle cx="96" cy="54" r="15"/>
+        <circle cx="144" cy="54" r="15"/>
+        <circle cx="192" cy="54" r="15"/>
+        <circle cx="240" cy="54" r="15"/>
+        <circle cx="288" cy="54" r="15"/>
+        <circle cx="336" cy="54" r="15"/>
+        <circle cx="384" cy="54" r="15"/>
+        <circle cx="432" cy="54" r="15"/>
+        <circle cx="96" cy="458" r="15"/>
+        <circle cx="144" cy="458" r="15"/>
+        <circle cx="192" cy="458" r="15"/>
+        <circle cx="240" cy="458" r="15"/>
+        <circle cx="288" cy="458" r="15"/>
+        <circle cx="336" cy="458" r="15"/>
+        <circle cx="384" cy="458" r="15"/>
+        <circle cx="432" cy="458" r="15"/>
+        <circle cx="54" cy="96" r="15"/>
+        <circle cx="54" cy="144" r="15"/>
+        <circle cx="54" cy="192" r="15"/>
+        <circle cx="54" cy="240" r="15"/>
+        <circle cx="54" cy="288" r="15"/>
+        <circle cx="54" cy="336" r="15"/>
+        <circle cx="54" cy="384" r="15"/>
+        <circle cx="54" cy="432" r="15"/>
+        <circle cx="458" cy="96" r="15"/>
+        <circle cx="458" cy="144" r="15"/>
+        <circle cx="458" cy="192" r="15"/>
+        <circle cx="458" cy="240" r="15"/>
+        <circle cx="458" cy="288" r="15"/>
+        <circle cx="458" cy="336" r="15"/>
+        <circle cx="458" cy="384" r="15"/>
+        <circle cx="458" cy="432" r="15"/>
+      </g>
+    </mask>
+  </defs>
+  <rect width="512" height="512" rx="88" fill="#1d1410"/>
+  <rect x="54" y="54" width="404" height="404" rx="22" fill="url(#paper)" mask="url(#perforated)"/>
+  <rect x="91" y="91" width="330" height="330" fill="none" stroke="#1a1410" stroke-opacity=".35" stroke-width="8" stroke-dasharray="18 15"/>
+  <rect x="116" y="113" width="280" height="50" rx="5" fill="#1a1410"/>
+  <rect x="142" y="130" width="84" height="15" rx="3" fill="#f7f1e1"/>
+  <rect x="244" y="130" width="34" height="15" rx="3" fill="#c9a14a"/>
+  <rect x="294" y="130" width="34" height="15" rx="3" fill="#c9a14a"/>
+  <rect x="344" y="130" width="26" height="15" rx="3" fill="#c9a14a"/>
+  <circle cx="256" cy="282" r="87" fill="#c9a14a"/>
+  <path d="M170 282h172M256 195c-35 31-52 61-52 87s17 56 52 87M256 195c35 31 52 61 52 87s-17 56-52 87M192 232c38 14 90 14 128 0M192 332c38-14 90-14 128 0" fill="none" stroke="#1a1410" stroke-opacity=".72" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="256" cy="282" r="87" fill="none" stroke="#1a1410" stroke-opacity=".85" stroke-width="13"/>
+  <g transform="rotate(-15 323 327)" fill="none" stroke="#b32a2a" stroke-linecap="round">
+    <circle cx="323" cy="327" r="63" stroke-width="11" opacity=".82"/>
+    <circle cx="323" cy="327" r="43" stroke-width="7" opacity=".72"/>
+    <path d="M248 327h150M262 354h122" stroke-width="13" opacity=".82"/>
+  </g>
+</svg>

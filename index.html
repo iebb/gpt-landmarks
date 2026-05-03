@@ -4,6 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ISO 3166-2 Stamps Gallery</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="favicon-32x32.png" type="image/png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -306,13 +310,13 @@
       ["zw","Zimbabwe","Stone ruins and elephant lands."]
     ];
 
-    const ORIGIN = "stamps.pages.dev";
+    const ORIGIN = "https://stamps.ieb.app";
     const SIZES = {
       square: { folder: "1254x1254", w: 500, h: 500 },
       wide:   { folder: "1774x887",  w: 600, h: 300 },
     };
     const weserv = (path, w, h) =>
-      `https://wsrv.nl/?url=${ORIGIN}/${path}&w=${w}&h=${h}&fit=cover&output=jpg&q=82`;
+      `https://wsrv.nl/?url=${ORIGIN}/${path}&w=${w}&h=${h}&fit=cover&output=jpg&q=90`;
 
     const gallery = document.getElementById("gallery");
     const modal = document.getElementById("stamp-modal");
