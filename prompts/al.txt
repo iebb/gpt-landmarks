@@ -1,0 +1,7 @@
+# AL prompts
+
+## AL square
+Create a simple vector-illustration style travel image for Albania (country code AL), native square composition. Format suitable for a 1254x1254 PNG. Show Berat white Ottoman houses on a hillside, stone castle, Osum River, cypress trees, and warm Balkan sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AL wide
+Create a simple vector-illustration style travel image for Albania (country code AL), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Berat white Ottoman houses on a hillside, stone castle, Osum River, cypress trees, and warm Balkan sunlight, composed horizontally with hillside town and river fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

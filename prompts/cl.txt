@@ -1,0 +1,25 @@
+# CL prompts
+
+## CL square
+Create a simple vector-illustration style travel image for Chile (country code CL), native square composition. Format suitable for a 1254x1254 PNG. Show Torres del Paine granite peaks, turquoise lake, windswept grassland, and crisp Patagonian light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CL wide
+Create a simple vector-illustration style travel image for Chile (country code CL), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Torres del Paine granite peaks, turquoise lake, windswept grassland, and crisp Patagonian light, composed horizontally with peaks and lake fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## BQ-CO merged - CL square:
+CL square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code CL, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for Chile. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Torres del Paine in Patagonia with turquoise lake, wind-shaped grasses, and crisp southern light.
+Subject: the three granite towers rising behind a blue glacial lake, with guanacos grazing among golden Patagonian grasses in the foreground.
+Composition: square crop, towers centered as the focal point, lake and grasses layered below, dramatic clouds but clear landmark visibility, travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - CL wide:
+CL wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code CL, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for Chile. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Torres del Paine in Patagonia with turquoise lake, wind-shaped grasses, and crisp southern light.
+Subject: the three granite towers rising behind a blue glacial lake, with guanacos grazing among golden Patagonian grasses in the foreground.
+Composition: panoramic wide crop, towers near center with broad mountain range and lake stretching sideways, guanacos and grasses along the lower foreground, dramatic clouds but clear landmark visibility, travel-poster feel, vivid but refined colors.

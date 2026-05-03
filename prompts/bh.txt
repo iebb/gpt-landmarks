@@ -1,0 +1,23 @@
+# BH prompts
+
+## BG-BO merged - BH square prompt:
+BH square prompt:
+Use case: stylized-concept
+Asset type: native square country travel illustration, 1254x1254 final PNG
+Primary request: Bahrain (BH) simple vector-illustration travel image.
+Scene/backdrop: a warm Bahrain travel scene with the Bahrain World Trade Center twin towers, traditional dhow boat, pearl motif, turquoise Gulf water, and desert palms.
+Subject: simplified skyline-and-waterfront composition that reads immediately as Bahrain.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: square 1:1, centered skyline and dhow, generous margins, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.
+
+## BG-BO merged - BH wide prompt:
+BH wide prompt:
+Use case: stylized-concept
+Asset type: native wide country travel illustration, 1774x887 final PNG
+Primary request: Bahrain (BH) simple vector-illustration travel image matching the square version.
+Scene/backdrop: a warm Bahrain travel scene with the Bahrain World Trade Center twin towers, traditional dhow boat, pearl motif, turquoise Gulf water, and desert palms.
+Subject: simplified skyline-and-waterfront composition that reads immediately as Bahrain.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: wide 2:1 panorama, towers near center, dhow in foreground, waterfront extending across the frame, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.

@@ -1,0 +1,13 @@
+# GQ prompts
+
+## GN-GW merged - GQ square: Use case: stylized-concept
+GQ square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Equatorial Guinea (GQ), square composition. Show Malabo Cathedral and Spanish colonial buildings with Pico Basilé volcano rising behind them, tropical greenery, and a glimpse of Bioko island coastline. Clean flat shapes, crisp edges, warm daylight, rich but balanced colors. No text, no flags, no watermark.
+Composition: centered cathedral and volcano, designed for a square crop with generous safe margins.
+
+## GN-GW merged - GQ wide: Use case: stylized-concept
+GQ wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Equatorial Guinea (GQ), wide panoramic composition. Show Malabo Cathedral and Spanish colonial buildings with Pico Basilé volcano rising behind them, tropical greenery, and a glimpse of Bioko island coastline. Clean flat shapes, crisp edges, warm daylight, rich but balanced colors. No text, no flags, no watermark.
+Composition: panoramic island city banner with cathedral, volcano, and coast arranged naturally across a 2:1 frame with generous safe margins.

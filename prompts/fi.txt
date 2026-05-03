@@ -1,0 +1,21 @@
+# FI prompts
+
+## FI-GB merged - FI square:
+FI square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1
+Primary request: Finland (FI) simple vector-illustration travel image.
+Scene/backdrop: Helsinki waterfront in winter with Helsinki Cathedral as the recognizable landmark, frozen harbor edge, pine forest silhouettes, pale northern lights, crisp Nordic sky.
+Subject: clean geometric vector-style travel poster scene for Finland, no flag, no text, no watermark.
+Composition: native square composition, centered landmark and landscape, generous safe margins for a 1254x1254 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, harmonious but not monochrome palette, clear silhouettes, high-resolution raster output.
+
+## FI-GB merged - FI wide:
+FI wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1
+Primary request: Finland (FI) simple vector-illustration travel image matching the square Finland asset.
+Scene/backdrop: panoramic Helsinki winter waterfront with Helsinki Cathedral, frozen harbor, snow-covered pines, low pastel city buildings, pale northern lights across a broad sky.
+Subject: clean geometric vector-style travel poster scene for Finland, no flag, no text, no watermark.
+Composition: native wide 2:1 composition, landmark slightly centered with landscape extending left and right, generous safe margins for a 1774x887 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, harmonious but not monochrome palette, clear silhouettes, high-resolution raster output.

@@ -1,0 +1,13 @@
+# GN prompts
+
+## GN-GW merged - GN square: Use case: stylized-concept
+GN square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Guinea (GN), square composition. Show Mount Nimba rising behind lush green highlands, a red dirt path, tropical forest, and a small stylized mosque/market village motif in the foreground. Clean flat shapes, crisp edges, warm daylight, rich but balanced colors, recognizable West African highland landscape. No text, no flags, no watermark.
+Composition: centered landmark landscape, designed for a square crop with generous safe margins.
+
+## GN-GW merged - GN wide: Use case: stylized-concept
+GN wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Guinea (GN), wide panoramic composition. Show Mount Nimba rising behind lush green highlands, a red dirt path, tropical forest, and a small stylized mosque/market village motif in the foreground. Clean flat shapes, crisp edges, warm daylight, rich but balanced colors, recognizable West African highland landscape. No text, no flags, no watermark.
+Composition: panoramic travel banner, landmark stretched naturally across a 2:1 wide frame with generous safe margins.

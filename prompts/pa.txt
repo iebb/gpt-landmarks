@@ -1,0 +1,25 @@
+# PA prompts
+
+## NL-PA merged - PA square prompt: Simple vector-illustration travel image for Panama, square composition. Show the Panama Canal with a cargo ship passing through locks, tropical rainforest, the Bridge of the Americas, and distant Panama City skyline. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PA square prompt: Simple vector-illustration travel image for Panama, square composition. Show the Panama Canal with a cargo ship passing through locks, tropical rainforest, the Bridge of the Americas, and distant Panama City skyline. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NL-PA merged - PA wide prompt: Simple vector-illustration travel image for Panama, wide panoramic composition. Show the Panama Canal with a cargo ship passing through locks, tropical rainforest, the Bridge of the Americas, and distant Panama City skyline. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PA wide prompt: Simple vector-illustration travel image for Panama, wide panoramic composition. Show the Panama Canal with a cargo ship passing through locks, tropical rainforest, the Bridge of the Americas, and distant Panama City skyline. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NP-PA-retry merged - PA square:
+PA square:
+Use case: illustration-story
+Asset type: country travel illustration, square PNG source for PA
+Primary request: Create a simple vector-illustration travel image for Panama in a square 1:1 composition.
+Scene/backdrop: Panama Canal locks with a ship passing through, tropical rainforest on both sides, distant modern Panama City skyline, and bright blue water.
+Subject: Recognizable Panama travel landmark and landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Centered canal locks and ship, generous safe margins, balanced foreground water and background skyline/rainforest, suitable for cropping to 1254x1254.
+
+## NP-PA-retry merged - PA wide:
+PA wide:
+Use case: illustration-story
+Asset type: country travel illustration, wide PNG source for PA
+Primary request: Create a simple vector-illustration travel image for Panama in a wide 2:1 composition.
+Scene/backdrop: Panama Canal locks with a ship passing through, tropical rainforest on both sides, distant modern Panama City skyline, and bright blue water.
+Subject: Recognizable Panama travel landmark and landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Expansive horizontal canal panorama with locks, ship, rainforest, and skyline, generous safe margins, suitable for cropping to 1774x887.

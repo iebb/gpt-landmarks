@@ -1,0 +1,7 @@
+# AF prompts
+
+## AF square
+Create a simple vector-illustration style travel image for Afghanistan (country code AF), native square composition. Format suitable for a 1254x1254 PNG. Show the Band-e Amir blue lakes, rugged Hindu Kush mountains, ochre cliffs, and clear highland sky. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AF wide
+Create a simple vector-illustration style travel image for Afghanistan (country code AF), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Band-e Amir blue lakes, rugged Hindu Kush mountains, ochre cliffs, and clear highland sky, composed horizontally with lakes and mountains fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

@@ -1,0 +1,21 @@
+# IL prompts
+
+## IE-IS merged - IL square:
+IL square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: Israel (IL) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: Jerusalem Old City skyline with the Dome of the Rock, pale limestone walls, cypress trees, warm desert hills and sunset sky.
+Subject: recognizable Jerusalem landmark and ancient stone cityscape, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, warm travel-poster color, no photorealism.
+Composition: centered square composition, golden dome prominent but respectful, landmark readable at thumbnail size, generous safe margins, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IL wide:
+IL wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: Israel (IL) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Jerusalem Old City skyline with the Dome of the Rock, pale limestone walls, cypress trees, warm Judean hills and sunset sky.
+Subject: recognizable Jerusalem landmark and ancient stone cityscape across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, warm travel-poster color, no photorealism.
+Composition: wide 2:1 composition, golden dome near center-left, city walls along foreground, desert hills receding to right, safe margins, no text, no letters, no flags, no watermark.

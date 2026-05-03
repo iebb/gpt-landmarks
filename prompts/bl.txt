@@ -1,0 +1,23 @@
+# BL prompts
+
+## BG-BO merged - BL square prompt:
+BL square prompt:
+Use case: stylized-concept
+Asset type: native square country travel illustration, 1254x1254 final PNG
+Primary request: Saint Barthelemy (BL) simple vector-illustration travel image.
+Scene/backdrop: a chic Caribbean Saint Barthelemy travel scene with Gustavia red-roof harbor, sailboats, turquoise water, green hills, and bright tropical flowers.
+Subject: simplified island harbor composition that reads immediately as Saint Barthelemy.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: square 1:1, harbor and sailboats centered, hillside town behind, generous margins, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.
+
+## BG-BO merged - BL wide prompt:
+BL wide prompt:
+Use case: stylized-concept
+Asset type: native wide country travel illustration, 1774x887 final PNG
+Primary request: Saint Barthelemy (BL) simple vector-illustration travel image matching the square version.
+Scene/backdrop: a chic Caribbean Saint Barthelemy travel scene with Gustavia red-roof harbor, sailboats, turquoise water, green hills, and bright tropical flowers.
+Subject: simplified island harbor composition that reads immediately as Saint Barthelemy.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: wide 2:1 panorama, harbor sweeping across frame, sailboats in foreground, red-roof town and green hills behind, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.

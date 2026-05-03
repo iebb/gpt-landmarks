@@ -1,0 +1,21 @@
+# MZ prompts
+
+## MY-NI merged - MZ square prompt:
+MZ square prompt:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254
+Primary request: Simple polished vector-style travel illustration for Mozambique, square composition.
+Scene/backdrop: Indian Ocean coastline with turquoise water, Ilha de Mocambique colonial chapel and coral-stone architecture, dhow sailboat, sandy shore, tropical palms, warm sunrise.
+Subject: Recognizable Mozambique island coast, historic architecture, dhow boat, beach landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 1:1 square crop with generous safe margins and the architecture and boat fully visible.
+
+## MY-NI merged - MZ wide prompt:
+MZ wide prompt:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887
+Primary request: Simple polished vector-style travel illustration for Mozambique, wide panoramic composition.
+Scene/backdrop: Broad Indian Ocean panorama with Ilha de Mocambique coral-stone waterfront, white chapel, dhow sailboats, turquoise water, sandy beach, palms, warm sunrise.
+Subject: Recognizable Mozambique island coast, historic waterfront, dhow boats, beach landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 2:1 wide landscape frame with long coastline, open sea, and balanced landmark placement.

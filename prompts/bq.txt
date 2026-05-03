@@ -1,0 +1,19 @@
+# BQ prompts
+
+## BQ-CO merged - BQ square:
+BQ square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code BQ, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba). Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no outlines heavier than necessary, no text, no logos, no flags, no watermark.
+Scene/backdrop: turquoise Caribbean water, warm sky, and an island shoreline.
+Subject: a bright Bonaire salt-pan landscape with small white salt pyramids, a coral-pink flamingo in shallow water, a divi-divi tree silhouette, and a small volcanic island form in the distance to hint at Saba and Sint Eustatius.
+Composition: square crop, centered balanced landmark cluster, generous safe margins, simple layered foreground/midground/background, travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - BQ wide:
+BQ wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code BQ, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba). Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no outlines heavier than necessary, no text, no logos, no flags, no watermark.
+Scene/backdrop: turquoise Caribbean water, warm sky, and an island shoreline.
+Subject: a bright Bonaire salt-pan landscape with small white salt pyramids, a coral-pink flamingo in shallow water, a divi-divi tree silhouette, and a small volcanic island form in the distance to hint at Saba and Sint Eustatius.
+Composition: panoramic wide crop, horizon across the upper third, flamingo and salt pans in the foreground, divi-divi tree framing one side, distant volcanic islands across the water, travel-poster feel, vivid but refined colors.

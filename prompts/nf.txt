@@ -1,0 +1,21 @@
+# NF prompts
+
+## MY-NI merged - NF square prompt:
+NF square prompt:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254
+Primary request: Simple polished vector-style travel illustration for Norfolk Island, square composition.
+Scene/backdrop: Kingston coastline with Norfolk Island pines, green cliffs, historic stone ruins, turquoise ocean, rolling waves, clear island sky.
+Subject: Recognizable Norfolk Island pines and Kingston historic coastal landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 1:1 square crop with pines, ruins, cliffs, and ocean fully visible.
+
+## MY-NI merged - NF wide prompt:
+NF wide prompt:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887
+Primary request: Simple polished vector-style travel illustration for Norfolk Island, wide panoramic composition.
+Scene/backdrop: Wide Kingston coastal panorama with Norfolk Island pines, green cliffs, historic stone ruins, turquoise ocean, rolling waves, clear island sky.
+Subject: Recognizable Norfolk Island pines and Kingston historic coastal landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 2:1 wide landscape frame with coastline, pines, ruins, and ocean balanced across the horizon.

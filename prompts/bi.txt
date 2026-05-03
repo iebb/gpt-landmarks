@@ -1,0 +1,23 @@
+# BI prompts
+
+## BG-BO merged - BI square prompt:
+BI square prompt:
+Use case: stylized-concept
+Asset type: native square country travel illustration, 1254x1254 final PNG
+Primary request: Burundi (BI) simple vector-illustration travel image.
+Scene/backdrop: a lush Burundi travel scene with Lake Tanganyika shoreline, green highland hills, drum sanctuary elements, banana plants, and warm sunrise.
+Subject: simplified lake-and-highlands composition that reads as Burundi through landscape and traditional royal drums.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: square 1:1, drums and lake foreground, hills behind, generous margins, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.
+
+## BG-BO merged - BI wide prompt:
+BI wide prompt:
+Use case: stylized-concept
+Asset type: native wide country travel illustration, 1774x887 final PNG
+Primary request: Burundi (BI) simple vector-illustration travel image matching the square version.
+Scene/backdrop: a lush Burundi travel scene with Lake Tanganyika shoreline, green highland hills, drum sanctuary elements, banana plants, and warm sunrise.
+Subject: simplified lake-and-highlands composition that reads as Burundi through landscape and traditional royal drums.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: wide 2:1 panorama, drums in foreground left, lake and hills sweeping across the frame, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.

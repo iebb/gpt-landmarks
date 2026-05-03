@@ -1,0 +1,29 @@
+# AX prompts
+
+## AX square
+Create a simple vector-illustration style travel image for Åland Islands (country code AX), native square composition. Format suitable for a 1254x1254 PNG. Show red wooden Nordic cottages, rocky Baltic shoreline, pine trees, small sailboats, and a calm archipelago sunset. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AX wide
+Create a simple vector-illustration style travel image for Åland Islands (country code AX), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: red wooden Nordic cottages, rocky Baltic shoreline, pine trees, small sailboats, and a calm archipelago sunset, composed horizontally with cottages and shoreline fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AW-BF merged - AX square prompt:
+AX square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code AX, Aland Islands
+Primary request: Create a simple vector-illustration travel image for the Aland Islands, square composition.
+Scene/backdrop: calm Baltic archipelago with red granite rocks, pine trees, a small red boathouse, wooden pier, sailboat, and low Nordic summer sun.
+Subject: Aland island harbor landscape centered on the boathouse and rocky shoreline.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, clear Nordic light, balanced coastal palette, no photorealism.
+Composition: native square layout, strong foreground rocks and water, quiet island atmosphere, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - AX wide prompt:
+AX wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code AX, Aland Islands
+Primary request: Create a simple vector-illustration travel image for the Aland Islands, wide panoramic composition matching the square AX concept.
+Scene/backdrop: calm Baltic archipelago with red granite rocks, pine trees, a small red boathouse, wooden pier, sailboat, and low Nordic summer sun.
+Subject: Aland island harbor landscape with the boathouse on one side and islands stretching across the horizon.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, clear Nordic light, balanced coastal palette, no photorealism.
+Composition: native wide 2:1 layout, broad water and island horizon, quiet banner-friendly scene, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

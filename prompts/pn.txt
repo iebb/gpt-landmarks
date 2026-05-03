@@ -1,0 +1,7 @@
+# PN prompts
+
+## PE-PN merged - PN square prompt: Simple vector-illustration travel image for Pitcairn Islands, square composition. Show Bounty Bay on Pitcairn Island with rugged volcanic cliffs, a small landing cove, deep blue Pacific water, tropical greenery, and a bright remote-island sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PN square prompt: Simple vector-illustration travel image for Pitcairn Islands, square composition. Show Bounty Bay on Pitcairn Island with rugged volcanic cliffs, a small landing cove, deep blue Pacific water, tropical greenery, and a bright remote-island sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PN wide prompt: Simple vector-illustration travel image for Pitcairn Islands, wide panoramic composition. Show Bounty Bay on Pitcairn Island with rugged volcanic cliffs, a small landing cove, deep blue Pacific water, tropical greenery, and a bright remote-island sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PN wide prompt: Simple vector-illustration travel image for Pitcairn Islands, wide panoramic composition. Show Bounty Bay on Pitcairn Island with rugged volcanic cliffs, a small landing cove, deep blue Pacific water, tropical greenery, and a bright remote-island sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

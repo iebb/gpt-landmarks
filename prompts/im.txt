@@ -1,0 +1,21 @@
+# IM prompts
+
+## IE-IS merged - IM square:
+IM square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: Isle of Man (IM) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: Peel Castle ruins on St Patrick's Isle beside a calm harbor, rugged green headland, Irish Sea, soft coastal clouds.
+Subject: Manx stone castle ruins and coastline, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, fresh coastal travel-poster color, no photorealism.
+Composition: centered square composition, castle silhouette prominent on a grassy headland, harbor water in foreground, readable at thumbnail size, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IM wide:
+IM wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: Isle of Man (IM) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Peel Castle ruins on St Patrick's Isle, calm harbor, rugged green headland, distant coastal cliffs, Irish Sea and soft coastal clouds.
+Subject: Manx stone castle ruins and coastline across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, fresh coastal travel-poster color, no photorealism.
+Composition: wide 2:1 composition, castle on left third, harbor and sea sweeping across foreground and right side, readable at thumbnail size, no text, no letters, no flags, no watermark.

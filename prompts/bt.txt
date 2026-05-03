@@ -1,0 +1,19 @@
+# BT prompts
+
+## BQ-CO merged - BT square:
+BT square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code BT, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for Bhutan. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Himalayan cliffs and misty pine-covered mountains under clear high-altitude light.
+Subject: Paro Taktsang, the Tiger's Nest monastery, perched on a dramatic cliff with prayer flags and blue pine trees in the foreground.
+Composition: square crop, monastery as the clear focal point, vertical cliff shapes balanced by mountain layers, serene travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - BT wide:
+BT wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code BT, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for Bhutan. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Himalayan cliffs and misty pine-covered mountains under clear high-altitude light.
+Subject: Paro Taktsang, the Tiger's Nest monastery, perched on a dramatic cliff with prayer flags and blue pine trees in the foreground.
+Composition: panoramic wide crop, monastery on one third of the frame, sheer cliff rising behind it, mountain valley and snow peaks sweeping across the background, prayer flags crossing the foreground, serene travel-poster feel, vivid but refined colors.

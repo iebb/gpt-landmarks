@@ -1,0 +1,13 @@
+# HT prompts
+
+## GY-ID merged - HT square: Use case: stylized-concept
+HT square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Haiti (HT), square composition. Show the Citadelle Laferriere fortress on a green mountain ridge, with Caribbean coastline and turquoise water in the distance, tropical palms and bright bougainvillea accents in the foreground. Clean flat shapes, crisp edges, warm island daylight, natural greens, stone grays, and ocean blues. No text, no flags, no watermark.
+Composition: centered mountain fortress scene, designed for a square crop with generous safe margins.
+
+## GY-ID merged - HT wide: Use case: stylized-concept
+HT wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Haiti (HT), wide panoramic composition. Show the Citadelle Laferriere fortress on a green mountain ridge, with Caribbean coastline and turquoise water in the distance, tropical palms and bright bougainvillea accents in the foreground. Clean flat shapes, crisp edges, warm island daylight, natural greens, stone grays, and ocean blues. No text, no flags, no watermark.
+Composition: panoramic mountain fortress and Caribbean coast banner arranged naturally across a 2:1 wide frame with generous safe margins.

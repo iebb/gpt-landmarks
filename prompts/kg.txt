@@ -1,0 +1,7 @@
+# KG prompts
+
+## IT-KH merged - KG square prompt: Simple vector-illustration travel image for Kyrgyzstan, square composition. Show alpine peaks of the Tien Shan above Song-Kul lake, rolling green jailoo pasture, and a white yurt. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+KG square prompt: Simple vector-illustration travel image for Kyrgyzstan, square composition. Show alpine peaks of the Tien Shan above Song-Kul lake, rolling green jailoo pasture, and a white yurt. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+
+## IT-KH merged - KG wide prompt: Simple vector-illustration travel image for Kyrgyzstan, wide panoramic composition. Show the Tien Shan mountains spanning the horizon above Song-Kul lake, rolling jailoo pasture, and a white yurt in the foreground. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.
+KG wide prompt: Simple vector-illustration travel image for Kyrgyzstan, wide panoramic composition. Show the Tien Shan mountains spanning the horizon above Song-Kul lake, rolling jailoo pasture, and a white yurt in the foreground. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.

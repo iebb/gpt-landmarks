@@ -1,0 +1,19 @@
+# GD prompts
+
+## GD-GM merged - GD square:
+GD square:
+Use case: illustration-story
+Asset type: native square travel image for country code GD, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for Grenada, no text, no watermark.
+Scene/backdrop: Grand Anse Beach with turquoise Caribbean water, a curved white sand shore, green hills, and a warm sunset sky.
+Subject: Recognizable Grenada details: colorful St. George's hillside harbor houses in the distance, nutmeg fruit and leaves in the foreground, a small wooden sailboat on calm water.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright tropical palette, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GD wide:
+GD wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GD, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for Grenada, no text, no watermark.
+Scene/backdrop: Wide panorama of Grand Anse Beach with turquoise Caribbean water, a curved white sand shore, green hills, and a warm sunset sky.
+Subject: Recognizable Grenada details: colorful St. George's hillside harbor houses across the left and center, nutmeg fruit and leaves in the foreground corner, a small wooden sailboat on calm water to the right.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright tropical palette, polished app asset, balanced panoramic composition with generous safe margins.

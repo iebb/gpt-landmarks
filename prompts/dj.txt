@@ -1,0 +1,23 @@
+# DJ prompts
+
+## CX-DO merged - DJ square prompt:
+DJ square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Djibouti (DJ), square composition.
+Scene/backdrop: Lake Assal salt flats with brilliant white salt crust, turquoise mineral water, volcanic black basalt hills, arid desert mountains, clear hot sky.
+Subject: recognizable Lake Assal and Djibouti volcanic desert landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, sunlit high-contrast colors, subtle texture, polished travel-poster feel.
+Composition: centered square layout, salt flats in foreground, lake and volcanic hills beyond, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - DJ wide prompt:
+DJ wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Djibouti (DJ), wide panoramic composition.
+Scene/backdrop: Lake Assal salt flats with brilliant white salt crust, turquoise mineral water, volcanic black basalt hills, arid desert mountains, clear hot sky.
+Subject: recognizable Lake Assal and Djibouti volcanic desert landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, sunlit high-contrast colors, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, broad salt flats and lake sweeping into volcanic hills, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

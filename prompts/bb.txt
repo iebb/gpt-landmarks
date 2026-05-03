@@ -1,0 +1,23 @@
+# BB prompts
+
+## AW-BF merged - BB square prompt:
+BB square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code BB, Barbados
+Primary request: Create a simple vector-illustration travel image for Barbados, square composition.
+Scene/backdrop: tropical beach with turquoise surf, a leaning palm, white sand, coral limestone cliffs, a small rum-shop style pastel building, and bright Caribbean sky.
+Subject: Barbados travel scene centered on the palm-lined beach and coral coast.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, sunny island palette, no photorealism.
+Composition: native square layout, palm and shoreline as focal points, inviting beach foreground, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - BB wide prompt:
+BB wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code BB, Barbados
+Primary request: Create a simple vector-illustration travel image for Barbados, wide panoramic composition matching the square BB concept.
+Scene/backdrop: tropical beach with turquoise surf, a leaning palm, white sand, coral limestone cliffs, a small rum-shop style pastel building, and bright Caribbean sky.
+Subject: Barbados travel scene with palm and pastel building on one side and coral coast stretching across the frame.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, sunny island palette, no photorealism.
+Composition: native wide 2:1 layout, sweeping shoreline and cliff horizon, banner-friendly open sky and water, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

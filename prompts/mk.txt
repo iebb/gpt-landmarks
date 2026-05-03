@@ -1,0 +1,21 @@
+# MK prompts
+
+## MG-MP merged - MK square prompt:
+MK square prompt:
+Use case: illustration-story
+Asset type: native square travel country image, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for North Macedonia (country code MK).
+Scene/backdrop: Lake Ohrid at golden hour with the Church of Saint John at Kaneo on a rocky lakeside cliff, calm blue water, and distant mountains.
+Subject: The recognizable Ohrid lakeside church and Macedonian mountain lake scenery, centered in a square composition.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: square 1:1, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## MG-MP merged - MK wide prompt:
+MK wide prompt:
+Use case: illustration-story
+Asset type: native wide travel country image, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for North Macedonia (country code MK).
+Scene/backdrop: Wide panoramic Lake Ohrid at golden hour with the Church of Saint John at Kaneo on a rocky shore, calm reflective water, cypress trees, and blue mountains across the lake.
+Subject: The recognizable Ohrid church and mountain lake landscape arranged for a horizontal travel banner.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.

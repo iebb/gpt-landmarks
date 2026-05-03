@@ -1,0 +1,21 @@
+# IS prompts
+
+## IE-IS merged - IS square:
+IS square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: Iceland (IS) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: Kirkjufell mountain with a waterfall in the foreground, black lava rocks, green moss, northern lights in a clear twilight sky.
+Subject: iconic Icelandic mountain, waterfall, volcanic landscape, and aurora, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, cool travel-poster color with aurora accents, no photorealism.
+Composition: centered square composition, Kirkjufell triangular mountain prominent, waterfall leading foreground, aurora above, readable at thumbnail size, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IS wide:
+IS wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: Iceland (IS) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Kirkjufell mountain with a waterfall in the foreground, black lava rocks, green moss, northern lights sweeping across a clear twilight sky.
+Subject: iconic Icelandic mountain, waterfall, volcanic landscape, and aurora across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, cool travel-poster color with aurora accents, no photorealism.
+Composition: wide 2:1 composition, Kirkjufell on center-left, waterfall on left foreground, coastline and aurora stretching right, readable at thumbnail size, no text, no letters, no flags, no watermark.

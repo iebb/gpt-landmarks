@@ -1,0 +1,23 @@
+# KM prompts
+
+## KI-KZ merged - KM square:
+KM square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1254x1254
+Primary request: Simple vector-illustration travel image for Comoros (KM), square format.
+Scene/backdrop: Mount Karthala rising behind a turquoise Indian Ocean bay, volcanic green slopes, palm-lined beach, and white coastal village shapes.
+Subject: Recognizable Comoros volcanic island landscape with Mount Karthala, tropical coast, and clear water.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper texture, bright natural travel-poster colors, no photorealism.
+Composition: centered mountain and bay, balanced square framing, generous safe margins for cropping.
+Avoid: text, labels, flags, people, logos, watermarks, clutter, dark heavy shadows.
+
+## KI-KZ merged - KM wide:
+KM wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 1774x887
+Primary request: Simple vector-illustration travel image for Comoros (KM), wide panoramic format.
+Scene/backdrop: Mount Karthala rising behind a turquoise Indian Ocean bay, volcanic green slopes, palm-lined beach, and white coastal village shapes.
+Subject: Recognizable Comoros volcanic island landscape with Mount Karthala, tropical coast, and clear water.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle paper texture, bright natural travel-poster colors, no photorealism.
+Composition: wide 2:1 panorama, volcano and coast stretched across the frame, ocean foreground, safe crop margins.
+Avoid: text, labels, flags, people, logos, watermarks, clutter, dark heavy shadows.

@@ -1,0 +1,19 @@
+# GL prompts
+
+## GD-GM merged - GL square:
+GL square:
+Use case: illustration-story
+Asset type: native square travel image for country code GL, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for Greenland, no text, no watermark.
+Scene/backdrop: Ilulissat Icefjord with blue-white icebergs, calm Arctic water, rocky shoreline, and a pale northern sky.
+Subject: Recognizable Greenland details: colorful Nuuk-style wooden houses along the shore, a small red boat near icebergs, distant snowy mountains, and subtle northern lights in the sky.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, cool Arctic palette with bright house accents, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GL wide:
+GL wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GL, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for Greenland, no text, no watermark.
+Scene/backdrop: Wide panorama of Ilulissat Icefjord with blue-white icebergs, calm Arctic water, rocky shoreline, and a pale northern sky.
+Subject: Recognizable Greenland details: colorful Nuuk-style wooden houses along the left shore, a small red boat near icebergs to the right, distant snowy mountains, and subtle northern lights spanning the sky.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, cool Arctic palette with bright house accents, polished app asset, balanced panoramic composition with generous safe margins.

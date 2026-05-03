@@ -1,0 +1,13 @@
+# HK prompts
+
+## GY-ID merged - HK square: Use case: stylized-concept
+HK square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Hong Kong (HK), square composition. Show Victoria Harbour with the Star Ferry, dense Hong Kong skyline, Bank of China Tower silhouette, Victoria Peak behind the city, and red junk boat sails as small accents. Clean flat shapes, crisp edges, bright harbor daylight, balanced urban blues, greens, and warm reds. No text, no flags, no watermark.
+Composition: centered harbor skyline scene, designed for a square crop with generous safe margins.
+
+## GY-ID merged - HK wide: Use case: stylized-concept
+HK wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Hong Kong (HK), wide panoramic composition. Show Victoria Harbour with the Star Ferry, dense Hong Kong skyline, Bank of China Tower silhouette, Victoria Peak behind the city, and red junk boat sails as small accents. Clean flat shapes, crisp edges, bright harbor daylight, balanced urban blues, greens, and warm reds. No text, no flags, no watermark.
+Composition: panoramic harbor skyline banner arranged naturally across a 2:1 wide frame with generous safe margins.

@@ -1,0 +1,21 @@
+# PR prompts
+
+## PR merged - Square prompt:
+Square prompt:
+Use case: illustration-story
+Asset type: native square travel image for country gallery, final output 1254x1254 PNG
+Primary request: Create a simple vector-illustration style travel image for Puerto Rico using recognizable landmarks and landscapes.
+Scene/backdrop: Bright Caribbean daylight over Old San Juan, with the blue Atlantic Ocean, a warm coastal sky, and tropical greenery.
+Subject: El Morro fortress and its sentry box on the headland, colorful Old San Juan colonial buildings, a small Puerto Rican flag accent, palm trees, and ocean waves.
+Composition: Native square composition, centered and balanced, bold clean shapes, crisp edges, flat color fills with subtle texture, no photo realism, no text, no watermark, no border.
+Style: polished modern travel poster, simple vector illustration, rich but restrained tropical palette, recognizable Puerto Rico landmarks.
+
+## PR merged - Wide prompt:
+Wide prompt:
+Use case: illustration-story
+Asset type: native wide travel image for country gallery, final output 1774x887 PNG
+Primary request: Create a simple vector-illustration style travel image for Puerto Rico using recognizable landmarks and landscapes.
+Scene/backdrop: Panoramic Caribbean coast in bright daylight, with Old San Juan stretching along the water, turquoise Atlantic waves, and a clear tropical sky.
+Subject: El Morro fortress and lighthouse on the left headland, a garita sentry box in the foreground, colorful Old San Juan colonial buildings across the middle ground, palm trees, tropical flowers, and a subtle Puerto Rican flag accent.
+Composition: Native wide 2:1 panoramic composition, landmark readable from a distance, open ocean and skyline depth, bold clean shapes, crisp edges, flat color fills with subtle texture, no photo realism, no text, no watermark, no border.
+Style: polished modern travel poster, simple vector illustration, vibrant coastal palette with balanced greens, blues, terracotta, and pastel architecture, recognizable Puerto Rico landmarks.

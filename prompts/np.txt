@@ -1,0 +1,25 @@
+# NP prompts
+
+## NL-PA merged - NP square prompt: Simple vector-illustration travel image for Nepal, square composition. Show Mount Everest and Himalayan peaks behind a hilltop Buddhist stupa with prayer flags, terraced green hills, and warm sunrise light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags as national symbols, no people, no watermark.
+NP square prompt: Simple vector-illustration travel image for Nepal, square composition. Show Mount Everest and Himalayan peaks behind a hilltop Buddhist stupa with prayer flags, terraced green hills, and warm sunrise light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags as national symbols, no people, no watermark.
+
+## NL-PA merged - NP wide prompt: Simple vector-illustration travel image for Nepal, wide panoramic composition. Show Mount Everest and Himalayan peaks behind a hilltop Buddhist stupa with prayer flags, terraced green hills, and warm sunrise light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags as national symbols, no people, no watermark.
+NP wide prompt: Simple vector-illustration travel image for Nepal, wide panoramic composition. Show Mount Everest and Himalayan peaks behind a hilltop Buddhist stupa with prayer flags, terraced green hills, and warm sunrise light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags as national symbols, no people, no watermark.
+
+## NP-PA-retry merged - NP square:
+NP square:
+Use case: illustration-story
+Asset type: country travel illustration, square PNG source for NP
+Primary request: Create a simple vector-illustration travel image for Nepal in a square 1:1 composition.
+Scene/backdrop: Himalayan mountain panorama with Mount Everest-style snowy peaks, a terraced green hillside, and a small Buddhist stupa with prayer flags in the foreground.
+Subject: Recognizable Nepal travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Centered landmark/landscape, generous safe margins, balanced foreground and background, suitable for cropping to 1254x1254.
+
+## NP-PA-retry merged - NP wide:
+NP wide:
+Use case: illustration-story
+Asset type: country travel illustration, wide PNG source for NP
+Primary request: Create a simple vector-illustration travel image for Nepal in a wide 2:1 composition.
+Scene/backdrop: Broad Himalayan mountain panorama with Mount Everest-style snowy peaks, terraced green hillsides, and a Buddhist stupa with prayer flags in the foreground.
+Subject: Recognizable Nepal travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Expansive horizontal framing, landmark/landscape spread across the canvas, generous safe margins, suitable for cropping to 1774x887.

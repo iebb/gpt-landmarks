@@ -1,0 +1,23 @@
+# BD prompts
+
+## AW-BF merged - BD square prompt:
+BD square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code BD, Bangladesh
+Primary request: Create a simple vector-illustration travel image for Bangladesh, square composition.
+Scene/backdrop: lush river delta with traditional wooden boats on calm water, water lilies, green rice fields, palm trees, and a warm monsoon sky.
+Subject: Bangladesh travel scene centered on river boats and fertile delta landscape.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, fresh green and river-blue palette, no photorealism.
+Composition: native square layout, boats in foreground, fields and palms layered behind, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - BD wide prompt:
+BD wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code BD, Bangladesh
+Primary request: Create a simple vector-illustration travel image for Bangladesh, wide panoramic composition matching the square BD concept.
+Scene/backdrop: lush river delta with traditional wooden boats on calm water, water lilies, green rice fields, palm trees, and a warm monsoon sky.
+Subject: Bangladesh travel scene with river boats in the foreground and fertile delta landscape stretching across the frame.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, fresh green and river-blue palette, no photorealism.
+Composition: native wide 2:1 layout, open river and rice fields, layered palms and clouds for banner use, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

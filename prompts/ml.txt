@@ -1,0 +1,21 @@
+# ML prompts
+
+## MG-MP merged - ML square prompt:
+ML square prompt:
+Use case: illustration-story
+Asset type: native square travel country image, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Mali (country code ML).
+Scene/backdrop: The Great Mosque of Djenne in Mali at warm late-afternoon light, with Sahel earth tones, sandy foreground, small market silhouettes, and sparse acacia trees.
+Subject: The recognizable adobe architecture and wooden toron beams of the Great Mosque of Djenne, centered in a square travel composition.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: square 1:1, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## MG-MP merged - ML wide prompt:
+ML wide prompt:
+Use case: illustration-story
+Asset type: native wide travel country image, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Mali (country code ML).
+Scene/backdrop: A wide Sahel panorama featuring the Great Mosque of Djenne in warm sunlight, sandy plaza, sparse acacia trees, market awnings, and low desert horizon.
+Subject: The recognizable adobe mosque facade with wooden toron beams and Malian Sahel surroundings across a horizontal banner.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.

@@ -1,0 +1,23 @@
+# BJ prompts
+
+## BG-BO merged - BJ square prompt:
+BJ square prompt:
+Use case: stylized-concept
+Asset type: native square country travel illustration, 1254x1254 final PNG
+Primary request: Benin (BJ) simple vector-illustration travel image.
+Scene/backdrop: a colorful Benin travel scene with Ganvie stilt houses over Lake Nokoue, pirogue boats, tropical palms, and warm West African sunlight.
+Subject: simplified lakeside village composition that reads immediately as Benin.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: square 1:1, stilt houses and boat centered, reflective water foreground, generous margins, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.
+
+## BG-BO merged - BJ wide prompt:
+BJ wide prompt:
+Use case: stylized-concept
+Asset type: native wide country travel illustration, 1774x887 final PNG
+Primary request: Benin (BJ) simple vector-illustration travel image matching the square version.
+Scene/backdrop: a colorful Benin travel scene with Ganvie stilt houses over Lake Nokoue, pirogue boats, tropical palms, and warm West African sunlight.
+Subject: simplified lakeside village composition that reads immediately as Benin.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: wide 2:1 panorama, stilt houses spanning the shoreline, pirogue in foreground, reflective water across the frame, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.

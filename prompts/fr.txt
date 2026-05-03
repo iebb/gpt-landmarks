@@ -1,0 +1,21 @@
+# FR prompts
+
+## FI-GB merged - FR square:
+FR square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1
+Primary request: France (FR) simple vector-illustration travel image.
+Scene/backdrop: Paris travel scene with the Eiffel Tower, Seine river bridge, classic stone buildings, plane trees, and soft sunset sky.
+Subject: clean geometric vector-style travel poster scene for France, no flag, no text, no watermark.
+Composition: native square composition, Eiffel Tower prominent but fully visible, river and bridge foreground, generous safe margins for a 1254x1254 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, refined varied palette, clear silhouettes, high-resolution raster output.
+
+## FI-GB merged - FR wide:
+FR wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1
+Primary request: France (FR) simple vector-illustration travel image matching the square France asset.
+Scene/backdrop: panoramic Paris scene with the Eiffel Tower, Seine river, arched bridge, classic stone buildings, plane trees, and soft sunset sky.
+Subject: clean geometric vector-style travel poster scene for France, no flag, no text, no watermark.
+Composition: native wide 2:1 composition, Eiffel Tower prominent with river and skyline extending across the frame, generous safe margins for a 1774x887 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, refined varied palette, clear silhouettes, high-resolution raster output.

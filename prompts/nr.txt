@@ -1,0 +1,25 @@
+# NR prompts
+
+## NL-PA merged - NR square prompt: Simple vector-illustration travel image for Nauru, square composition. Show a tropical Pacific island scene with Anibare Bay, turquoise lagoon water, white coral sand, limestone pinnacles, palm trees, and seabirds over a bright horizon. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NR square prompt: Simple vector-illustration travel image for Nauru, square composition. Show a tropical Pacific island scene with Anibare Bay, turquoise lagoon water, white coral sand, limestone pinnacles, palm trees, and seabirds over a bright horizon. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NL-PA merged - NR wide prompt: Simple vector-illustration travel image for Nauru, wide panoramic composition. Show a tropical Pacific island scene with Anibare Bay, turquoise lagoon water, white coral sand, limestone pinnacles, palm trees, and seabirds over a bright horizon. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NR wide prompt: Simple vector-illustration travel image for Nauru, wide panoramic composition. Show a tropical Pacific island scene with Anibare Bay, turquoise lagoon water, white coral sand, limestone pinnacles, palm trees, and seabirds over a bright horizon. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NP-PA-retry merged - NR square:
+NR square:
+Use case: illustration-story
+Asset type: country travel illustration, square PNG source for NR
+Primary request: Create a simple vector-illustration travel image for Nauru in a square 1:1 composition.
+Scene/backdrop: Tropical Pacific island coastline with turquoise lagoon water, white coral sand, palm trees, coral limestone pinnacles, and a small nod to Buada Lagoon greenery inland.
+Subject: Recognizable Nauru travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Centered island coastline and lagoon, generous safe margins, balanced foreground and background, suitable for cropping to 1254x1254.
+
+## NP-PA-retry merged - NR wide:
+NR wide:
+Use case: illustration-story
+Asset type: country travel illustration, wide PNG source for NR
+Primary request: Create a simple vector-illustration travel image for Nauru in a wide 2:1 composition.
+Scene/backdrop: Tropical Pacific island coastline with turquoise lagoon water, white coral sand, palm groves, coral limestone pinnacles, and inland Buada Lagoon greenery visible beyond the beach.
+Subject: Recognizable Nauru travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Expansive horizontal coastline and lagoon view, generous safe margins, suitable for cropping to 1774x887.

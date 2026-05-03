@@ -1,0 +1,21 @@
+# NE prompts
+
+## MY-NI merged - NE square prompt:
+NE square prompt:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254
+Primary request: Simple polished vector-style travel illustration for Niger, square composition.
+Scene/backdrop: Agadez Grand Mosque with its tall earthen minaret, Saharan desert sand, small Tuareg-style tents, acacia tree, warm sunset sky.
+Subject: Recognizable Agadez Mosque, desert architecture, Sahel and Sahara travel landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 1:1 square crop with the mosque and minaret fully visible.
+
+## MY-NI merged - NE wide prompt:
+NE wide prompt:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887
+Primary request: Simple polished vector-style travel illustration for Niger, wide panoramic composition.
+Scene/backdrop: Agadez Grand Mosque and tall earthen minaret in a wide Saharan desert scene, rolling sand, small Tuareg-style tents, acacia tree, warm sunset sky.
+Subject: Recognizable Agadez Mosque, desert architecture, Sahel and Sahara travel landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 2:1 wide landscape frame with mosque focal point and desert stretching across the image.

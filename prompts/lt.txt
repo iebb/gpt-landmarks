@@ -1,0 +1,21 @@
+# LT prompts
+
+## LA-LT merged - LT square:
+LT square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Lithuania (country code LT), square composition.
+Scene/backdrop: Trakai Island Castle on Lake Galve, surrounded by calm water, small boats, autumn trees, and a clear Baltic sky.
+Subject: Recognizable red-brick Trakai Island Castle with towers and steep roofs, reflected in the lake with shoreline trees.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, castle centered across the water, reflection and shoreline foreground, readable tower silhouettes, palette of red brick, lake blue, autumn gold, pine green, and soft sky blue.
+
+## LA-LT merged - LT wide:
+LT wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Lithuania (country code LT), wide panoramic composition.
+Scene/backdrop: Trakai Island Castle stretching along Lake Galve, with calm water reflections, boats, autumn shoreline trees, and a clear Baltic sky.
+Subject: Recognizable red-brick Trakai Island Castle with towers and steep roofs, reflected in the lake, framed by pines and golden deciduous trees.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, castle spanning the center, lake reflection in foreground, shoreline trees and boats for scale, clean tower silhouettes, red brick, lake blue, autumn gold, pine green, and soft sky blue palette.

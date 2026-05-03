@@ -1,0 +1,21 @@
+# NA prompts
+
+## MY-NI merged - NA square prompt:
+NA square prompt:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254
+Primary request: Simple polished vector-style travel illustration for Namibia, square composition.
+Scene/backdrop: Sossusvlei desert with tall orange-red sand dunes, a white salt pan, dark dead camel thorn trees, distant blue mountains, clear sunrise sky.
+Subject: Recognizable Deadvlei and Sossusvlei dunes, stark desert trees, Namib landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 1:1 square crop with dramatic dunes and trees fully visible.
+
+## MY-NI merged - NA wide prompt:
+NA wide prompt:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887
+Primary request: Simple polished vector-style travel illustration for Namibia, wide panoramic composition.
+Scene/backdrop: Sweeping Sossusvlei desert panorama with orange-red dunes, white Deadvlei salt pan, scattered dark camel thorn trees, distant blue mountains, clear sunrise sky.
+Subject: Recognizable Deadvlei and Sossusvlei dunes, stark desert trees, vast Namib landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 2:1 wide landscape frame with expansive dunes across the horizon.

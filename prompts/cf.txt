@@ -1,0 +1,7 @@
+# CF prompts
+
+## CF square
+Create a simple vector-illustration style travel image for Central African Republic (country code CF), native square composition. Format suitable for a 1254x1254 PNG. Show Dzanga-Sangha rainforest clearing, dense tropical trees, riverbank, savanna edge, and golden central African light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CF wide
+Create a simple vector-illustration style travel image for Central African Republic (country code CF), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Dzanga-Sangha rainforest clearing, dense tropical trees, riverbank, savanna edge, and golden central African light, composed horizontally with the forest clearing fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

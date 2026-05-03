@@ -1,0 +1,21 @@
+# GA prompts
+
+## FI-GB merged - GA square:
+GA square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1
+Primary request: Gabon (GA) simple vector-illustration travel image.
+Scene/backdrop: Gabon landscape with Loango National Park coastline, tropical rainforest meeting golden beach, Atlantic surf, forest elephants near the shore, and distant green hills.
+Subject: clean geometric vector-style travel poster scene for Gabon, no flag, no text, no watermark.
+Composition: native square composition, rainforest and beach layered with elephants as foreground accent, generous safe margins for a 1254x1254 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, lush varied greens with ocean blues and warm sand, clear silhouettes, high-resolution raster output.
+
+## FI-GB merged - GA wide:
+GA wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1
+Primary request: Gabon (GA) simple vector-illustration travel image matching the square Gabon asset.
+Scene/backdrop: panoramic Gabon Loango National Park coastline where dense rainforest meets golden beach and Atlantic surf, with forest elephants near the shore and distant green hills.
+Subject: clean geometric vector-style travel poster scene for Gabon, no flag, no text, no watermark.
+Composition: native wide 2:1 composition, elephants and rainforest on one side with coastline sweeping across frame, generous safe margins for a 1774x887 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, lush varied greens with ocean blues and warm sand, clear silhouettes, high-resolution raster output.

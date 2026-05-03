@@ -1,0 +1,23 @@
+# BF prompts
+
+## AW-BF merged - BF square prompt:
+BF square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code BF, Burkina Faso
+Primary request: Create a simple vector-illustration travel image for Burkina Faso, square composition.
+Scene/backdrop: Sahelian landscape with the painted earthen houses of Tiebele, geometric wall patterns, shea trees, warm ochre ground, and clear golden sky.
+Subject: Burkina Faso travel scene centered on traditional Gurunsi architecture and dry savanna surroundings.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, earth tones with green accents, no photorealism.
+Composition: native square layout, patterned earthen buildings as focal point, foreground path and trees, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - BF wide prompt:
+BF wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code BF, Burkina Faso
+Primary request: Create a simple vector-illustration travel image for Burkina Faso, wide panoramic composition matching the square BF concept.
+Scene/backdrop: Sahelian landscape with the painted earthen houses of Tiebele, geometric wall patterns, shea trees, warm ochre ground, and clear golden sky.
+Subject: Burkina Faso travel scene with traditional Gurunsi architecture extending across the frame and dry savanna beyond.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, earth tones with green accents, no photorealism.
+Composition: native wide 2:1 layout, patterned earthen buildings across the middle ground, foreground path, open sky, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

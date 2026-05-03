@@ -1,0 +1,21 @@
+# MP prompts
+
+## MG-MP merged - MP square prompt:
+MP square prompt:
+Use case: illustration-story
+Asset type: native square travel country image, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for the Northern Mariana Islands (country code MP).
+Scene/backdrop: Saipan's Bird Island lookout with turquoise Pacific water, limestone cliffs, tropical greenery, white surf, and bright island sky.
+Subject: Recognizable Northern Mariana coastal landscape with Bird Island and dramatic blue lagoon, centered in a square composition.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: square 1:1, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## MG-MP merged - MP wide prompt:
+MP wide prompt:
+Use case: illustration-story
+Asset type: native wide travel country image, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for the Northern Mariana Islands (country code MP).
+Scene/backdrop: A wide Saipan coastline panorama from Bird Island lookout with limestone cliffs, lush tropical forest, turquoise lagoon, reef shallows, white surf, and expansive Pacific horizon.
+Subject: Recognizable Northern Mariana Islands coastal landscape arranged across a horizontal travel banner.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.

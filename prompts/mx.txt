@@ -1,0 +1,23 @@
+# MX prompts
+
+## MQ-MX merged - MX square:
+MX square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Mexico (MX) featuring Chichen Itza's El Castillo pyramid, agave plants, and Yucatan tropical landscape.
+Scene/backdrop: Bright Mexican daylight with limestone pyramid steps, green jungle edge, agave plants, warm earth, and clear blue sky.
+Subject: El Castillo pyramid at Chichen Itza as the main recognizable landmark, with agave plants and Yucatan vegetation in the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered pyramid, balanced foreground plants and jungle background, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## MQ-MX merged - MX wide:
+MX wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Mexico (MX) featuring Chichen Itza's El Castillo pyramid, agave plants, and Yucatan tropical landscape.
+Scene/backdrop: Bright Mexican daylight with limestone pyramid steps, green jungle edge, agave plants, warm earth, and clear blue sky.
+Subject: El Castillo pyramid at Chichen Itza rising above a wide Yucatan landscape, with agave plants and jungle edge across the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, pyramid as the focal point, foreground plants and jungle stretching horizontally, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

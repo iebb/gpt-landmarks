@@ -1,0 +1,21 @@
+# LI prompts
+
+## LA-LT merged - LI square:
+LI square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Liechtenstein (country code LI), square composition.
+Scene/backdrop: Vaduz Castle on a hillside above alpine meadows, with the Rhine Valley and snowy Alps in the distance under a crisp blue sky.
+Subject: Recognizable Vaduz Castle with pale walls and red-brown roofs, framed by green slopes, village hints, and mountain peaks.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, castle prominent on the upper hillside, valley path and meadow foreground leading upward, readable alpine silhouette, palette of fresh green, stone white, roof red-brown, snow white, and sky blue.
+
+## LA-LT merged - LI wide:
+LI wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Liechtenstein (country code LI), wide panoramic composition.
+Scene/backdrop: Vaduz Castle overlooking the Rhine Valley, alpine meadows, village rooftops, and snowy Alps beneath a clear mountain sky.
+Subject: Recognizable Vaduz Castle on a green hillside, with sweeping valley and mountain range providing strong Liechtenstein context.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, castle on the right hillside with broad valley stretching left, winding path and meadow foreground, clean alpine silhouettes, fresh green, stone white, roof red-brown, snow white, and sky blue palette.

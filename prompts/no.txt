@@ -1,0 +1,7 @@
+# NO prompts
+
+## NL-PA merged - NO square prompt: Simple vector-illustration travel image for Norway, square composition. Show a dramatic Norwegian fjord with steep green cliffs, blue water, red wooden cabins, a small boat, and snow-capped mountains under a crisp northern sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NO square prompt: Simple vector-illustration travel image for Norway, square composition. Show a dramatic Norwegian fjord with steep green cliffs, blue water, red wooden cabins, a small boat, and snow-capped mountains under a crisp northern sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NL-PA merged - NO wide prompt: Simple vector-illustration travel image for Norway, wide panoramic composition. Show a dramatic Norwegian fjord with steep green cliffs, blue water, red wooden cabins, a small boat, and snow-capped mountains under a crisp northern sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NO wide prompt: Simple vector-illustration travel image for Norway, wide panoramic composition. Show a dramatic Norwegian fjord with steep green cliffs, blue water, red wooden cabins, a small boat, and snow-capped mountains under a crisp northern sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

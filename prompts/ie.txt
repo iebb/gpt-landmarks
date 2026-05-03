@@ -1,0 +1,21 @@
+# IE prompts
+
+## IE-IS merged - IE square:
+IE square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: Ireland (IE) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: Cliffs of Moher above the Atlantic, rolling emerald hills, a small stone round tower, soft cloudy sky.
+Subject: iconic Irish coastal cliffs and green countryside, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, bright travel-poster color, no photorealism.
+Composition: centered square composition, landmark clearly readable at thumbnail size, generous safe margins, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IE wide:
+IE wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: Ireland (IE) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Cliffs of Moher coastline, Atlantic water, rolling emerald fields, distant stone round tower, soft cloudy sky.
+Subject: iconic Irish cliffs and countryside stretched across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, bright travel-poster color, no photorealism.
+Composition: wide 2:1 composition, main cliffs spanning left to center and tower on right third, readable at thumbnail size, safe margins, no text, no letters, no flags, no watermark.

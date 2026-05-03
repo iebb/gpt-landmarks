@@ -1,0 +1,29 @@
+# AW prompts
+
+## AW square
+Create a simple vector-illustration style travel image for Aruba (country code AW), native square composition. Format suitable for a 1254x1254 PNG. Show Eagle Beach with divi-divi trees, white sand, turquoise water, pastel cottages, and bright Caribbean sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AW wide
+Create a simple vector-illustration style travel image for Aruba (country code AW), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Eagle Beach with divi-divi trees, white sand, turquoise water, pastel cottages, and bright Caribbean sunlight, composed horizontally with beach and trees fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AW-BF merged - AW square prompt:
+AW square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code AW, Aruba
+Primary request: Create a simple vector-illustration travel image for Aruba, square composition.
+Scene/backdrop: sunny Caribbean coast with turquoise water, white sand, a windswept divi-divi tree, small pastel Oranjestad buildings in the distance, and soft trade-wind clouds.
+Subject: Aruba travel landmark scene centered around the divi-divi tree and shoreline.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, warm daylight, balanced tropical palette, no photorealism.
+Composition: native square layout, clear central focal point, generous breathing room, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - AW wide prompt:
+AW wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code AW, Aruba
+Primary request: Create a simple vector-illustration travel image for Aruba, wide panoramic composition matching the square AW concept.
+Scene/backdrop: sunny Caribbean coast with turquoise water, white sand, a windswept divi-divi tree, small pastel Oranjestad buildings in the distance, and soft trade-wind clouds.
+Subject: Aruba travel landmark scene with the divi-divi tree anchoring the left side and shoreline sweeping across the frame.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, warm daylight, balanced tropical palette, no photorealism.
+Composition: native wide 2:1 layout, panoramic depth, horizon placed for a banner crop, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

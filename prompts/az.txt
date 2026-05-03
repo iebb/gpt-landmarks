@@ -1,0 +1,29 @@
+# AZ prompts
+
+## AZ square
+Create a simple vector-illustration style travel image for Azerbaijan (country code AZ), native square composition. Format suitable for a 1254x1254 PNG. Show Baku Flame Towers, the old city walls, Caspian Sea promenade, and warm twilight glow. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AZ wide
+Create a simple vector-illustration style travel image for Azerbaijan (country code AZ), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Baku Flame Towers, the old city walls, Caspian Sea promenade, and warm twilight glow, composed horizontally with towers and old city fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AW-BF merged - AZ square prompt:
+AZ square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code AZ, Azerbaijan
+Primary request: Create a simple vector-illustration travel image for Azerbaijan, square composition.
+Scene/backdrop: Baku waterfront at sunset with the Flame Towers, Caspian Sea promenade, warm stone old city hints, and soft amber sky.
+Subject: Azerbaijan travel landmark scene centered on Baku skyline and seaside promenade.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, warm sunset light, balanced teal and amber palette, no photorealism.
+Composition: native square layout, clear skyline focal point, layered foreground promenade and water, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - AZ wide prompt:
+AZ wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code AZ, Azerbaijan
+Primary request: Create a simple vector-illustration travel image for Azerbaijan, wide panoramic composition matching the square AZ concept.
+Scene/backdrop: Baku waterfront at sunset with the Flame Towers, Caspian Sea promenade, warm stone old city hints, and soft amber sky.
+Subject: Azerbaijan travel landmark scene with the Flame Towers rising over a sweeping Caspian waterfront promenade.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, warm sunset light, balanced teal and amber palette, no photorealism.
+Composition: native wide 2:1 layout, skyline across the center, water and promenade leading lines for banner use, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

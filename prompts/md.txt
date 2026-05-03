@@ -1,0 +1,23 @@
+# MD prompts
+
+## LU-MF merged - MD square:
+MD square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Moldova (MD) featuring Orheiul Vechi monastery cliffs, the Raut river valley, and vineyard countryside.
+Scene/backdrop: Clear Eastern European countryside daylight with limestone cliffs, green hills, river bends, monastery cave-church forms, and grapevine rows.
+Subject: Orheiul Vechi landscape as the main recognizable landmark, with a small hilltop church and cave monastery cliffs overlooking the river valley.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered hilltop church and cliffs, layered valley and vineyards, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## LU-MF merged - MD wide:
+MD wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Moldova (MD) featuring Orheiul Vechi monastery cliffs, the Raut river valley, and vineyard countryside.
+Scene/backdrop: Clear Eastern European countryside daylight with limestone cliffs, green hills, river bends, monastery cave-church forms, and grapevine rows.
+Subject: Orheiul Vechi hilltop church and cave monastery cliffs overlooking the Raut river valley, with vineyards spreading across the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, valley and vineyards sweeping horizontally, church and cliffs as focal point, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

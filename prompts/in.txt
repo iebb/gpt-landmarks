@@ -1,0 +1,21 @@
+# IN prompts
+
+## IE-IS merged - IN square:
+IN square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: India (IN) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: Taj Mahal reflected in a calm water channel, Mughal garden paths, cypress trees, warm sunrise sky.
+Subject: the Taj Mahal and formal gardens, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, elegant travel-poster color, no photorealism.
+Composition: centered square composition, Taj Mahal prominent and symmetrical, reflection in foreground, readable at thumbnail size, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IN wide:
+IN wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: India (IN) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Taj Mahal reflected in a long water channel, Mughal garden paths, cypress trees, warm sunrise sky.
+Subject: the Taj Mahal and formal gardens across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, elegant travel-poster color, no photorealism.
+Composition: wide 2:1 composition, Taj Mahal centered with full minarets visible, reflection leading through foreground, safe margins, no text, no letters, no flags, no watermark.

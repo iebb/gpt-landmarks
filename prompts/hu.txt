@@ -1,0 +1,13 @@
+# HU prompts
+
+## GY-ID merged - HU square: Use case: stylized-concept
+HU square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Hungary (HU), square composition. Show the Hungarian Parliament Building on the Danube River in Budapest, with the Chain Bridge, Buda Castle hill, small river boats, and warm evening sunlight. Clean flat shapes, crisp edges, elegant architectural detail, balanced gold, cream, river blue, and soft green tones. No text, no flags, no watermark.
+Composition: centered Danube landmark city scene, designed for a square crop with generous safe margins.
+
+## GY-ID merged - HU wide: Use case: stylized-concept
+HU wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Hungary (HU), wide panoramic composition. Show the Hungarian Parliament Building on the Danube River in Budapest, with the Chain Bridge, Buda Castle hill, small river boats, and warm evening sunlight. Clean flat shapes, crisp edges, elegant architectural detail, balanced gold, cream, river blue, and soft green tones. No text, no flags, no watermark.
+Composition: panoramic Budapest Danube landmark banner arranged naturally across a 2:1 wide frame with generous safe margins.

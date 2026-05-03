@@ -1,0 +1,7 @@
+# PG prompts
+
+## PE-PN merged - PG square prompt: Simple vector-illustration travel image for Papua New Guinea, square composition. Show the Kokoda Track highlands with lush rainforest, misty mountain ridges, a traditional stilt village with thatched roofs, tropical flowers, and a winding river valley. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PG square prompt: Simple vector-illustration travel image for Papua New Guinea, square composition. Show the Kokoda Track highlands with lush rainforest, misty mountain ridges, a traditional stilt village with thatched roofs, tropical flowers, and a winding river valley. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PG wide prompt: Simple vector-illustration travel image for Papua New Guinea, wide panoramic composition. Show the Kokoda Track highlands with lush rainforest, misty mountain ridges, a traditional stilt village with thatched roofs, tropical flowers, and a winding river valley. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PG wide prompt: Simple vector-illustration travel image for Papua New Guinea, wide panoramic composition. Show the Kokoda Track highlands with lush rainforest, misty mountain ridges, a traditional stilt village with thatched roofs, tropical flowers, and a winding river valley. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

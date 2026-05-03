@@ -1,0 +1,21 @@
+# MM prompts
+
+## MG-MP merged - MM square prompt:
+MM square prompt:
+Use case: illustration-story
+Asset type: native square travel country image, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Myanmar (country code MM).
+Scene/backdrop: Bagan ancient temple plain at sunrise with golden light, misty landscape, pagodas and stupas, and a few hot air balloons in the distant sky.
+Subject: Recognizable Myanmar Bagan temples and pagoda silhouettes, centered in a square composition.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: square 1:1, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## MG-MP merged - MM wide prompt:
+MM wide prompt:
+Use case: illustration-story
+Asset type: native wide travel country image, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Myanmar (country code MM).
+Scene/backdrop: A panoramic Bagan temple plain at sunrise with golden mist, many pagodas and stupas, palm trees, and hot air balloons floating far in the sky.
+Subject: Recognizable Myanmar Bagan archaeological landscape arranged across a wide travel banner.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.

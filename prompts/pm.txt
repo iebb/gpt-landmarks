@@ -1,0 +1,7 @@
+# PM prompts
+
+## PE-PN merged - PM square prompt: Simple vector-illustration travel image for Saint Pierre and Miquelon, square composition. Show a colorful Saint Pierre harbor with small fishing boats, bright wooden houses, a lighthouse, rocky Atlantic shoreline, and cool northern sea light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PM square prompt: Simple vector-illustration travel image for Saint Pierre and Miquelon, square composition. Show a colorful Saint Pierre harbor with small fishing boats, bright wooden houses, a lighthouse, rocky Atlantic shoreline, and cool northern sea light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PM wide prompt: Simple vector-illustration travel image for Saint Pierre and Miquelon, wide panoramic composition. Show a colorful Saint Pierre harbor with small fishing boats, bright wooden houses, a lighthouse, rocky Atlantic shoreline, and cool northern sea light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PM wide prompt: Simple vector-illustration travel image for Saint Pierre and Miquelon, wide panoramic composition. Show a colorful Saint Pierre harbor with small fishing boats, bright wooden houses, a lighthouse, rocky Atlantic shoreline, and cool northern sea light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

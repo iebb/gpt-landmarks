@@ -1,0 +1,7 @@
+# AI prompts
+
+## AI square
+Create a simple vector-illustration style travel image for Anguilla (country code AI), native square composition. Format suitable for a 1254x1254 PNG. Show Shoal Bay with white sand, turquoise water, coral shallows, palms, and small beach cottages under clear Caribbean light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AI wide
+Create a simple vector-illustration style travel image for Anguilla (country code AI), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Shoal Bay with white sand, turquoise water, coral shallows, palms, and small beach cottages under clear Caribbean light, composed horizontally with beach and cottages fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

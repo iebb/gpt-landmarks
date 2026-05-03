@@ -1,0 +1,7 @@
+# PK prompts
+
+## PE-PN merged - PK square prompt: Simple vector-illustration travel image for Pakistan, square composition. Show the Faisal Mosque in Islamabad with its white angular roof and four minarets, the Margalla Hills behind, cypress trees, flower beds, and clear golden daylight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PK square prompt: Simple vector-illustration travel image for Pakistan, square composition. Show the Faisal Mosque in Islamabad with its white angular roof and four minarets, the Margalla Hills behind, cypress trees, flower beds, and clear golden daylight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PK wide prompt: Simple vector-illustration travel image for Pakistan, wide panoramic composition. Show the Faisal Mosque in Islamabad with its white angular roof and four minarets, the Margalla Hills behind, cypress trees, flower beds, and clear golden daylight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PK wide prompt: Simple vector-illustration travel image for Pakistan, wide panoramic composition. Show the Faisal Mosque in Islamabad with its white angular roof and four minarets, the Margalla Hills behind, cypress trees, flower beds, and clear golden daylight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

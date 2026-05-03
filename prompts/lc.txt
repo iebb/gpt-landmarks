@@ -1,0 +1,21 @@
+# LC prompts
+
+## LA-LT merged - LC square:
+LC square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Saint Lucia (country code LC), square composition.
+Scene/backdrop: The twin Pitons rising from the Caribbean coast near Soufriere, with turquoise water, lush rainforest, and a warm tropical sky.
+Subject: Recognizable Gros Piton and Petit Piton volcanic peaks as the main landmark, with a small beach curve and vivid island vegetation.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, twin peaks centered and prominent, coastline and water framing the base, high readability at small sizes, palette of emerald green, turquoise, sand, and coral sunset accents.
+
+## LA-LT merged - LC wide:
+LC wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Saint Lucia (country code LC), wide panoramic composition.
+Scene/backdrop: The twin Pitons beside Soufriere Bay, turquoise Caribbean water, rainforest-covered slopes, tropical flowers, and a soft warm sky.
+Subject: Recognizable Gros Piton and Petit Piton volcanic peaks dominating the landscape, with sweeping coastline and island vegetation.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, twin peaks placed across the center-left and center-right, bay and beach leading through the foreground, clean readable silhouettes, emerald green, turquoise, sand, and coral palette.

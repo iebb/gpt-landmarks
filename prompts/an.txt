@@ -1,0 +1,7 @@
+# AN prompts
+
+## AN square
+Create a simple vector-illustration style travel image for Caribbean Netherlands (country code AN), native square composition. Format suitable for a 1254x1254 PNG. Show a Bonaire-style turquoise bay, coral reef shallows, pastel waterfront houses, cactus, palms, and sunny Dutch Caribbean light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AN wide
+Create a simple vector-illustration style travel image for Caribbean Netherlands (country code AN), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: a Bonaire-style turquoise bay, coral reef shallows, pastel waterfront houses, cactus, palms, and sunny Dutch Caribbean light, composed horizontally with waterfront and bay fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

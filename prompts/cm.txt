@@ -1,0 +1,25 @@
+# CM prompts
+
+## CM square
+Create a simple vector-illustration style travel image for Cameroon (country code CM), native square composition. Format suitable for a 1254x1254 PNG. Show Mount Cameroon rising above tropical forest, volcanic slopes, coastal greenery, and warm Gulf of Guinea light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CM wide
+Create a simple vector-illustration style travel image for Cameroon (country code CM), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Mount Cameroon rising above tropical forest, volcanic slopes, coastal greenery, and warm Gulf of Guinea light, composed horizontally with mountain and forest fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## BQ-CO merged - CM square:
+CM square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code CM, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for Cameroon. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Mount Cameroon rising above lush tropical foothills with a warm equatorial sky.
+Subject: volcanic Mount Cameroon, green rainforest slopes, a palm-lined path, and a traditional round hut with woven roof in the foreground.
+Composition: square crop, mountain centered in the distance, hut and palms anchoring the lower foreground, rich rainforest layers, travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - CM wide:
+CM wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code CM, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for Cameroon. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Mount Cameroon rising above lush tropical foothills with a warm equatorial sky.
+Subject: volcanic Mount Cameroon, green rainforest slopes, a palm-lined path, and a traditional round hut with woven roof in the foreground.
+Composition: panoramic wide crop, mountain centered in the distance, broad rainforest canopy spreading across the frame, hut and palms in the lower foreground, rich rainforest layers, travel-poster feel, vivid but refined colors.

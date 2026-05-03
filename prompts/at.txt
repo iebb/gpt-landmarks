@@ -1,0 +1,7 @@
+# AT prompts
+
+## AT square
+Create a simple vector-illustration style travel image for Austria (country code AT), native square composition. Format suitable for a 1254x1254 PNG. Show Hallstatt lakeside village, alpine mountains, church spire, blue lake reflections, and clean morning light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AT wide
+Create a simple vector-illustration style travel image for Austria (country code AT), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Hallstatt lakeside village, alpine mountains, church spire, blue lake reflections, and clean morning light, composed horizontally with village and mountains fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

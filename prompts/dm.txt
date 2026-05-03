@@ -1,0 +1,23 @@
+# DM prompts
+
+## CX-DO merged - DM square prompt:
+DM square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Dominica (DM), square composition.
+Scene/backdrop: lush rainforest trail leading to Trafalgar Falls twin waterfalls, emerald mountains, tropical plants, mist, and clear pools.
+Subject: recognizable twin waterfalls and mountainous rainforest landscape of Dominica, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, rich natural greens balanced with blue water and warm highlights, subtle texture, polished travel-poster feel.
+Composition: centered square layout, twin falls as focal point, layered foliage foreground, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - DM wide prompt:
+DM wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Dominica (DM), wide panoramic composition.
+Scene/backdrop: lush rainforest valley with Trafalgar Falls twin waterfalls, emerald mountains, tropical plants, mist, and clear pools.
+Subject: recognizable twin waterfalls and mountainous rainforest landscape of Dominica, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, rich natural greens balanced with blue water and warm highlights, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, twin falls centered in a broad rainforest valley, layered foliage foreground, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

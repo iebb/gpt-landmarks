@@ -1,0 +1,21 @@
+# MG prompts
+
+## MG-MP merged - MG square prompt:
+MG square prompt:
+Use case: illustration-story
+Asset type: native square travel country image, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Madagascar (country code MG).
+Scene/backdrop: Avenue of the Baobabs at sunset with warm sky, red earth road, distant Malagasy landscape, and a small hint of tropical greenery.
+Subject: Iconic tall baobab trees, balanced in a centered square composition with generous safe margins.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: square 1:1, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## MG-MP merged - MG wide prompt:
+MG wide prompt:
+Use case: illustration-story
+Asset type: native wide travel country image, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Madagascar (country code MG).
+Scene/backdrop: A panoramic Avenue of the Baobabs at sunset with red earth road stretching across the foreground, baobab silhouettes, warm sky, and distant Malagasy plains.
+Subject: Multiple iconic baobab trees arranged across a wide horizontal travel-banner composition.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.

@@ -1,0 +1,7 @@
+# PL prompts
+
+## PE-PN merged - PL square prompt: Simple vector-illustration travel image for Poland, square composition. Show Krakow's Wawel Castle above the Vistula River with red rooftops, a cobblestone riverside path, leafy trees, and soft evening light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PL square prompt: Simple vector-illustration travel image for Poland, square composition. Show Krakow's Wawel Castle above the Vistula River with red rooftops, a cobblestone riverside path, leafy trees, and soft evening light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PL wide prompt: Simple vector-illustration travel image for Poland, wide panoramic composition. Show Krakow's Wawel Castle above the Vistula River with red rooftops, a cobblestone riverside path, leafy trees, and soft evening light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PL wide prompt: Simple vector-illustration travel image for Poland, wide panoramic composition. Show Krakow's Wawel Castle above the Vistula River with red rooftops, a cobblestone riverside path, leafy trees, and soft evening light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

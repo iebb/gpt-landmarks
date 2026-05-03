@@ -1,0 +1,21 @@
+# LK prompts
+
+## LA-LT merged - LK square:
+LK square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Sri Lanka (country code LK), square composition.
+Scene/backdrop: Sigiriya rock fortress rising above lush jungle, with ancient water gardens and a warm tropical sky.
+Subject: Recognizable Sigiriya Lion Rock as the dominant landmark, steep orange-brown monolith with greenery on top, symmetrical garden pools and palms below.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, rock centered and monumental, water gardens leading from foreground, jungle framing the base, readable silhouette, palette of terracotta rock, deep green, teal water, and warm sky.
+
+## LA-LT merged - LK wide:
+LK wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Sri Lanka (country code LK), wide panoramic composition.
+Scene/backdrop: Sigiriya rock fortress above dense jungle, ancient water gardens, palms, and a warm tropical sky.
+Subject: Recognizable Sigiriya Lion Rock as a large terracotta monolith with trees on top, garden pools and pathways spreading across the foreground.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, rock slightly right of center with gardens and jungle extending across the frame, strong readable silhouette, terracotta, deep green, teal water, and warm sky palette.

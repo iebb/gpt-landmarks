@@ -1,0 +1,13 @@
+# GR prompts
+
+## GN-GW merged - GR square: Use case: stylized-concept
+GR square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Greece (GR), square composition. Show white Santorini cliff houses with blue domes overlooking the Aegean Sea, with hints of ancient Greek columns on a terrace. Clean flat shapes, crisp edges, bright Mediterranean daylight, whitewashed architecture, deep blue sea, balanced colors. No text, no flags, no watermark.
+Composition: iconic island view centered for a square crop with generous safe margins.
+
+## GN-GW merged - GR wide: Use case: stylized-concept
+GR wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Greece (GR), wide panoramic composition. Show white Santorini cliff houses with blue domes overlooking the Aegean Sea, with hints of ancient Greek columns on a terrace. Clean flat shapes, crisp edges, bright Mediterranean daylight, whitewashed architecture, deep blue sea, balanced colors. No text, no flags, no watermark.
+Composition: panoramic Cycladic island banner arranged naturally across a 2:1 frame with generous safe margins.

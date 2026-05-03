@@ -1,0 +1,13 @@
+# HR prompts
+
+## GY-ID merged - HR square: Use case: stylized-concept
+HR square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Croatia (HR), square composition. Show Dubrovnik's old city walls and terracotta rooftops beside the Adriatic Sea, with a limestone coastline, small boats, and distant Dalmatian islands. Clean flat shapes, crisp edges, bright Mediterranean daylight, warm stone, red roofs, and deep blue water. No text, no flags, no watermark.
+Composition: centered walled coastal city scene, designed for a square crop with generous safe margins.
+
+## GY-ID merged - HR wide: Use case: stylized-concept
+HR wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Croatia (HR), wide panoramic composition. Show Dubrovnik's old city walls and terracotta rooftops beside the Adriatic Sea, with a limestone coastline, small boats, and distant Dalmatian islands. Clean flat shapes, crisp edges, bright Mediterranean daylight, warm stone, red roofs, and deep blue water. No text, no flags, no watermark.
+Composition: panoramic Adriatic walled-city banner arranged naturally across a 2:1 wide frame with generous safe margins.

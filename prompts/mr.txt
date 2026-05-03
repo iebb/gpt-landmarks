@@ -1,0 +1,23 @@
+# MR prompts
+
+## MQ-MX merged - MR square:
+MR square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Mauritania (MR) featuring Chinguetti old stone mosque, Sahara dunes, and desert caravan heritage.
+Scene/backdrop: Warm desert daylight with ochre sand dunes, dry stone architecture, sparse palms, and clear blue sky.
+Subject: Chinguetti mosque and ancient ksour walls as the main recognizable landmark, with dunes and camel silhouettes in the background.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered mosque tower and old town, layered dune background, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## MQ-MX merged - MR wide:
+MR wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Mauritania (MR) featuring Chinguetti old stone mosque, Sahara dunes, and desert caravan heritage.
+Scene/backdrop: Warm desert daylight with ochre sand dunes, dry stone architecture, sparse palms, and clear blue sky.
+Subject: Chinguetti mosque and ksour settlement spread across the foreground, with Sahara dunes and a small camel caravan beyond.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, dunes sweeping horizontally, mosque tower as the focal point, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

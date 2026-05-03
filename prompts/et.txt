@@ -1,0 +1,23 @@
+# ET prompts
+
+## DZ-ET merged - ET square:
+ET square:
+Use case: stylized-concept
+Asset type: country travel illustration, native square format
+Primary request: Ethiopia (ET) simple vector-illustration travel image for a country image asset.
+Canvas: square composition, designed to crop cleanly at 1254x1254.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Lalibela rock-hewn church carved into warm red stone, Ethiopian highland terraces and acacia trees, with distant Simien Mountains under a clear sky.
+Subject: Ethiopia landmark landscape, Lalibela church form and highland scenery in a balanced central composition.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.
+
+## DZ-ET merged - ET wide:
+ET wide:
+Use case: stylized-concept
+Asset type: country travel illustration, native wide format
+Primary request: Ethiopia (ET) simple vector-illustration travel image for a country image asset.
+Canvas: wide panoramic composition, designed to crop cleanly at 1774x887.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Lalibela rock-hewn church carved into warm red stone in the foreground, Ethiopian highland terraces and acacia trees, with distant Simien Mountains under a clear sky.
+Subject: Ethiopia landmark landscape, Lalibela church and highland scenery arranged as a broad scenic travel header.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.

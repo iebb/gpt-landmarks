@@ -1,0 +1,23 @@
+# MS prompts
+
+## MQ-MX merged - MS square:
+MS square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Montserrat (MS) featuring Soufriere Hills volcano, emerald Caribbean hills, and a coastal village scene.
+Scene/backdrop: Clear Caribbean daylight with lush green slopes, volcanic peak, turquoise sea, palms, and subtle ash-colored terrain near the mountain.
+Subject: Soufriere Hills volcano as the main recognizable landscape landmark, with safe coastal village rooftops and shoreline in the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered volcano and island coast, layered tropical hills and sea, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## MQ-MX merged - MS wide:
+MS wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Montserrat (MS) featuring Soufriere Hills volcano, emerald Caribbean hills, and a coastal village scene.
+Scene/backdrop: Clear Caribbean daylight with lush green slopes, volcanic peak, turquoise sea, palms, and subtle ash-colored terrain near the mountain.
+Subject: Soufriere Hills volcano rising over green island ridges, with coastline, palms, and village rooftops stretching across the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, island ridgeline and coast sweeping horizontally, volcano as the focal point, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

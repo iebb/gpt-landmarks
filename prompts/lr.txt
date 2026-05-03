@@ -1,0 +1,21 @@
+# LR prompts
+
+## LA-LT merged - LR square:
+LR square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Liberia (country code LR), square composition.
+Scene/backdrop: Providence Island and the Mesurado River near Monrovia, with a cotton tree, tropical riverbank greenery, and a glimpse of the Atlantic coastline.
+Subject: Recognizable Liberian coastal-river landscape with a large cotton tree as focal point, calm river water, small traditional canoe, palms, and Monrovia shoreline hints.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, cotton tree centered with river curving through foreground, coastal horizon behind, strong readable tropical silhouette, palette of deep green, river blue, warm sand, and soft sunset gold.
+
+## LA-LT merged - LR wide:
+LR wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Liberia (country code LR), wide panoramic composition.
+Scene/backdrop: Providence Island and the Mesurado River flowing toward the Atlantic near Monrovia, with a large cotton tree, palms, riverbank greenery, and coastal horizon.
+Subject: Recognizable Liberian river-and-coast landscape, cotton tree as focal point near center-left, calm water, small traditional canoe, and low Monrovia shoreline in the distance.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, river sweeping across foreground into ocean, cotton tree and palms anchoring the scene, clean tropical silhouettes, deep green, river blue, warm sand, and sunset gold palette.

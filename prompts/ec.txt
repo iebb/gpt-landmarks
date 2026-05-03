@@ -1,0 +1,23 @@
+# EC prompts
+
+## DZ-ET merged - EC square:
+EC square:
+Use case: stylized-concept
+Asset type: country travel illustration, native square format
+Primary request: Ecuador (EC) simple vector-illustration travel image for a country image asset.
+Canvas: square composition, designed to crop cleanly at 1254x1254.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Andean highlands with Cotopaxi volcano rising behind a colonial Quito-style church dome and bell towers, with green terraced slopes and a few hummingbird-like tropical flowers in the foreground.
+Subject: Ecuador landmark landscape, Cotopaxi volcano and colonial architecture in a balanced central travel-poster composition.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.
+
+## DZ-ET merged - EC wide:
+EC wide:
+Use case: stylized-concept
+Asset type: country travel illustration, native wide format
+Primary request: Ecuador (EC) simple vector-illustration travel image for a country image asset.
+Canvas: wide panoramic composition, designed to crop cleanly at 1774x887.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Andean highlands with Cotopaxi volcano spanning the horizon behind colonial Quito-style church domes and bell towers, green terraced slopes, and tropical flowers in the foreground.
+Subject: Ecuador landmark landscape, Cotopaxi volcano and colonial architecture arranged as a broad scenic travel header.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.

@@ -1,0 +1,7 @@
+# CA prompts
+
+## CA square
+Create a simple vector-illustration style travel image for Canada (country code CA), native square composition. Format suitable for a 1254x1254 PNG. Show Moraine Lake with turquoise water, Rocky Mountain peaks, evergreen forest, canoe, and clear alpine sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CA wide
+Create a simple vector-illustration style travel image for Canada (country code CA), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Moraine Lake with turquoise water, Rocky Mountain peaks, evergreen forest, canoe, and clear alpine sunlight, composed horizontally with lake and peaks fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

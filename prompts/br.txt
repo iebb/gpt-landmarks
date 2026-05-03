@@ -1,0 +1,19 @@
+# BR prompts
+
+## BQ-CO merged - BR square:
+BR square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code BR, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for Brazil. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Rio de Janeiro at golden hour with Guanabara Bay, green mountains, and tropical foliage.
+Subject: Christ the Redeemer on Corcovado above Sugarloaf Mountain and a curving beach, with lush rainforest leaves in the foreground.
+Composition: square crop, centered iconic skyline and statue, layered foreground/midground/background, warm sunlight, travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - BR wide:
+BR wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code BR, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for Brazil. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Rio de Janeiro at golden hour with Guanabara Bay, green mountains, and tropical foliage.
+Subject: Christ the Redeemer on Corcovado above Sugarloaf Mountain and a curving beach, with lush rainforest leaves in the foreground.
+Composition: panoramic wide crop, statue on one third, Sugarloaf and bay sweeping across the frame, beach curve visible below, layered tropical foliage foreground, warm sunlight, travel-poster feel, vivid but refined colors.

@@ -1,0 +1,19 @@
+# GI prompts
+
+## GD-GM merged - GI square:
+GI square:
+Use case: illustration-story
+Asset type: native square travel image for country code GI, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for Gibraltar, no text, no watermark.
+Scene/backdrop: Mediterranean coastal scene at Gibraltar with bright sea, marina water, and a clear sky.
+Subject: Recognizable Gibraltar landmark: the Rock of Gibraltar rising steeply above the harbor, Moorish Castle tower on the hillside, cable car line, and a Barbary macaque sitting safely on a foreground stone wall.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, sunny Mediterranean palette, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GI wide:
+GI wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GI, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for Gibraltar, no text, no watermark.
+Scene/backdrop: Wide Mediterranean coastal scene at Gibraltar with bright sea, marina water, and a clear sky.
+Subject: Recognizable Gibraltar landmark: the Rock of Gibraltar rising steeply across the background, Moorish Castle tower on the hillside, cable car line crossing the sky, and a Barbary macaque sitting safely on a foreground stone wall at one side.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, sunny Mediterranean palette, polished app asset, balanced panoramic composition with generous safe margins.

@@ -1,0 +1,25 @@
+# NZ prompts
+
+## NL-PA merged - NZ square prompt: Simple vector-illustration travel image for New Zealand, square composition. Show Milford Sound with Mitre Peak, deep blue water, waterfalls, native greenery, and a small kayak for scale under clear mountain light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NZ square prompt: Simple vector-illustration travel image for New Zealand, square composition. Show Milford Sound with Mitre Peak, deep blue water, waterfalls, native greenery, and a small kayak for scale under clear mountain light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NL-PA merged - NZ wide prompt: Simple vector-illustration travel image for New Zealand, wide panoramic composition. Show Milford Sound with Mitre Peak, deep blue water, waterfalls, native greenery, and a small kayak for scale under clear mountain light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NZ wide prompt: Simple vector-illustration travel image for New Zealand, wide panoramic composition. Show Milford Sound with Mitre Peak, deep blue water, waterfalls, native greenery, and a small kayak for scale under clear mountain light. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NP-PA-retry merged - NZ square:
+NZ square:
+Use case: illustration-story
+Asset type: country travel illustration, square PNG source for NZ
+Primary request: Create a simple vector-illustration travel image for New Zealand in a square 1:1 composition.
+Scene/backdrop: Milford Sound-style fjord with Mitre Peak-like steep green mountains, reflective blue water, waterfalls, and native fern foreground.
+Subject: Recognizable New Zealand travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Centered fjord and mountain peak, generous safe margins, balanced foreground ferns and background peaks, suitable for cropping to 1254x1254.
+
+## NP-PA-retry merged - NZ wide:
+NZ wide:
+Use case: illustration-story
+Asset type: country travel illustration, wide PNG source for NZ
+Primary request: Create a simple vector-illustration travel image for New Zealand in a wide 2:1 composition.
+Scene/backdrop: Milford Sound-style fjord with Mitre Peak-like steep green mountains, reflective blue water, waterfalls, misty distant peaks, and native fern foreground.
+Subject: Recognizable New Zealand travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Expansive horizontal fjord panorama with mountain peak and waterfalls, generous safe margins, suitable for cropping to 1774x887.

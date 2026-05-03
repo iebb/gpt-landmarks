@@ -1,0 +1,7 @@
+# NL prompts
+
+## NL-PA merged - NL square prompt: Simple vector-illustration travel image for the Netherlands, square composition. Show Amsterdam canal houses beside a calm canal with a small arched bridge, bicycles, tulips, and a distant windmill under a clear sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NL square prompt: Simple vector-illustration travel image for the Netherlands, square composition. Show Amsterdam canal houses beside a calm canal with a small arched bridge, bicycles, tulips, and a distant windmill under a clear sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NL-PA merged - NL wide prompt: Simple vector-illustration travel image for the Netherlands, wide panoramic composition. Show Amsterdam canal houses beside a calm canal with a small arched bridge, bicycles, tulips, and a distant windmill under a clear sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NL wide prompt: Simple vector-illustration travel image for the Netherlands, wide panoramic composition. Show Amsterdam canal houses beside a calm canal with a small arched bridge, bicycles, tulips, and a distant windmill under a clear sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

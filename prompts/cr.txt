@@ -1,0 +1,7 @@
+# CR prompts
+
+## CR square
+Create a simple vector-illustration style travel image for Costa Rica (country code CR), native square composition. Format suitable for a 1254x1254 PNG. Show Arenal Volcano, rainforest canopy, waterfall, tropical flowers, and warm Central American sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CR wide
+Create a simple vector-illustration style travel image for Costa Rica (country code CR), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Arenal Volcano, rainforest canopy, waterfall, tropical flowers, and warm Central American sunlight, composed horizontally with volcano and rainforest fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

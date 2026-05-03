@@ -1,0 +1,19 @@
+# GE prompts
+
+## GD-GM merged - GE square:
+GE square:
+Use case: illustration-story
+Asset type: native square travel image for country code GE, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for Georgia, no text, no watermark.
+Scene/backdrop: Kazbegi mountain landscape in the Caucasus with Mount Kazbek, dramatic green valleys, and a clear mountain sky.
+Subject: Recognizable Georgian landmark: Gergeti Trinity Church on a hilltop, stone church silhouette and bell tower, winding path through alpine grass, snow-capped peak behind.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, fresh mountain palette, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GE wide:
+GE wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GE, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for Georgia, no text, no watermark.
+Scene/backdrop: Wide panorama of the Kazbegi mountain landscape in the Caucasus with Mount Kazbek, dramatic green valleys, and a clear mountain sky.
+Subject: Recognizable Georgian landmark: Gergeti Trinity Church on a hilltop near the right third, stone church silhouette and bell tower, winding path through alpine grass, snow-capped peak spanning the background.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, fresh mountain palette, polished app asset, balanced panoramic composition with generous safe margins.

@@ -1,0 +1,25 @@
+# CN prompts
+
+## CN square
+Create a simple vector-illustration style travel image for China (country code CN), native square composition. Format suitable for a 1254x1254 PNG. Show the Great Wall winding over green mountains, watchtowers, misty ridges, and soft sunrise light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CN wide
+Create a simple vector-illustration style travel image for China (country code CN), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: the Great Wall winding over green mountains, watchtowers, misty ridges, and soft sunrise light, composed horizontally with the wall and ridges fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## BQ-CO merged - CN square:
+CN square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code CN, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for China. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: the Great Wall winding over green mountain ridges in soft morning light.
+Subject: a watchtower on the Great Wall, layered mountain silhouettes, pine branches in the foreground, and a warm sunrise haze.
+Composition: square crop, watchtower as central focal point, wall forming an S-curve through the image, balanced foreground branches, travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - CN wide:
+CN wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code CN, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for China. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: the Great Wall winding over green mountain ridges in soft morning light.
+Subject: a watchtower on the Great Wall, layered mountain silhouettes, pine branches in the foreground, and a warm sunrise haze.
+Composition: panoramic wide crop, wall making a long S-curve from foreground to distant ridges, watchtower placed on one third, mountains and sunrise haze stretching across the frame, balanced foreground branches, travel-poster feel, vivid but refined colors.

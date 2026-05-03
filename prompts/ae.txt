@@ -1,0 +1,7 @@
+# AE prompts
+
+## AE square
+Create a simple vector-illustration style travel image for United Arab Emirates (country code AE), native square composition. Format suitable for a 1254x1254 PNG. Show Dubai skyline with Burj Khalifa, desert dunes, palm trees, and warm sunset light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AE wide
+Create a simple vector-illustration style travel image for United Arab Emirates (country code AE), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Dubai skyline with Burj Khalifa, desert dunes, palm trees, and warm sunset light, composed horizontally with skyline and dunes fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

@@ -1,0 +1,13 @@
+# ID prompts
+
+## GY-ID merged - ID square: Use case: stylized-concept
+ID square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Indonesia (ID), square composition. Show Borobudur temple stupas at sunrise with Mount Merapi in the background, rice terraces and tropical palms, plus a small coastal turquoise water hint to suggest the archipelago. Clean flat shapes, crisp edges, warm golden light, volcanic greens, stone grays, and ocean blue accents. No text, no flags, no watermark.
+Composition: centered temple and volcano scene, designed for a square crop with generous safe margins.
+
+## GY-ID merged - ID wide: Use case: stylized-concept
+ID wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Indonesia (ID), wide panoramic composition. Show Borobudur temple stupas at sunrise with Mount Merapi in the background, rice terraces and tropical palms, plus a small coastal turquoise water hint to suggest the archipelago. Clean flat shapes, crisp edges, warm golden light, volcanic greens, stone grays, and ocean blue accents. No text, no flags, no watermark.
+Composition: panoramic temple, volcano, rice terrace, and archipelago banner arranged naturally across a 2:1 wide frame with generous safe margins.

@@ -1,0 +1,7 @@
+# JE prompts
+
+## IT-KH merged - JE square prompt: Simple vector-illustration travel image for Jersey, square composition. Show Mont Orgueil Castle above a calm harbor with coastal cliffs, sandy beach, and Channel Island blue water. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+JE square prompt: Simple vector-illustration travel image for Jersey, square composition. Show Mont Orgueil Castle above a calm harbor with coastal cliffs, sandy beach, and Channel Island blue water. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+
+## IT-KH merged - JE wide prompt: Simple vector-illustration travel image for Jersey, wide panoramic composition. Show Mont Orgueil Castle on the right above Gorey harbor, with sweeping coastline, cliffs, beach, and calm Channel Island sea. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.
+JE wide prompt: Simple vector-illustration travel image for Jersey, wide panoramic composition. Show Mont Orgueil Castle on the right above Gorey harbor, with sweeping coastline, cliffs, beach, and calm Channel Island sea. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.

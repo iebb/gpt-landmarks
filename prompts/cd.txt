@@ -1,0 +1,7 @@
+# CD prompts
+
+## CD square
+Create a simple vector-illustration style travel image for Congo (DRC) (country code CD), native square composition. Format suitable for a 1254x1254 PNG. Show Virunga volcanoes and rainforest, misty green mountains, a broad river, tropical foliage, and warm equatorial light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CD wide
+Create a simple vector-illustration style travel image for Congo (DRC) (country code CD), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Virunga volcanoes and rainforest, misty green mountains, a broad river, tropical foliage, and warm equatorial light, composed horizontally with mountains and river fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

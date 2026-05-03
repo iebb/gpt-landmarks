@@ -1,0 +1,23 @@
+# MV prompts
+
+## MQ-MX merged - MV square:
+MV square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Maldives (MV) featuring overwater villas, turquoise atoll lagoon, coral reef, and palm island.
+Scene/backdrop: Clear tropical daylight with shallow cyan water, reef rings, white sand island, palms, wooden jetties, and small dhoni boat.
+Subject: Overwater villas and atoll lagoon as the main recognizable Maldives travel scene, with reef patterns and palm island context.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered lagoon and villas, layered reef-island-water depth, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## MQ-MX merged - MV wide:
+MV wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Maldives (MV) featuring overwater villas, turquoise atoll lagoon, coral reef, and palm island.
+Scene/backdrop: Clear tropical daylight with shallow cyan water, reef rings, white sand island, palms, wooden jetties, and small dhoni boat.
+Subject: Overwater villas and wooden jetties crossing a wide atoll lagoon, with reef rings, palm island, and dhoni boat across the scene.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, lagoon and reef sweeping horizontally, villas as the focal point, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

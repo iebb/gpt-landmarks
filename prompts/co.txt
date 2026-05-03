@@ -1,0 +1,25 @@
+# CO prompts
+
+## CO square
+Create a simple vector-illustration style travel image for Colombia (country code CO), native square composition. Format suitable for a 1254x1254 PNG. Show Cartagena colorful colonial balconies, old city walls, Caribbean sea, palms, and warm tropical sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CO wide
+Create a simple vector-illustration style travel image for Colombia (country code CO), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Cartagena colorful colonial balconies, old city walls, Caribbean sea, palms, and warm tropical sunlight, composed horizontally with city walls and sea fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## BQ-CO merged - CO square:
+CO square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code CO, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for Colombia. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Cartagena's colorful colonial streets opening toward the Caribbean, with tropical sky and distant sea.
+Subject: bright colonial balconies with flowers, a cobblestone street, a fruit cart with tropical fruit, and the warm Caribbean waterfront beyond.
+Composition: square crop, street perspective leading to sea, colorful facades on both sides, fruit cart in the foreground, festive but uncluttered travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - CO wide:
+CO wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code CO, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for Colombia. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: Cartagena's colorful colonial streets opening toward the Caribbean, with tropical sky and distant sea.
+Subject: bright colonial balconies with flowers, a cobblestone street, a fruit cart with tropical fruit, and the warm Caribbean waterfront beyond.
+Composition: panoramic wide crop, colorful facades and balconies framing both sides, street leading diagonally to blue sea and old city wall, fruit cart in the foreground, festive but uncluttered travel-poster feel, vivid but refined colors.

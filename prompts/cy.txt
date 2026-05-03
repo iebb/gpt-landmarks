@@ -1,0 +1,23 @@
+# CY prompts
+
+## CX-DO merged - CY square prompt:
+CY square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Cyprus (CY), square composition.
+Scene/backdrop: Mediterranean coast at Aphrodite's Rock near Paphos, pale limestone sea stacks, clear blue water, sunlit beach, distant cypress and olive trees.
+Subject: recognizable Aphrodite's Rock coastal landmark and Cypriot seaside landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, warm daylight, balanced colors, subtle texture, polished travel-poster feel.
+Composition: centered square layout, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - CY wide prompt:
+CY wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Cyprus (CY), wide panoramic composition.
+Scene/backdrop: Mediterranean coast at Aphrodite's Rock near Paphos, pale limestone sea stacks, clear blue water, sunlit beach, distant cypress and olive trees.
+Subject: recognizable Aphrodite's Rock coastal landmark and Cypriot seaside landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, warm daylight, balanced colors, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, sweeping coast and sea stacks, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

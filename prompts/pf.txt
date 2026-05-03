@@ -1,0 +1,7 @@
+# PF prompts
+
+## PE-PN merged - PF square prompt: Simple vector-illustration travel image for French Polynesia, square composition. Show Bora Bora's turquoise lagoon with overwater bungalows, Mount Otemanu rising behind, coral reef shallows, palm trees, and a bright South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PF square prompt: Simple vector-illustration travel image for French Polynesia, square composition. Show Bora Bora's turquoise lagoon with overwater bungalows, Mount Otemanu rising behind, coral reef shallows, palm trees, and a bright South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PF wide prompt: Simple vector-illustration travel image for French Polynesia, wide panoramic composition. Show Bora Bora's turquoise lagoon with overwater bungalows, Mount Otemanu rising behind, coral reef shallows, palm trees, and a bright South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PF wide prompt: Simple vector-illustration travel image for French Polynesia, wide panoramic composition. Show Bora Bora's turquoise lagoon with overwater bungalows, Mount Otemanu rising behind, coral reef shallows, palm trees, and a bright South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

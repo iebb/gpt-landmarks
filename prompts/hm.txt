@@ -1,0 +1,13 @@
+# HM prompts
+
+## GY-ID merged - HM square: Use case: stylized-concept
+HM square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Heard Island and McDonald Islands (HM), square composition. Show Big Ben volcano on Heard Island with snow, glaciers flowing toward a cold dark Southern Ocean shore, black volcanic rock, sea ice fragments, and a few distant seabirds as small accents. Clean flat shapes, crisp edges, polar daylight, cool blues, whites, and charcoal rock tones. No text, no flags, no watermark.
+Composition: centered subantarctic volcano and glacier scene, designed for a square crop with generous safe margins.
+
+## GY-ID merged - HM wide: Use case: stylized-concept
+HM wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Heard Island and McDonald Islands (HM), wide panoramic composition. Show Big Ben volcano on Heard Island with snow, glaciers flowing toward a cold dark Southern Ocean shore, black volcanic rock, sea ice fragments, and a few distant seabirds as small accents. Clean flat shapes, crisp edges, polar daylight, cool blues, whites, and charcoal rock tones. No text, no flags, no watermark.
+Composition: panoramic subantarctic volcano and glacier banner arranged naturally across a 2:1 wide frame with generous safe margins.

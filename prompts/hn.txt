@@ -1,0 +1,13 @@
+# HN prompts
+
+## GY-ID merged - HN square: Use case: stylized-concept
+HN square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Honduras (HN), square composition. Show the Copan Mayan ruins with carved stone stelae, lush jungle, scarlet macaws as small accents, and a turquoise Caribbean bay with Roatan reef suggested in the background. Clean flat shapes, crisp edges, warm tropical daylight, rich greens, stone grays, and clear blue water. No text, no flags, no watermark.
+Composition: centered ruins and jungle scene, designed for a square crop with generous safe margins.
+
+## GY-ID merged - HN wide: Use case: stylized-concept
+HN wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Honduras (HN), wide panoramic composition. Show the Copan Mayan ruins with carved stone stelae, lush jungle, scarlet macaws as small accents, and a turquoise Caribbean bay with Roatan reef suggested in the background. Clean flat shapes, crisp edges, warm tropical daylight, rich greens, stone grays, and clear blue water. No text, no flags, no watermark.
+Composition: panoramic ruins, jungle, and Caribbean reef banner arranged naturally across a 2:1 wide frame with generous safe margins.

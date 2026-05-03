@@ -1,0 +1,23 @@
+# EE prompts
+
+## DZ-ET merged - EE square:
+EE square:
+Use case: stylized-concept
+Asset type: country travel illustration, native square format
+Primary request: Estonia (EE) simple vector-illustration travel image for a country image asset.
+Canvas: square composition, designed to crop cleanly at 1254x1254.
+Style: clean modern flat vector illustration only, crisp geometric shapes, no interface elements, no browser windows, no screenshots, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Tallinn old town skyline with red rooftops, medieval city walls, round stone towers, and tall church spires beside a calm Baltic shoreline with pine trees under a cool northern sky.
+Subject: Estonia landmark cityscape, recognizable Tallinn towers and medieval walls centered with Baltic coastal atmosphere.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter, UI, application windows.
+
+## DZ-ET merged - EE wide:
+EE wide:
+Use case: stylized-concept
+Asset type: country travel illustration, native wide format
+Primary request: Estonia (EE) simple vector-illustration travel image for a country image asset.
+Canvas: wide panoramic composition, designed to crop cleanly at 1774x887.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Tallinn old town skyline stretched across the horizon with red rooftops, medieval city walls and church spires, beside a calm Baltic shoreline with pine trees under a cool northern sky.
+Subject: Estonia landmark cityscape, recognizable Tallinn towers and medieval walls arranged as a broad coastal travel header.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.

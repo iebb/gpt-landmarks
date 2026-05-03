@@ -1,0 +1,13 @@
+# GU prompts
+
+## GN-GW merged - GU square: Use case: stylized-concept
+GU square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Guam (GU), square composition. Show Two Lovers Point limestone cliff above turquoise Pacific water, a latte stone monument in the foreground, coconut palms, and a coral reef lagoon. Clean flat shapes, crisp edges, sunny island daylight, bright ocean blues and greens. No text, no flags, no watermark.
+Composition: centered cliff and latte stone scene, designed for a square crop with generous safe margins.
+
+## GN-GW merged - GU wide: Use case: stylized-concept
+GU wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Guam (GU), wide panoramic composition. Show Two Lovers Point limestone cliff above turquoise Pacific water, a latte stone monument in the foreground, coconut palms, and a coral reef lagoon. Clean flat shapes, crisp edges, sunny island daylight, bright ocean blues and greens. No text, no flags, no watermark.
+Composition: panoramic island cliff and reef banner arranged naturally across a 2:1 frame with generous safe margins.

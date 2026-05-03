@@ -1,0 +1,23 @@
+# LU prompts
+
+## LU-MF merged - LU square:
+LU square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Luxembourg (LU) featuring Luxembourg City's Adolphe Bridge, the Alzette valley, and old-town fortifications.
+Scene/backdrop: Bright daytime European cityscape with layered cliffs, greenery, and warm historic stone architecture.
+Subject: Adolphe Bridge as the main recognizable landmark, with the valley and casemates-style walls supporting the composition.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered landmark, balanced foreground and background, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## LU-MF merged - LU wide:
+LU wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Luxembourg (LU) featuring Luxembourg City's Adolphe Bridge, the Alzette valley, and old-town fortifications.
+Scene/backdrop: Bright daytime European cityscape with layered cliffs, greenery, and warm historic stone architecture.
+Subject: Adolphe Bridge spanning horizontally across the scene, with the valley, river, and casemates-style walls clearly visible.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, bridge as the horizontal anchor, landmarks readable across the full width, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

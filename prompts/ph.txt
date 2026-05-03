@@ -1,0 +1,7 @@
+# PH prompts
+
+## PE-PN merged - PH square prompt: Simple vector-illustration travel image for the Philippines, square composition. Show Palawan's El Nido limestone karst cliffs rising from turquoise lagoon water, a white sand beach, small outrigger boats, coconut palms, and a clear tropical sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PH square prompt: Simple vector-illustration travel image for the Philippines, square composition. Show Palawan's El Nido limestone karst cliffs rising from turquoise lagoon water, a white sand beach, small outrigger boats, coconut palms, and a clear tropical sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PH wide prompt: Simple vector-illustration travel image for the Philippines, wide panoramic composition. Show Palawan's El Nido limestone karst cliffs rising from turquoise lagoon water, a white sand beach, small outrigger boats, coconut palms, and a clear tropical sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PH wide prompt: Simple vector-illustration travel image for the Philippines, wide panoramic composition. Show Palawan's El Nido limestone karst cliffs rising from turquoise lagoon water, a white sand beach, small outrigger boats, coconut palms, and a clear tropical sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

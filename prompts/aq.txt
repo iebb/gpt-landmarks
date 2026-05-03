@@ -1,0 +1,7 @@
+# AQ prompts
+
+## AQ square
+Create a simple vector-illustration style travel image for Antarctica (country code AQ), native square composition. Format suitable for a 1254x1254 PNG. Show blue-white icebergs, a scientific research station in the distance, snowy mountains, penguins on ice, and pale polar light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AQ wide
+Create a simple vector-illustration style travel image for Antarctica (country code AQ), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: blue-white icebergs, a scientific research station in the distance, snowy mountains, penguins on ice, and pale polar light, composed horizontally with icebergs and station fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

@@ -1,0 +1,23 @@
+# DE prompts
+
+## CX-DO merged - DE square prompt:
+DE square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Germany (DE), square composition.
+Scene/backdrop: Neuschwanstein Castle above Bavarian alpine hills, forested slopes, distant snow-capped mountains, clear lake reflection, bright seasonal daylight.
+Subject: recognizable Neuschwanstein Castle and Bavarian Alps landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, balanced natural colors, subtle texture, polished travel-poster feel.
+Composition: centered square layout, castle as main focal point, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - DE wide prompt:
+DE wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Germany (DE), wide panoramic composition.
+Scene/backdrop: Neuschwanstein Castle above Bavarian alpine hills, forested slopes, distant snow-capped mountains, clear lake reflection, bright seasonal daylight.
+Subject: recognizable Neuschwanstein Castle and Bavarian Alps landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, balanced natural colors, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, castle offset with sweeping mountains and lake, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

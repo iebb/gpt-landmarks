@@ -1,0 +1,21 @@
+# LB prompts
+
+## LA-LT merged - LB square:
+LB square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Lebanon (country code LB), square composition.
+Scene/backdrop: The Roman temples of Baalbek with the snow-capped Mount Lebanon range and cedar trees in the distance under a Mediterranean sky.
+Subject: Recognizable ancient stone columns and temple ruins as the main landmark, with cedar silhouettes and mountain backdrop.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, columns prominent and centered, readable ruins silhouette, warm limestone foreground, balanced cedar and mountain details, palette of sandstone, cedar green, snow white, and clear blue.
+
+## LA-LT merged - LB wide:
+LB wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Lebanon (country code LB), wide panoramic composition.
+Scene/backdrop: Baalbek Roman temple columns across a broad archaeological site, with cedar trees, the Mount Lebanon range, and a bright Mediterranean sky.
+Subject: Recognizable ancient stone colonnade and temple ruins stretching across the frame, backed by cedars and snow-capped mountains.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, ruins spanning the lower half, columns as strong vertical rhythm, mountains and cedars adding Lebanese context, polished sandstone, cedar green, snow white, and blue palette.

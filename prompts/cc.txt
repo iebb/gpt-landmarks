@@ -1,0 +1,7 @@
+# CC prompts
+
+## CC square
+Create a simple vector-illustration style travel image for Cocos (Keeling) Islands (country code CC), native square composition. Format suitable for a 1254x1254 PNG. Show a remote Indian Ocean atoll with turquoise lagoon, coconut palms, white sand, coral shallows, and soft tropical sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CC wide
+Create a simple vector-illustration style travel image for Cocos (Keeling) Islands (country code CC), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: a remote Indian Ocean atoll with turquoise lagoon, coconut palms, white sand, coral shallows, and soft tropical sunlight, composed horizontally with lagoon and palms fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

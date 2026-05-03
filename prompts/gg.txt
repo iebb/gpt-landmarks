@@ -1,0 +1,19 @@
+# GG prompts
+
+## GD-GM merged - GG square:
+GG square:
+Use case: illustration-story
+Asset type: native square travel image for country code GG, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for Guernsey, no text, no watermark.
+Scene/backdrop: St. Peter Port harbor on Guernsey with blue Channel water, stone quay, and a soft coastal sky.
+Subject: Recognizable Guernsey details: Castle Cornet on its rocky island, pastel harbor houses climbing the hillside, small sailboats and a red-and-white lighthouse beacon.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, fresh coastal palette, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GG wide:
+GG wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GG, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for Guernsey, no text, no watermark.
+Scene/backdrop: Wide panorama of St. Peter Port harbor on Guernsey with blue Channel water, stone quay, and a soft coastal sky.
+Subject: Recognizable Guernsey details: Castle Cornet on its rocky island to the right, pastel harbor houses climbing the hillside to the left, small sailboats across the harbor and a red-and-white lighthouse beacon.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, fresh coastal palette, polished app asset, balanced panoramic composition with generous safe margins.

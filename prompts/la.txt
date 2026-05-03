@@ -1,0 +1,21 @@
+# LA prompts
+
+## LA-LT merged - LA square:
+LA square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Laos (country code LA), square composition.
+Scene/backdrop: Pha That Luang golden stupa in Vientiane with soft tropical greenery, distant low hills, and a clear warm sky.
+Subject: Recognizable central golden Buddhist stupa with tiered spire, clean geometric forms, balanced foreground path, subtle Lao landscape cues.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, centered landmark, generous safe margins, strong readable silhouette at small sizes, polished color palette with gold, green, sky blue, and warm stone.
+
+## LA-LT merged - LA wide:
+LA wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Laos (country code LA), wide panoramic composition.
+Scene/backdrop: Pha That Luang golden stupa in Vientiane set against tropical palms, low Mekong-region hills, and a broad clear sky.
+Subject: Recognizable golden Buddhist stupa slightly left of center, flanked by temple rooflines and greenery, with layered hills stretching across the horizon.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, landmark large but with room for landscape context, clean readable silhouette, balanced foreground path and palms, polished gold, green, sky blue, and warm stone palette.

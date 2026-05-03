@@ -1,0 +1,7 @@
+# JO prompts
+
+## IT-KH merged - JO square prompt: Simple vector-illustration travel image for Jordan, square composition. Show Petra's Treasury carved into rose-red sandstone cliffs, with desert rocks and a warm dawn sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+JO square prompt: Simple vector-illustration travel image for Jordan, square composition. Show Petra's Treasury carved into rose-red sandstone cliffs, with desert rocks and a warm dawn sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+
+## IT-KH merged - JO wide prompt: Simple vector-illustration travel image for Jordan, wide panoramic composition. Show Petra's Treasury centered within rose-red sandstone canyon walls, with desert foreground and warm dawn light. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.
+JO wide prompt: Simple vector-illustration travel image for Jordan, wide panoramic composition. Show Petra's Treasury centered within rose-red sandstone canyon walls, with desert foreground and warm dawn light. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.

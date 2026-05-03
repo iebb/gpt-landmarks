@@ -1,0 +1,21 @@
+# LS prompts
+
+## LA-LT merged - LS square:
+LS square:
+Use case: stylized-concept
+Asset type: native square travel illustration, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Lesotho (country code LS), square composition.
+Scene/backdrop: The Maloti Mountains and Sani Pass highland road, with a traditional Basotho rondavel hut and open alpine grassland.
+Subject: Recognizable Lesotho mountain kingdom landscape with dramatic basalt peaks, winding mountain road, stone-and-thatch rondavel, and highland meadow.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 1:1 square, rondavel in foreground and mountains rising behind, road leading into the pass, strong readable highland silhouette, palette of ochre grass, blue-gray mountains, warm stone, and clear sky.
+
+## LA-LT merged - LS wide:
+LS wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Lesotho (country code LS), wide panoramic composition.
+Scene/backdrop: The Maloti Mountains and Sani Pass highland road crossing open grassland, with a traditional Basotho rondavel hut and dramatic basalt cliffs.
+Subject: Recognizable Lesotho mountain kingdom landscape, winding pass road, stone-and-thatch rondavel, high plateau meadow, and layered mountain peaks.
+Style: Simple modern vector illustration, flat shapes, crisp edges, layered depth, tasteful travel-poster look, no photorealism, no 3D, no text, no flags, no watermark.
+Composition: Native 2:1 wide panorama, rondavel anchoring one side, road snaking through the center into mountains, broad highland scenery, readable silhouettes, ochre grass, blue-gray mountains, warm stone, and clear sky palette.

@@ -1,0 +1,23 @@
+# LV prompts
+
+## LU-MF merged - LV square:
+LV square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Latvia (LV) featuring Riga's House of the Blackheads, St. Peter's Church spire, and the Daugava riverfront.
+Scene/backdrop: Clear Baltic daylight, historic old-town facades, river promenade, and soft northern sky.
+Subject: House of the Blackheads with its ornate stepped gables as the main landmark, supported by Riga church spires and riverfront context.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered landmark, balanced old-town skyline, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## LU-MF merged - LV wide:
+LV wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Latvia (LV) featuring Riga's House of the Blackheads, St. Peter's Church spire, and the Daugava riverfront.
+Scene/backdrop: Clear Baltic daylight, historic old-town facades, river promenade, and soft northern sky.
+Subject: Riga old-town skyline with the House of the Blackheads and St. Peter's Church spire, plus the Daugava river in the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, riverfront stretching horizontally, landmarks readable across the full width, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

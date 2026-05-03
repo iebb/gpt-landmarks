@@ -1,0 +1,23 @@
+# CZ prompts
+
+## CX-DO merged - CZ square prompt:
+CZ square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Czechia (CZ), square composition.
+Scene/backdrop: Prague skyline from the Vltava River with Charles Bridge arches, Prague Castle and St. Vitus Cathedral rising in the background, red rooftops and soft evening light.
+Subject: recognizable Prague landmarks and river cityscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, warm daylight-to-golden-hour colors, subtle texture, polished travel-poster feel.
+Composition: centered square layout, bridge leading toward castle, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - CZ wide prompt:
+CZ wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Czechia (CZ), wide panoramic composition.
+Scene/backdrop: Prague skyline from the Vltava River with Charles Bridge arches stretching across the frame, Prague Castle and St. Vitus Cathedral above red rooftops, soft evening light.
+Subject: recognizable Prague landmarks and river cityscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, warm daylight-to-golden-hour colors, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, bridge leading toward castle, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

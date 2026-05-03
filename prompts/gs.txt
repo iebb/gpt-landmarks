@@ -1,0 +1,13 @@
+# GS prompts
+
+## GN-GW merged - GS square: Use case: stylized-concept
+GS square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for South Georgia and the South Sandwich Islands (GS), square composition. Show dramatic snow-covered mountains and glaciers descending into a cold blue bay, with king penguins on a rocky beach and an old Grytviken whaling station silhouette in the distance. Clean flat shapes, crisp edges, polar daylight, cool blues and whites with warm penguin accents. No text, no flags, no watermark.
+Composition: centered glacier bay scene, designed for a square crop with generous safe margins.
+
+## GN-GW merged - GS wide: Use case: stylized-concept
+GS wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for South Georgia and the South Sandwich Islands (GS), wide panoramic composition. Show dramatic snow-covered mountains and glaciers descending into a cold blue bay, with king penguins on a rocky beach and an old Grytviken whaling station silhouette in the distance. Clean flat shapes, crisp edges, polar daylight, cool blues and whites with warm penguin accents. No text, no flags, no watermark.
+Composition: panoramic subantarctic travel banner arranged naturally across a 2:1 frame with generous safe margins.

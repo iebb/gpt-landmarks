@@ -1,0 +1,23 @@
+# BG prompts
+
+## BG-BO merged - BG square prompt:
+BG square prompt:
+Use case: stylized-concept
+Asset type: native square country travel illustration, 1254x1254 final PNG
+Primary request: Bulgaria (BG) simple vector-illustration travel image.
+Scene/backdrop: a bright Bulgarian travel scene with the Rila Monastery arches, pine-covered mountains, rose fields, and soft sky.
+Subject: simplified landmark-and-landscape composition that reads immediately as Bulgaria.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: square 1:1, centered landmark, generous margins, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.
+
+## BG-BO merged - BG wide prompt:
+BG wide prompt:
+Use case: stylized-concept
+Asset type: native wide country travel illustration, 1774x887 final PNG
+Primary request: Bulgaria (BG) simple vector-illustration travel image matching the square version.
+Scene/backdrop: a wide Bulgarian travel scene with the Rila Monastery arches, pine-covered mountains, rose fields, and soft sky.
+Subject: simplified landmark-and-landscape composition that reads immediately as Bulgaria.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: wide 2:1 panorama, landmark slightly left of center, landscape extending across the frame, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.

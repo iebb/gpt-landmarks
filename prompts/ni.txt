@@ -1,0 +1,21 @@
+# NI prompts
+
+## MY-NI merged - NI square prompt:
+NI square prompt:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254
+Primary request: Simple polished vector-style travel illustration for Nicaragua, square composition.
+Scene/backdrop: Lake Nicaragua with Concepcion Volcano on Ometepe Island, calm blue water, tropical shore plants, small colonial-style boat dock, warm sunset sky.
+Subject: Recognizable Concepcion Volcano and Lake Nicaragua, Ometepe island landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 1:1 square crop with the volcano fully visible above the lake.
+
+## MY-NI merged - NI wide prompt:
+NI wide prompt:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887
+Primary request: Simple polished vector-style travel illustration for Nicaragua, wide panoramic composition.
+Scene/backdrop: Wide Lake Nicaragua panorama with Concepcion Volcano on Ometepe Island, calm blue water, tropical shore plants, small colonial-style boat dock, warm sunset sky.
+Subject: Recognizable Concepcion Volcano and Lake Nicaragua, Ometepe island landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 2:1 wide landscape frame with volcano, lake, and shoreline balanced horizontally.

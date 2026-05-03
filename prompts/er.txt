@@ -1,0 +1,23 @@
+# ER prompts
+
+## DZ-ET merged - ER square:
+ER square:
+Use case: stylized-concept
+Asset type: country travel illustration, native square format
+Primary request: Eritrea (ER) simple vector-illustration travel image for a country image asset.
+Canvas: square composition, designed to crop cleanly at 1254x1254.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Red Sea coast at Massawa with coral-blue water, Ottoman-style arches and white coral-stone buildings, date palms, and warm arid hills in the distance.
+Subject: Eritrea landmark landscape, Massawa coastal architecture and Red Sea shoreline in a balanced central composition.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.
+
+## DZ-ET merged - ER wide:
+ER wide:
+Use case: stylized-concept
+Asset type: country travel illustration, native wide format
+Primary request: Eritrea (ER) simple vector-illustration travel image for a country image asset.
+Canvas: wide panoramic composition, designed to crop cleanly at 1774x887.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Red Sea coast at Massawa with coral-blue water, Ottoman-style arches and white coral-stone buildings, date palms, and warm arid hills in the distance.
+Subject: Eritrea landmark landscape, Massawa coastal architecture and Red Sea shoreline arranged as a broad scenic travel header.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.

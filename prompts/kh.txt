@@ -1,0 +1,7 @@
+# KH prompts
+
+## IT-KH merged - KH square prompt: Simple vector-illustration travel image for Cambodia, square composition. Show Angkor Wat temple towers with lotus ponds, palm trees, and a warm sunrise sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+KH square prompt: Simple vector-illustration travel image for Cambodia, square composition. Show Angkor Wat temple towers with lotus ponds, palm trees, and a warm sunrise sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+
+## IT-KH merged - KH wide prompt: Simple vector-illustration travel image for Cambodia, wide panoramic composition. Show Angkor Wat temple towers stretching across the scene with lotus ponds, palm trees, and a warm sunrise sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.
+KH wide prompt: Simple vector-illustration travel image for Cambodia, wide panoramic composition. Show Angkor Wat temple towers stretching across the scene with lotus ponds, palm trees, and a warm sunrise sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.

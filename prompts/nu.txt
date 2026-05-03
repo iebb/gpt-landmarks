@@ -1,0 +1,25 @@
+# NU prompts
+
+## NL-PA merged - NU square prompt: Simple vector-illustration travel image for Niue, square composition. Show a rugged limestone sea arch and coral cliffs above clear blue water, with reef pools, tropical greenery, and a calm South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NU square prompt: Simple vector-illustration travel image for Niue, square composition. Show a rugged limestone sea arch and coral cliffs above clear blue water, with reef pools, tropical greenery, and a calm South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NL-PA merged - NU wide prompt: Simple vector-illustration travel image for Niue, wide panoramic composition. Show a rugged limestone sea arch and coral cliffs above clear blue water, with reef pools, tropical greenery, and a calm South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+NU wide prompt: Simple vector-illustration travel image for Niue, wide panoramic composition. Show a rugged limestone sea arch and coral cliffs above clear blue water, with reef pools, tropical greenery, and a calm South Pacific sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NP-PA-retry merged - NU square:
+NU square:
+Use case: illustration-story
+Asset type: country travel illustration, square PNG source for NU
+Primary request: Create a simple vector-illustration travel image for Niue in a square 1:1 composition.
+Scene/backdrop: Rugged coral limestone sea cliffs, a natural rock arch and cave opening like Talava Arches, clear deep-blue Pacific water, reef pools, and tropical greenery.
+Subject: Recognizable Niue travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Centered rock arch and coastline, generous safe margins, balanced foreground tide pools and background ocean, suitable for cropping to 1254x1254.
+
+## NP-PA-retry merged - NU wide:
+NU wide:
+Use case: illustration-story
+Asset type: country travel illustration, wide PNG source for NU
+Primary request: Create a simple vector-illustration travel image for Niue in a wide 2:1 composition.
+Scene/backdrop: Rugged coral limestone sea cliffs, a natural rock arch and cave opening like Talava Arches, clear deep-blue Pacific water, reef pools, and tropical greenery along the cliff top.
+Subject: Recognizable Niue travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Expansive horizontal coastal cliff view with arch as the focal point, generous safe margins, suitable for cropping to 1774x887.

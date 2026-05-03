@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Country Stamps Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">Postage Album</p>
+    <h1>Country Stamps</h1>
+    <p class="lede">A collector's grid of 251 generated travel illustrations, framed as postage stamps. Images are resized on the fly through <a href="https://wsrv.nl" target="_blank" rel="noopener">wsrv.nl</a>.</p>
+    <div class="aspect-toggle" role="group" aria-label="Stamp aspect ratio">
+      <button type="button" data-aspect="square" aria-pressed="true">1 &times; 1</button>
+      <button type="button" data-aspect="wide" aria-pressed="false">2 &times; 1</button>
+    </div>
+  </header>
+
+  <main class="gallery" id="gallery" data-aspect="square" aria-label="Country stamp gallery"></main>
+
+  <footer class="page-foot">
+    <p>Source artwork: <a href="https://github.com/iebb/gpt-landmarks" target="_blank" rel="noopener">iebb/gpt-landmarks</a> &middot; resized via <a href="https://wsrv.nl" target="_blank" rel="noopener">images.weserv.nl</a></p>
+  </footer>
+
+  <script>
+    const COUNTRIES = [
+      ["ad","Andorra","Pyrenees micro-state of mountain villages."],
+      ["ae","United Arab Emirates","Desert skyscrapers along the Arabian Gulf."],
+      ["af","Afghanistan","Hindu Kush peaks and ancient bazaars."],
+      ["ag","Antigua and Barbuda","Twin Caribbean isles of pink sand beaches."],
+      ["ai","Anguilla","Long sweeping coral beaches under trade winds."],
+      ["al","Albania","Adriatic coves and Ottoman stone bridges."],
+      ["am","Armenia","Stone monasteries above Caucasus gorges."],
+      ["an","Netherlands Antilles","Former Caribbean Dutch islands."],
+      ["ao","Angola","Atlantic dunes and baobab-studded plains."],
+      ["aq","Antarctica","Endless ice shelves and emperor penguins."],
+      ["ar","Argentina","Tango streets to Patagonian glaciers."],
+      ["as","American Samoa","Volcanic Pacific atolls and rainforest."],
+      ["at","Austria","Alpine castles and the Vienna waltz."],
+      ["au","Australia","Outback red and Great Barrier blues."],
+      ["aw","Aruba","Cactus deserts beside turquoise sea."],
+      ["ax","Åland","Baltic skerries between Sweden and Finland."],
+      ["az","Azerbaijan","Flame towers above the Caspian shore."],
+      ["ba","Bosnia and Herzegovina","Stone bridges over emerald rivers."],
+      ["bb","Barbados","Coral cliffs and rum distilleries."],
+      ["bd","Bangladesh","River deltas and rickshaw-filled cities."],
+      ["be","Belgium","Medieval squares, chocolate, and waffles."],
+      ["bf","Burkina Faso","Sahel mud-brick mosques and markets."],
+      ["bg","Bulgaria","Black Sea coast and rose valleys."],
+      ["bh","Bahrain","Pearl islands and modern souqs."],
+      ["bi","Burundi","Lake Tanganyika hills and drummers."],
+      ["bj","Benin","Stilt villages and voodoo heritage."],
+      ["bl","Saint Barthélemy","Boutique Caribbean coves and yachts."],
+      ["bm","Bermuda","Pastel houses above pink sand beaches."],
+      ["bn","Brunei","Golden mosques and rainforest rivers."],
+      ["bo","Bolivia","Salt flats mirroring Andean skies."],
+      ["bq","Caribbean Netherlands","Bonaire reefs and Saba's cloud peak."],
+      ["br","Brazil","Carnival, Amazon, and Copacabana."],
+      ["bs","Bahamas","Seven hundred turquoise islands."],
+      ["bt","Bhutan","Cliff-side monasteries in the Himalaya."],
+      ["bv","Bouvet Island","Glaciated sub-Antarctic volcanic rock."],
+      ["bw","Botswana","Okavango Delta and Kalahari sands."],
+      ["by","Belarus","Birch forests and onion-domed churches."],
+      ["bz","Belize","Barrier reefs and Mayan jungle ruins."],
+      ["ca","Canada","Maple forests to Rocky Mountain peaks."],
+      ["cc","Cocos Islands","Coconut palms on Indian Ocean atolls."],
+      ["cd","DR Congo","Volcanoes and the Congo River basin."],
+      ["cf","Central African Republic","Forest elephants and savannah."],
+      ["cg","Republic of the Congo","Equatorial rainforests and rivers."],
+      ["ch","Switzerland","Glacier lakes and chocolate-box chalets."],
+      ["ci","Côte d'Ivoire","Cocoa coasts and grand basilicas."],
+      ["ck","Cook Islands","Lagoons of the South Pacific."],
+      ["cl","Chile","Atacama desert to Patagonian fjords."],
+      ["cm","Cameroon","Volcanic Mount Cameroon and rainforest tribes."],
+      ["cn","China","Great Wall, pagodas, and rice terraces."],
+      ["co","Colombia","Coffee mountains and colonial Cartagena."],
+      ["cr","Costa Rica","Cloud forests and Pacific surf coasts."],
+      ["cu","Cuba","Vintage cars and Havana balconies."],
+      ["cv","Cape Verde","Volcanic Atlantic archipelago."],
+      ["cw","Curaçao","Pastel Willemstad waterfront."],
+      ["cx","Christmas Island","Red crab migration island."],
+      ["cy","Cyprus","Aphrodite's Mediterranean shores."],
+      ["cz","Czechia","Gothic Prague spires above the Vltava."],
+      ["de","Germany","Half-timbered towns and the Rhine."],
+      ["dj","Djibouti","Salt lakes and Red Sea trade winds."],
+      ["dk","Denmark","Hygge harbors and Viking shores."],
+      ["dm","Dominica","Boiling lakes and rainforest peaks."],
+      ["do","Dominican Republic","Merengue beaches and colonial squares."],
+      ["dz","Algeria","Sahara dunes and Roman ruins."],
+      ["ec","Ecuador","Andes, Amazon, and the Galápagos."],
+      ["ee","Estonia","Medieval Tallinn and bog forests."],
+      ["eg","Egypt","Pyramids beside the eternal Nile."],
+      ["eh","Western Sahara","Saharan dunes meeting the Atlantic."],
+      ["er","Eritrea","Italian art-deco Asmara skyline."],
+      ["es","Spain","Flamenco, tapas, and Moorish palaces."],
+      ["et","Ethiopia","Highland rock-hewn churches."],
+      ["fi","Finland","Lakes, saunas, and northern lights."],
+      ["fj","Fiji","Coral atolls and bula spirit."],
+      ["fk","Falkland Islands","Sub-Antarctic windswept moors."],
+      ["fm","Micronesia","Pacific lagoons and stone money."],
+      ["fo","Faroe Islands","Grass-roof villages on sea cliffs."],
+      ["fr","France","Eiffel Tower to Provence lavender."],
+      ["ga","Gabon","Equatorial rainforests where gorillas roam."],
+      ["gb","United Kingdom","Big Ben, moors, and country pubs."],
+      ["gd","Grenada","Spice island of nutmeg and rum."],
+      ["ge","Georgia","Caucasus peaks and stone tower villages."],
+      ["gf","French Guiana","Amazon rainforest and Devil's Island."],
+      ["gg","Guernsey","Channel island cliffs and granite lanes."],
+      ["gh","Ghana","Gold coast forts and drumming traditions."],
+      ["gi","Gibraltar","Rocky strait and Barbary apes."],
+      ["gl","Greenland","Icebergs drifting past Inuit villages."],
+      ["gm","Gambia","River nation of mangroves and birds."],
+      ["gn","Guinea","Fouta Djallon highlands and waterfalls."],
+      ["gp","Guadeloupe","Butterfly-shaped Caribbean isle."],
+      ["gq","Equatorial Guinea","Rainforest and Atlantic island capital."],
+      ["gr","Greece","Whitewashed islands and the Acropolis."],
+      ["gs","South Georgia","Sub-Antarctic penguin colonies."],
+      ["gt","Guatemala","Mayan pyramids in jungle highlands."],
+      ["gu","Guam","Pacific cliffs and Chamorro shores."],
+      ["gw","Guinea-Bissau","Bijagós archipelago of pristine isles."],
+      ["gy","Guyana","Kaieteur Falls deep in rainforest."],
+      ["hk","Hong Kong","Neon harbor and dim sum lanes."],
+      ["hm","Heard and McDonald Islands","Remote sub-Antarctic volcanoes."],
+      ["hn","Honduras","Mayan Copán and Bay Island reefs."],
+      ["hr","Croatia","Adriatic walled towns and pine isles."],
+      ["ht","Haiti","Citadel fortresses and creole rhythms."],
+      ["hu","Hungary","Thermal baths and Danube spires."],
+      ["id","Indonesia","Volcanoes, temples, and coral reefs."],
+      ["ie","Ireland","Emerald cliffs and Celtic mist."],
+      ["il","Israel","Holy land of stone and sea."],
+      ["im","Isle of Man","Manx hills and TT racing roads."],
+      ["in","India","Taj Mahal to Himalayan peaks."],
+      ["io","British Indian Ocean Territory","Chagos coral atolls."],
+      ["iq","Iraq","Mesopotamian rivers and ziggurats."],
+      ["ir","Iran","Persian gardens and tiled mosques."],
+      ["is","Iceland","Geysers, glaciers, and lava fields."],
+      ["it","Italy","Roman ruins and Tuscan vineyards."],
+      ["je","Jersey","Channel island bays and tides."],
+      ["jm","Jamaica","Reggae beaches and Blue Mountains."],
+      ["jo","Jordan","Petra carved from rose-red rock."],
+      ["jp","Japan","Cherry blossoms and neon Tokyo nights."],
+      ["ke","Kenya","Savannah migrations and Maasai culture."],
+      ["kg","Kyrgyzstan","Yurt camps in the Tien Shan."],
+      ["kh","Cambodia","Angkor temples reclaimed by jungle."],
+      ["ki","Kiribati","Pacific equator atolls."],
+      ["km","Comoros","Volcanic Indian Ocean islands."],
+      ["kn","Saint Kitts and Nevis","Twin volcanic Caribbean peaks."],
+      ["kp","North Korea","Mountain monuments and parade squares."],
+      ["kr","South Korea","K-pop cities and royal palaces."],
+      ["kw","Kuwait","Gulf desert and modern towers."],
+      ["ky","Cayman Islands","Stingray sandbars and reefs."],
+      ["kz","Kazakhstan","Endless steppe and futurist Astana."],
+      ["la","Laos","Mekong temples and karst mountains."],
+      ["lb","Lebanon","Cedar mountains rising over Beirut."],
+      ["lc","Saint Lucia","The twin Pitons rising from the sea."],
+      ["li","Liechtenstein","Alpine principality castles."],
+      ["lk","Sri Lanka","Tea hills and elephant temples."],
+      ["lr","Liberia","Atlantic surf coast and palm forest."],
+      ["ls","Lesotho","Sky kingdom of the mountain Basotho."],
+      ["lt","Lithuania","Baltic dunes and amber shores."],
+      ["lu","Luxembourg","Cliff-top old town and forests."],
+      ["lv","Latvia","Art Nouveau Riga and pine forests."],
+      ["ly","Libya","Sahara oases and Roman Leptis Magna."],
+      ["ma","Morocco","Souks, Atlas peaks, and Sahara."],
+      ["mc","Monaco","Riviera yachts and royal harbor."],
+      ["md","Moldova","Vineyards and stone monasteries."],
+      ["me","Montenegro","The Bay of Kotor's Adriatic fjord."],
+      ["mf","Saint Martin","Dual-nation Caribbean isle."],
+      ["mg","Madagascar","Baobab avenues and lemur forests."],
+      ["mh","Marshall Islands","Pacific atolls and lagoon villages."],
+      ["mk","North Macedonia","Lake Ohrid and Balkan mountains."],
+      ["ml","Mali","Mud mosques along the Niger River."],
+      ["mm","Myanmar","Bagan plain of countless pagodas."],
+      ["mn","Mongolia","Steppe nomads and Gobi dunes."],
+      ["mo","Macau","Portuguese colonial casinos and forts."],
+      ["mp","Northern Mariana Islands","Pacific war-history beaches."],
+      ["mq","Martinique","Volcanic French Caribbean isle."],
+      ["mr","Mauritania","Saharan caravan routes."],
+      ["ms","Montserrat","Volcanic ash isle of the Caribbean."],
+      ["mt","Malta","Limestone temples and grand harbors."],
+      ["mu","Mauritius","Sugar isles and reef-ringed lagoons."],
+      ["mv","Maldives","Overwater villas on coral atolls."],
+      ["mw","Malawi","Lake Malawi's freshwater shores."],
+      ["mx","Mexico","Aztec pyramids and beach cenotes."],
+      ["my","Malaysia","Twin towers and ancient rainforests."],
+      ["mz","Mozambique","Indian Ocean coral coasts."],
+      ["na","Namibia","Skeleton coast and red Sossusvlei dunes."],
+      ["nc","New Caledonia","Lagoon nation in the South Pacific."],
+      ["ne","Niger","Sahara sands and the Niger River."],
+      ["nf","Norfolk Island","Pine cliffs in the South Pacific."],
+      ["ng","Nigeria","Lagos energy and Yoruba heritage."],
+      ["ni","Nicaragua","Volcanoes between two oceans."],
+      ["nl","Netherlands","Tulip fields and canal-lined cities."],
+      ["no","Norway","Fjords, aurora, and stave churches."],
+      ["np","Nepal","Himalayan peaks and prayer flags."],
+      ["nr","Nauru","Tiny phosphate Pacific island."],
+      ["nu","Niue","Coral cliff Polynesian rock."],
+      ["nz","New Zealand","Fiords, glaciers, and Maori culture."],
+      ["om","Oman","Forts, dunes, and dhow harbors."],
+      ["pa","Panama","The canal between two oceans."],
+      ["pe","Peru","Machu Picchu high above the Andes."],
+      ["pf","French Polynesia","Tahitian lagoons and tikis."],
+      ["pg","Papua New Guinea","Highland tribes and coral reefs."],
+      ["ph","Philippines","Seven thousand tropical islands."],
+      ["pk","Pakistan","Karakoram peaks and Mughal gardens."],
+      ["pl","Poland","Old town squares and pine forests."],
+      ["pm","Saint Pierre and Miquelon","French isles off Newfoundland."],
+      ["pn","Pitcairn Islands","Mutineers' remote Pacific home."],
+      ["pr","Puerto Rico","Old San Juan and El Yunque rainforest."],
+      ["ps","Palestine","Olive groves and ancient stone cities."],
+      ["pt","Portugal","Azulejo tiles and Atlantic cliffs."],
+      ["pw","Palau","Rock islands and jellyfish lakes."],
+      ["py","Paraguay","Jesuit missions and Chaco wilds."],
+      ["qa","Qatar","Desert dunes and pearl-domed museums."],
+      ["re","Réunion","Volcanic Indian Ocean isle."],
+      ["ro","Romania","Carpathian castles and painted monasteries."],
+      ["rs","Serbia","Danube fortresses and Belgrade nights."],
+      ["ru","Russia","Onion domes and the endless taiga."],
+      ["rw","Rwanda","Land of a thousand misty hills."],
+      ["sa","Saudi Arabia","Red Sea coasts and Arabian deserts."],
+      ["sb","Solomon Islands","Pacific war-relic isles and reefs."],
+      ["sc","Seychelles","Granite boulder beaches."],
+      ["sd","Sudan","Nubian pyramids along the Nile."],
+      ["se","Sweden","Archipelagos and northern forests."],
+      ["sg","Singapore","Garden city skyline and hawker stalls."],
+      ["sh","Saint Helena","Napoleon's Atlantic island exile."],
+      ["si","Slovenia","Alpine lakes and karst caves."],
+      ["sj","Svalbard and Jan Mayen","Arctic polar archipelago."],
+      ["sk","Slovakia","Tatra mountains and stone castles."],
+      ["sl","Sierra Leone","Atlantic peninsula beaches."],
+      ["sm","San Marino","Triple-tower hilltop republic."],
+      ["sn","Senegal","Pink lake and Dakar drums."],
+      ["so","Somalia","Horn of Africa coast and dunes."],
+      ["sr","Suriname","Dutch creole rainforest nation."],
+      ["ss","South Sudan","Sudd wetlands and savannah."],
+      ["st","São Tomé and Príncipe","Equatorial cocoa islands."],
+      ["sv","El Salvador","Pacific surf and chain of volcanoes."],
+      ["sx","Sint Maarten","Dutch Caribbean half-island."],
+      ["sy","Syria","Crusader castles and Damascus souqs."],
+      ["sz","Eswatini","Mountain kingdom of the Swazi."],
+      ["tc","Turks and Caicos","Powdery Caribbean cays."],
+      ["td","Chad","Saharan lakes and rock art."],
+      ["tf","French Southern Territories","Sub-Antarctic French isles."],
+      ["tg","Togo","Voodoo coast and palm-lined beaches."],
+      ["th","Thailand","Golden temples and emerald isles."],
+      ["tj","Tajikistan","Pamir highland yurts and rivers."],
+      ["tk","Tokelau","Three remote Pacific atolls."],
+      ["tl","Timor-Leste","Mountain villages above coral reefs."],
+      ["tm","Turkmenistan","Karakum desert and marble Ashgabat."],
+      ["tn","Tunisia","Roman amphitheaters and medinas."],
+      ["to","Tonga","Polynesian kingdom of reefs."],
+      ["tr","Türkiye","Bosphorus, Cappadocia, and bazaars."],
+      ["tt","Trinidad and Tobago","Carnival rhythms and rainforest."],
+      ["tv","Tuvalu","Low-lying Pacific atoll nation."],
+      ["tw","Taiwan","Night markets and tea-terraced mountains."],
+      ["tz","Tanzania","Serengeti and snow-capped Kilimanjaro."],
+      ["ua","Ukraine","Wheat fields and Kyiv golden domes."],
+      ["ug","Uganda","Source of the Nile and gorilla forests."],
+      ["um","U.S. Outlying Islands","Remote Pacific atolls."],
+      ["us","United States","Coast to coast of mountains and skylines."],
+      ["uy","Uruguay","Pampas ranches and Atlantic resorts."],
+      ["uz","Uzbekistan","Silk Road blue-tiled domes."],
+      ["va","Vatican City","Heart of the Catholic world."],
+      ["vc","Saint Vincent and the Grenadines","Sailing isles of the Caribbean."],
+      ["ve","Venezuela","Angel Falls and Caribbean coast."],
+      ["vg","British Virgin Islands","Yachting cays and reefs."],
+      ["vi","U.S. Virgin Islands","Sapphire bay beaches."],
+      ["vn","Vietnam","Karst bays and rice terrace valleys."],
+      ["vu","Vanuatu","Volcanic Melanesian islands."],
+      ["wf","Wallis and Futuna","French Polynesian outposts."],
+      ["ws","Samoa","Polynesian heart of the Pacific."],
+      ["xk","Kosovo","Balkan mosques and mountain towns."],
+      ["ye","Yemen","Mud-brick towers and desert wadis."],
+      ["yt","Mayotte","Lagoon-ringed French isle."],
+      ["za","South Africa","Cape coast to safari savannah."],
+      ["zm","Zambia","Victoria Falls and bushveld."],
+      ["zw","Zimbabwe","Stone ruins and elephant lands."]
+    ];
+
+    const ORIGIN = location.host || "stamps.ieb.app";
+    const SIZES = {
+      square: { folder: "1254x1254", w: 500, h: 500 },
+      wide:   { folder: "1774x887",  w: 600, h: 300 },
+    };
+    const weserv = (path, w, h) =>
+      `https://wsrv.nl/?url=${ORIGIN}/${path}&w=${w}&h=${h}&fit=cover&output=jpg&q=82`;
+
+    const gallery = document.getElementById("gallery");
+    const frag = document.createDocumentFragment();
+
+    for (const [code, name, desc] of COUNTRIES) {
+      const fig = document.createElement("figure");
+      fig.className = "stamp";
+
+      const inner = document.createElement("div");
+      inner.className = "stamp-inner";
+
+      const top = document.createElement("div");
+      top.className = "stamp-top";
+      top.innerHTML = `<span class="stamp-country">${name}</span><span class="stamp-code">${code.toUpperCase()}</span>`;
+
+      const img = document.createElement("img");
+      img.className = "stamp-img";
+      img.loading = "lazy";
+      img.decoding = "async";
+      img.alt = `Travel illustration of ${name}`;
+      img.dataset.code = code;
+
+      const caption = document.createElement("figcaption");
+      caption.className = "stamp-caption";
+      caption.textContent = desc;
+
+      const postmark = document.createElement("div");
+      postmark.className = "postmark";
+      postmark.setAttribute("aria-hidden", "true");
+      postmark.innerHTML = `<span>${code.toUpperCase()}</span><em>Air Mail</em>`;
+
+      inner.append(top, img, caption, postmark);
+      fig.append(inner);
+      frag.append(fig);
+    }
+
+    gallery.append(frag);
+
+    function applyAspect(aspect) {
+      const cfg = SIZES[aspect];
+      gallery.dataset.aspect = aspect;
+      for (const img of gallery.querySelectorAll(".stamp-img")) {
+        img.src = weserv(`images/${cfg.folder}/${img.dataset.code}.png`, cfg.w, cfg.h);
+        img.width = cfg.w;
+        img.height = cfg.h;
+      }
+      for (const btn of document.querySelectorAll(".aspect-toggle button")) {
+        btn.setAttribute("aria-pressed", String(btn.dataset.aspect === aspect));
+      }
+    }
+
+    document.querySelector(".aspect-toggle").addEventListener("click", (e) => {
+      const btn = e.target.closest("button[data-aspect]");
+      if (btn) applyAspect(btn.dataset.aspect);
+    });
+
+    applyAspect("square");
+  </script>
+</body>
+</html>

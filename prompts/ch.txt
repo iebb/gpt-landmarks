@@ -1,0 +1,7 @@
+# CH prompts
+
+## CH square
+Create a simple vector-illustration style travel image for Switzerland (country code CH), native square composition. Format suitable for a 1254x1254 PNG. Show the Matterhorn above an alpine village, green meadows, chalet roofs, wildflowers, and crisp mountain sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CH wide
+Create a simple vector-illustration style travel image for Switzerland (country code CH), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: the Matterhorn above an alpine village, green meadows, chalet roofs, wildflowers, and crisp mountain sunlight, composed horizontally with peak and village fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

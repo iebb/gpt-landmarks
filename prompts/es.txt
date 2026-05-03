@@ -1,0 +1,23 @@
+# ES prompts
+
+## DZ-ET merged - ES square:
+ES square:
+Use case: stylized-concept
+Asset type: country travel illustration, native square format
+Primary request: Spain (ES) simple vector-illustration travel image for a country image asset.
+Canvas: square composition, designed to crop cleanly at 1254x1254.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Barcelona skyline with the Sagrada Familia towers, warm Mediterranean rooftops, cypress trees, tiled plaza patterns, and distant blue sea under golden sunlight.
+Subject: Spain landmark cityscape, Sagrada Familia as the central readable landmark with Mediterranean color and architecture.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.
+
+## DZ-ET merged - ES wide:
+ES wide:
+Use case: stylized-concept
+Asset type: country travel illustration, native wide format
+Primary request: Spain (ES) simple vector-illustration travel image for a country image asset.
+Canvas: wide panoramic composition, designed to crop cleanly at 1774x887.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Barcelona skyline with the Sagrada Familia towers across the center, warm Mediterranean rooftops, cypress trees, tiled plaza patterns, and distant blue sea under golden sunlight.
+Subject: Spain landmark cityscape, Sagrada Familia and Barcelona arranged as a broad scenic travel header.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.

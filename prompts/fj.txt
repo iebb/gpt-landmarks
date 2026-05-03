@@ -1,0 +1,21 @@
+# FJ prompts
+
+## FI-GB merged - FJ square:
+FJ square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1
+Primary request: Fiji (FJ) simple vector-illustration travel image.
+Scene/backdrop: tropical Fiji island lagoon with turquoise water, palm trees, white sand, volcanic green hills, traditional thatched bure huts and a small outrigger canoe.
+Subject: clean geometric vector-style travel poster scene for Fiji, no flag, no text, no watermark.
+Composition: native square composition, lagoon foreground and huts framed by palms, generous safe margins for a 1254x1254 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, bright natural colors, clear silhouettes, high-resolution raster output.
+
+## FI-GB merged - FJ wide:
+FJ wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1
+Primary request: Fiji (FJ) simple vector-illustration travel image matching the square Fiji asset.
+Scene/backdrop: panoramic Fiji tropical lagoon with turquoise water, palm-lined white beach, volcanic green hills, thatched bure huts, coral shallows, and a small outrigger canoe.
+Subject: clean geometric vector-style travel poster scene for Fiji, no flag, no text, no watermark.
+Composition: native wide 2:1 composition, beach and lagoon stretching across frame with huts and mountain as anchors, generous safe margins for a 1774x887 final image.
+Style: simple polished vector illustration, flat shapes, subtle grain, bright natural colors, clear silhouettes, high-resolution raster output.

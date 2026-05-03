@@ -1,0 +1,23 @@
+# DO prompts
+
+## CX-DO merged - DO square prompt:
+DO square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for the Dominican Republic (DO), square composition.
+Scene/backdrop: Caribbean beach at Punta Cana with leaning palm trees, turquoise water, white sand, small thatched palapa huts, and soft tropical hills in the distance.
+Subject: recognizable Dominican Republic resort coastline and tropical Caribbean landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, bright balanced tropical colors, subtle texture, polished travel-poster feel.
+Composition: centered square layout, palms framing beach and sea, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - DO wide prompt:
+DO wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for the Dominican Republic (DO), wide panoramic composition.
+Scene/backdrop: Caribbean beach at Punta Cana with leaning palm trees, turquoise water, white sand, small thatched palapa huts, and soft tropical hills in the distance.
+Subject: recognizable Dominican Republic resort coastline and tropical Caribbean landscape, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, bright balanced tropical colors, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, sweeping beach curve with palms and sea, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

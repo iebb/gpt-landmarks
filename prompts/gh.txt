@@ -1,0 +1,19 @@
+# GH prompts
+
+## GD-GM merged - GH square:
+GH square:
+Use case: illustration-story
+Asset type: native square travel image for country code GH, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for Ghana, no text, no watermark.
+Scene/backdrop: Coastal Ghana with golden beach, Atlantic waves, palm trees, and a warm blue sky.
+Subject: Recognizable Ghana landmark: Cape Coast Castle white fortress facing the sea, fishing canoes with colorful patterns on the sand, distant palms and subtle kente-inspired color accents in foreground textiles without readable symbols.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, warm coastal palette, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GH wide:
+GH wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GH, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for Ghana, no text, no watermark.
+Scene/backdrop: Wide coastal Ghana panorama with golden beach, Atlantic waves, palm trees, and a warm blue sky.
+Subject: Recognizable Ghana landmark: Cape Coast Castle white fortress facing the sea near the center, fishing canoes with colorful patterns along the foreground shore, distant palms and subtle kente-inspired color accents in foreground textiles without readable symbols.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, warm coastal palette, polished app asset, balanced panoramic composition with generous safe margins.

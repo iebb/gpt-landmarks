@@ -1,0 +1,21 @@
+# IR prompts
+
+## IE-IS merged - IR square:
+IR square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: Iran (IR) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: Nasir al-Mulk Mosque in Shiraz with pink tile arches, stained-glass color glow, Persian garden courtyard, distant Zagros foothills.
+Subject: iconic Persian mosque architecture and garden, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, jewel-toned travel-poster color, no photorealism.
+Composition: centered square composition, ornate arched facade prominent but simplified, courtyard pool in foreground, readable at thumbnail size, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IR wide:
+IR wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: Iran (IR) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Nasir al-Mulk Mosque in Shiraz with pink tile arches, stained-glass color glow, Persian garden courtyard, distant Zagros foothills.
+Subject: iconic Persian mosque architecture and garden across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, jewel-toned travel-poster color, no photorealism.
+Composition: wide 2:1 composition, mosque facade centered with garden pool leading in from foreground, mountains and cypress trees framing sides, no text, no letters, no flags, no watermark.

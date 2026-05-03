@@ -1,0 +1,29 @@
+# BA prompts
+
+## BA square
+Create a simple vector-illustration style travel image for Bosnia and Herzegovina (country code BA), native square composition. Format suitable for a 1254x1254 PNG. Show Mostar Old Bridge over the Neretva River, stone town houses, minaret silhouette, and warm Balkan afternoon light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## BA wide
+Create a simple vector-illustration style travel image for Bosnia and Herzegovina (country code BA), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Mostar Old Bridge over the Neretva River, stone town houses, minaret silhouette, and warm Balkan afternoon light, composed horizontally with bridge and river fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AW-BF merged - BA square prompt:
+BA square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code BA, Bosnia and Herzegovina
+Primary request: Create a simple vector-illustration travel image for Bosnia and Herzegovina, square composition.
+Scene/backdrop: Mostar old bridge arching over the emerald Neretva River, Ottoman stone houses, terracotta roofs, green hills, and clear Balkan daylight.
+Subject: Bosnia and Herzegovina travel landmark scene centered on Stari Most and river reflections.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, natural stone colors with emerald water, no photorealism.
+Composition: native square layout, bridge as central focal point, layered river foreground and hillside background, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - BA wide prompt:
+BA wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code BA, Bosnia and Herzegovina
+Primary request: Create a simple vector-illustration travel image for Bosnia and Herzegovina, wide panoramic composition matching the square BA concept.
+Scene/backdrop: Mostar old bridge arching over the emerald Neretva River, Ottoman stone houses, terracotta roofs, green hills, and clear Balkan daylight.
+Subject: Bosnia and Herzegovina travel landmark scene with Stari Most spanning the frame and river reflections below.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, natural stone colors with emerald water, no photorealism.
+Composition: native wide 2:1 layout, bridge and old town across the center, river foreground, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

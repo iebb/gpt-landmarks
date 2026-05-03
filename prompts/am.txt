@@ -1,0 +1,7 @@
+# AM prompts
+
+## AM square
+Create a simple vector-illustration style travel image for Armenia (country code AM), native square composition. Format suitable for a 1254x1254 PNG. Show Khor Virap monastery with Mount Ararat in the background, warm stone, vineyards, and clear highland light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AM wide
+Create a simple vector-illustration style travel image for Armenia (country code AM), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Khor Virap monastery with Mount Ararat in the background, warm stone, vineyards, and clear highland light, composed horizontally with monastery and mountain fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

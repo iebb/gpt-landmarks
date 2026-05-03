@@ -1,0 +1,21 @@
+# MH prompts
+
+## MG-MP merged - MH square prompt:
+MH square prompt:
+Use case: illustration-story
+Asset type: native square travel country image, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for the Marshall Islands (country code MH).
+Scene/backdrop: A serene Pacific atoll lagoon with turquoise water, white sand, coconut palms, coral shallows, and small outrigger canoe near a low island.
+Subject: Recognizable tropical atoll landscape of the Marshall Islands, centered in a square composition with ocean and palms.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: square 1:1, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## MG-MP merged - MH wide prompt:
+MH wide prompt:
+Use case: illustration-story
+Asset type: native wide travel country image, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for the Marshall Islands (country code MH).
+Scene/backdrop: A wide Pacific atoll lagoon panorama with turquoise water, coral reef patterns visible below, low palm-covered islets, white sandbar, and a small outrigger canoe.
+Subject: Recognizable Marshall Islands tropical atoll seascape spread across a horizontal banner.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.

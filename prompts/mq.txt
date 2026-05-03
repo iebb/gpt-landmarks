@@ -1,0 +1,23 @@
+# MQ prompts
+
+## MQ-MX merged - MQ square:
+MQ square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Martinique (MQ) featuring Mount Pelee volcano, Saint-Pierre coastal town, and Caribbean shoreline.
+Scene/backdrop: Bright tropical daylight with green volcanic slopes, turquoise sea, black-sand beach, palms, and warm Creole coastal buildings.
+Subject: Mount Pelee as the main recognizable landscape landmark, with Saint-Pierre rooftops and shoreline in the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered volcano and coast, layered sea-town-mountain depth, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## MQ-MX merged - MQ wide:
+MQ wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Martinique (MQ) featuring Mount Pelee volcano, Saint-Pierre coastal town, and Caribbean shoreline.
+Scene/backdrop: Bright tropical daylight with green volcanic slopes, turquoise sea, black-sand beach, palms, and warm Creole coastal buildings.
+Subject: Mount Pelee rising behind Saint-Pierre and a sweeping Caribbean shoreline, with palms and small boats adding scale.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, coastline stretching horizontally, volcano as the focal point, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

@@ -1,0 +1,21 @@
+# NC prompts
+
+## MY-NI merged - NC square prompt:
+NC square prompt:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254
+Primary request: Simple polished vector-style travel illustration for New Caledonia, square composition.
+Scene/backdrop: Amedee Lighthouse on a small tropical island, turquoise lagoon, coral reef shallows, white sand, palm trees, bright Pacific sky.
+Subject: Recognizable Amedee Lighthouse, New Caledonia lagoon, reef and island landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 1:1 square crop with the lighthouse fully visible and lagoon foreground.
+
+## MY-NI merged - NC wide prompt:
+NC wide prompt:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887
+Primary request: Simple polished vector-style travel illustration for New Caledonia, wide panoramic composition.
+Scene/backdrop: Wide Pacific lagoon panorama with Amedee Lighthouse on a small island, turquoise coral reef shallows, white sandbars, palms, bright sky.
+Subject: Recognizable Amedee Lighthouse, New Caledonia lagoon, reef and island landscape.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 2:1 wide landscape frame with broad lagoon water and lighthouse as the focal point.

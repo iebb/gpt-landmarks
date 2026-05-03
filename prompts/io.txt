@@ -1,0 +1,21 @@
+# IO prompts
+
+## IE-IS merged - IO square:
+IO square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: British Indian Ocean Territory (IO) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: Diego Garcia tropical atoll lagoon, curved white sand beach, turquoise water, coconut palms, coral shallows, low tropical clouds.
+Subject: Chagos Archipelago atoll landscape with lagoon and palms, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, bright tropical travel-poster color, no photorealism.
+Composition: centered square composition, lagoon curve and palm silhouettes clearly readable, reef water patterns in foreground, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IO wide:
+IO wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: British Indian Ocean Territory (IO) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Diego Garcia tropical atoll lagoon, sweeping white sand beach, turquoise water, coconut palms, coral shallows, low tropical clouds.
+Subject: Chagos Archipelago atoll landscape with lagoon and palms across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, bright tropical travel-poster color, no photorealism.
+Composition: wide 2:1 composition, lagoon arc spanning the frame, palms framing the left and right edges, coral patterns visible in foreground water, no text, no letters, no flags, no watermark.

@@ -1,0 +1,7 @@
+# AR prompts
+
+## AR square
+Create a simple vector-illustration style travel image for Argentina (country code AR), native square composition. Format suitable for a 1254x1254 PNG. Show Patagonia with Mount Fitz Roy, glacial lake, windswept grassland, and clear southern light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AR wide
+Create a simple vector-illustration style travel image for Argentina (country code AR), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Patagonia with Mount Fitz Roy, glacial lake, windswept grassland, and clear southern light, composed horizontally with peak and lake fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

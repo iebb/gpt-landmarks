@@ -1,0 +1,19 @@
+# GM prompts
+
+## GD-GM merged - GM square:
+GM square:
+Use case: illustration-story
+Asset type: native square travel image for country code GM, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for The Gambia, no text, no watermark.
+Scene/backdrop: The Gambia River landscape at sunset with mangroves, calm water, and warm savanna colors.
+Subject: Recognizable Gambian details: Arch 22 monument silhouette near Banjul in the middle distance, wooden pirogue boat on the river, baobab tree and palm clusters on the shore, colorful market cloth accents in the foreground without readable symbols.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, warm river-and-savanna palette, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GM wide:
+GM wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GM, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for The Gambia, no text, no watermark.
+Scene/backdrop: Wide panorama of The Gambia River at sunset with mangroves, calm water, and warm savanna colors.
+Subject: Recognizable Gambian details: Arch 22 monument silhouette near Banjul in the middle distance, wooden pirogue boat crossing the river, baobab tree and palm clusters on the shore, colorful market cloth accents in the foreground without readable symbols.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, warm river-and-savanna palette, polished app asset, balanced panoramic composition with generous safe margins.

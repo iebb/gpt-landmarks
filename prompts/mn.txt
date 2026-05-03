@@ -1,0 +1,21 @@
+# MN prompts
+
+## MG-MP merged - MN square prompt:
+MN square prompt:
+Use case: illustration-story
+Asset type: native square travel country image, final PNG will be 1254x1254
+Primary request: Create a simple vector-illustration travel image for Mongolia (country code MN).
+Scene/backdrop: Open Mongolian steppe with rolling green grasslands, distant Altai-style mountains, blue sky, and a traditional white ger near grazing horses.
+Subject: Recognizable Mongolian ger, horses, wide steppe, and mountain landscape, centered in a square composition.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: square 1:1, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## MG-MP merged - MN wide prompt:
+MN wide prompt:
+Use case: illustration-story
+Asset type: native wide travel country image, final PNG will be 1774x887
+Primary request: Create a simple vector-illustration travel image for Mongolia (country code MN).
+Scene/backdrop: A wide Mongolian steppe panorama with rolling green grasslands, traditional white gers, grazing horses, winding river, distant snow-capped mountains, and clear blue sky.
+Subject: Recognizable Mongolia landscape with gers and horses arranged across a horizontal travel banner.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
+Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.

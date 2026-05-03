@@ -1,0 +1,23 @@
+# CX prompts
+
+## CX-DO merged - CX square prompt:
+CX square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Christmas Island (CX), square composition.
+Scene/backdrop: tropical Indian Ocean island coast with red crab migration across a forest path, limestone cliffs, turquoise water, and dense rainforest.
+Subject: recognizable Christmas Island red crabs and island coastline, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, warm daylight, balanced colors, subtle texture, polished travel-poster feel.
+Composition: centered square layout, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - CX wide prompt:
+CX wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Christmas Island (CX), wide panoramic composition.
+Scene/backdrop: tropical Indian Ocean coastline with red crab migration across a rainforest path, limestone cliffs, turquoise lagoon, and dense jungle canopy.
+Subject: recognizable Christmas Island red crabs and dramatic island coast, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, warm daylight, balanced colors, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, sweeping coastline, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

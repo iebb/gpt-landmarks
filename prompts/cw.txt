@@ -1,0 +1,7 @@
+# CW prompts
+
+## CW square
+Create a simple vector-illustration style travel image for Curaçao (country code CW), native square composition. Format suitable for a 1254x1254 PNG. Show Willemstad colorful Dutch waterfront facades, Queen Emma Bridge, turquoise harbor water, palms, and sunny Caribbean light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CW wide
+Create a simple vector-illustration style travel image for Curaçao (country code CW), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Willemstad colorful Dutch waterfront facades, Queen Emma Bridge, turquoise harbor water, palms, and sunny Caribbean light, composed horizontally with waterfront and bridge fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

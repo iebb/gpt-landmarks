@@ -1,0 +1,13 @@
+# GT prompts
+
+## GN-GW merged - GT square: Use case: stylized-concept
+GT square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Guatemala (GT), square composition. Show the Tikal Mayan temple pyramids rising from dense jungle, with Lake Atitlan and volcano silhouettes suggested in the background. Clean flat shapes, crisp edges, golden morning light, emerald jungle, recognizable Guatemalan landmarks. No text, no flags, no watermark.
+Composition: centered Tikal temple and jungle, designed for a square crop with generous safe margins.
+
+## GN-GW merged - GT wide: Use case: stylized-concept
+GT wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Guatemala (GT), wide panoramic composition. Show the Tikal Mayan temple pyramids rising from dense jungle, with Lake Atitlan and volcano silhouettes suggested in the background. Clean flat shapes, crisp edges, golden morning light, emerald jungle, recognizable Guatemalan landmarks. No text, no flags, no watermark.
+Composition: panoramic jungle and volcano banner arranged naturally across a 2:1 frame with generous safe margins.

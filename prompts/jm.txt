@@ -1,0 +1,7 @@
+# JM prompts
+
+## IT-KH merged - JM square prompt: Simple vector-illustration travel image for Jamaica, square composition. Show Dunn's River Falls cascading through lush tropical greenery with a turquoise Caribbean cove and Blue Mountain silhouettes. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+JM square prompt: Simple vector-illustration travel image for Jamaica, square composition. Show Dunn's River Falls cascading through lush tropical greenery with a turquoise Caribbean cove and Blue Mountain silhouettes. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+
+## IT-KH merged - JM wide prompt: Simple vector-illustration travel image for Jamaica, wide panoramic composition. Show Dunn's River Falls flowing through dense tropical foliage toward a turquoise Caribbean shoreline, with distant Blue Mountain silhouettes. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.
+JM wide prompt: Simple vector-illustration travel image for Jamaica, wide panoramic composition. Show Dunn's River Falls flowing through dense tropical foliage toward a turquoise Caribbean shoreline, with distant Blue Mountain silhouettes. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.

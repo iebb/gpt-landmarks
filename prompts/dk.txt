@@ -1,0 +1,23 @@
+# DK prompts
+
+## CX-DO merged - DK square prompt:
+DK square prompt:
+Use case: illustration-story
+Asset type: country travel image, native square 1:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Denmark (DK), strict square composition.
+Scene/backdrop: Copenhagen Nyhavn harbor with colorful historic waterfront houses, moored wooden boats, calm canal water, and a bright Nordic sky.
+Subject: recognizable Nyhavn canal architecture and harbor scene, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, cheerful but balanced colors, subtle texture, polished travel-poster feel.
+Composition: strict 1:1 square layout, canal leading between houses and boats, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.
+
+## CX-DO merged - DK wide prompt:
+DK wide prompt:
+Use case: illustration-story
+Asset type: country travel image, native wide 2:1 raster illustration
+Primary request: Create a simple clean vector-style travel illustration for Denmark (DK), wide panoramic composition.
+Scene/backdrop: Copenhagen Nyhavn harbor with colorful historic waterfront houses, moored wooden boats, calm canal water, and a bright Nordic sky.
+Subject: recognizable Nyhavn canal architecture and harbor scene, no people.
+Style: flat vector illustration look rendered as raster PNG, crisp geometric shapes, cheerful but balanced colors, subtle texture, polished travel-poster feel.
+Composition: wide horizontal 2:1 layout, long row of colorful houses and boats along the canal, clear foreground/midground/background, generous safe margins, no border.
+Constraints: no text, no letters, no numbers, no flags, no logos, no watermark, no photorealism.

@@ -1,0 +1,19 @@
+# GF prompts
+
+## GD-GM merged - GF square:
+GF square:
+Use case: illustration-story
+Asset type: native square travel image for country code GF, final crop 1:1.
+Primary request: Create a simple clean vector-style travel illustration for French Guiana, no text, no watermark.
+Scene/backdrop: Kourou spaceport landscape with tropical forest, low coastal wetlands, and a bright equatorial sky.
+Subject: Recognizable French Guiana details: Ariane rocket standing on a launch pad in the distance, rainforest canopy with palms and broadleaf trees in the foreground, a river bend and a scarlet ibis flying overhead.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, vivid rainforest palette, polished app asset, balanced composition with generous safe margins.
+
+## GD-GM merged - GF wide:
+GF wide:
+Use case: illustration-story
+Asset type: native wide travel image for country code GF, final crop 2:1.
+Primary request: Create a simple clean vector-style travel illustration for French Guiana, no text, no watermark.
+Scene/backdrop: Wide panorama of the Kourou spaceport landscape with tropical forest, low coastal wetlands, and a bright equatorial sky.
+Subject: Recognizable French Guiana details: Ariane rocket standing on a launch pad near the center-right, rainforest canopy with palms across the foreground, a river bend leading toward the coast, scarlet ibis flying across the open sky.
+Style: flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, vivid rainforest palette, polished app asset, balanced panoramic composition with generous safe margins.

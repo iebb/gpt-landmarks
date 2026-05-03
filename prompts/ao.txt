@@ -1,0 +1,7 @@
+# AO prompts
+
+## AO square
+Create a simple vector-illustration style travel image for Angola (country code AO), native square composition. Format suitable for a 1254x1254 PNG. Show Kalandula Falls, broad cascading water, lush escarpment greenery, red earth, and bright tropical highland light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AO wide
+Create a simple vector-illustration style travel image for Angola (country code AO), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Kalandula Falls, broad cascading water, lush escarpment greenery, red earth, and bright tropical highland light, composed horizontally with the waterfall fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

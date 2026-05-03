@@ -1,0 +1,23 @@
+# EH prompts
+
+## DZ-ET merged - EH square:
+EH square:
+Use case: stylized-concept
+Asset type: country travel illustration, native square format
+Primary request: Western Sahara (EH) simple vector-illustration travel image for a country image asset.
+Canvas: square composition, designed to crop cleanly at 1254x1254.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Atlantic desert coast with sweeping Sahara dunes meeting turquoise ocean, a small whitewashed coastal settlement inspired by Dakhla, and wind-shaped dunes under bright sky.
+Subject: Western Sahara landscape, desert-ocean meeting point with simple white architecture and coastal lagoon forms in a balanced central composition.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.
+
+## DZ-ET merged - EH wide:
+EH wide:
+Use case: stylized-concept
+Asset type: country travel illustration, native wide format
+Primary request: Western Sahara (EH) simple vector-illustration travel image for a country image asset.
+Canvas: wide panoramic composition, designed to crop cleanly at 1774x887.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Atlantic desert coast with sweeping Sahara dunes meeting turquoise ocean, a whitewashed coastal settlement inspired by Dakhla, and a long coastal lagoon under bright sky.
+Subject: Western Sahara landscape, desert-ocean meeting point with simple white architecture and lagoon forms arranged as a broad travel header.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.

@@ -1,0 +1,23 @@
+# MT prompts
+
+## MQ-MX merged - MT square:
+MT square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Malta (MT) featuring Valletta skyline, Grand Harbour, and honey-limestone fortifications.
+Scene/backdrop: Sunny Mediterranean daylight with golden limestone walls, blue harbor water, domes, church spires, boats, and fortified city terraces.
+Subject: Valletta and Grand Harbour as the main recognizable landmark scene, with St. Paul's Anglican Cathedral spire and harbor bastions.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered fortified skyline and harbor, layered boats-water-city depth, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## MQ-MX merged - MT wide:
+MT wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Malta (MT) featuring Valletta skyline, Grand Harbour, and honey-limestone fortifications.
+Scene/backdrop: Sunny Mediterranean daylight with golden limestone walls, blue harbor water, domes, church spires, boats, and fortified city terraces.
+Subject: Valletta skyline and Grand Harbour stretching across the scene, with fortified bastions, boats, domes, and church spires clearly visible.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, harbor as the horizontal anchor, skyline readable across the full width, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

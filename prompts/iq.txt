@@ -1,0 +1,21 @@
+# IQ prompts
+
+## IE-IS merged - IQ square:
+IQ square:
+Use case: stylized-concept
+Asset type: native square travel illustration for country image library, final crop 1:1
+Primary request: Iraq (IQ) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: the spiral Malwiya Minaret of Samarra rising from warm desert plains, Abbasid brick architecture, date palms, golden evening sky.
+Subject: iconic Samarra spiral minaret and Mesopotamian desert landscape, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, warm ochre travel-poster color, no photorealism.
+Composition: centered square composition, spiral minaret prominent and unmistakable, desert and palms supporting the scene, readable at thumbnail size, no text, no letters, no flags, no watermark.
+
+## IE-IS merged - IQ wide:
+IQ wide:
+Use case: stylized-concept
+Asset type: native wide travel illustration for country image library, final crop 2:1
+Primary request: Iraq (IQ) simple vector-illustration travel image with recognizable landmarks and landscape.
+Scene/backdrop: panoramic Samarra landscape with the spiral Malwiya Minaret, warm desert plains, Abbasid brick architecture, date palms, and golden evening sky.
+Subject: iconic Samarra spiral minaret and Mesopotamian desert landscape across a wide banner, clean geometric shapes, layered paper-cut vector feel.
+Style: simple modern vector illustration rendered as raster, crisp edges, subtle gradients, warm ochre travel-poster color, no photorealism.
+Composition: wide 2:1 composition, spiral minaret on left third, desert city and palms extending to the right, river or canal in foreground, no text, no letters, no flags, no watermark.

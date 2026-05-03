@@ -1,0 +1,19 @@
+# BS prompts
+
+## BQ-CO merged - BS square:
+BS square:
+Use case: illustration-story
+Asset type: native square 1254x1254 PNG travel illustration for country code BS, matching a wide companion image.
+Primary request: Create a simple vector-illustration travel image for the Bahamas. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: shallow turquoise Bahamian sea, pale sandbar, sunny tropical sky.
+Subject: Exuma-style sandbar with crystal water, a small wooden dock and pastel beach cottages in the distance, a starfish in clear shallows, and soft palm fronds framing the scene.
+Composition: square crop, centered sandbar leading line, calm resort-island mood, simple layered foreground/midground/background, travel-poster feel, vivid but refined colors.
+
+## BQ-CO merged - BS wide:
+BS wide:
+Use case: illustration-story
+Asset type: native wide 1774x887 PNG travel illustration for country code BS, matching the square companion image.
+Primary request: Create a simple vector-illustration travel image for the Bahamas. Use a clean modern flat vector style with crisp shapes, subtle paper-grain texture, no text, no logos, no flags, no watermark.
+Scene/backdrop: shallow turquoise Bahamian sea, pale sandbar, sunny tropical sky.
+Subject: Exuma-style sandbar with crystal water, a small wooden dock and pastel beach cottages in the distance, a starfish in clear shallows, and soft palm fronds framing the scene.
+Composition: panoramic wide crop, sweeping sandbar from foreground into distance, cottages and dock across the horizon, starfish in foreground shallows, palm fronds as corner framing, calm resort-island mood, travel-poster feel, vivid but refined colors.

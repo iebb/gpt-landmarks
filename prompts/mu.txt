@@ -1,0 +1,23 @@
+# MU prompts
+
+## MQ-MX merged - MU square:
+MU square:
+Use case: illustration-story
+Asset type: native square country travel image, final crop 1:1.
+Primary request: Create a simple vector-illustration travel image for Mauritius (MU) featuring Le Morne Brabant, turquoise lagoon, and tropical beach landscape.
+Scene/backdrop: Bright Indian Ocean daylight with dramatic basalt mountain, coral lagoon, white sand, palms, reef shallows, and soft cloud forms.
+Subject: Le Morne Brabant mountain as the main recognizable landmark, with lagoon water and beach palms in the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Centered mountain and lagoon, layered reef-beach-mountain depth, strong silhouette readability at small sizes, square framing with safe margins.
+Text: No text, no letters, no watermark, no logo.
+
+## MQ-MX merged - MU wide:
+MU wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final crop 2:1.
+Primary request: Create a simple vector-illustration travel image for Mauritius (MU) featuring Le Morne Brabant, turquoise lagoon, and tropical beach landscape.
+Scene/backdrop: Bright Indian Ocean daylight with dramatic basalt mountain, coral lagoon, white sand, palms, reef shallows, and soft cloud forms.
+Subject: Le Morne Brabant rising beside a wide turquoise lagoon, with reef patterns, white beach, and palms across the foreground.
+Style: Clean modern flat vector illustration, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, no photorealism.
+Composition: Panoramic 2:1 layout, lagoon and reef stretching horizontally, mountain as the focal point, safe margins for cropping.
+Text: No text, no letters, no watermark, no logo.

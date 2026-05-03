@@ -1,0 +1,13 @@
+# GP prompts
+
+## GN-GW merged - GP square: Use case: stylized-concept
+GP square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Guadeloupe (GP), square composition. Show the green slopes of La Soufriere volcano above rainforest, a Caribbean beach with turquoise water, palm trees, and the Carbet Falls suggested in the midground. Clean flat shapes, crisp edges, bright tropical daylight, rich but balanced colors. No text, no flags, no watermark.
+Composition: centered volcano and island landscape, designed for a square crop with generous safe margins.
+
+## GN-GW merged - GP wide: Use case: stylized-concept
+GP wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Guadeloupe (GP), wide panoramic composition. Show the green slopes of La Soufriere volcano above rainforest, a Caribbean beach with turquoise water, palm trees, and the Carbet Falls suggested in the midground. Clean flat shapes, crisp edges, bright tropical daylight, rich but balanced colors. No text, no flags, no watermark.
+Composition: panoramic tropical island banner with volcano, falls, beach, and sea arranged naturally across a 2:1 frame with generous safe margins.

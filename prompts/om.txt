@@ -1,0 +1,25 @@
+# OM prompts
+
+## NL-PA merged - OM square prompt: Simple vector-illustration travel image for Oman, square composition. Show Muscat's Sultan Qaboos Grand Mosque with its central dome and minaret, date palms, warm desert mountains, and a clear golden sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+OM square prompt: Simple vector-illustration travel image for Oman, square composition. Show Muscat's Sultan Qaboos Grand Mosque with its central dome and minaret, date palms, warm desert mountains, and a clear golden sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NL-PA merged - OM wide prompt: Simple vector-illustration travel image for Oman, wide panoramic composition. Show Muscat's Sultan Qaboos Grand Mosque with its central dome and minaret, date palms, warm desert mountains, and a clear golden sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+OM wide prompt: Simple vector-illustration travel image for Oman, wide panoramic composition. Show Muscat's Sultan Qaboos Grand Mosque with its central dome and minaret, date palms, warm desert mountains, and a clear golden sky. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## NP-PA-retry merged - OM square:
+OM square:
+Use case: illustration-story
+Asset type: country travel illustration, square PNG source for OM
+Primary request: Create a simple vector-illustration travel image for Oman in a square 1:1 composition.
+Scene/backdrop: Sultan Qaboos Grand Mosque-inspired white domes and minarets, warm desert mountains in the distance, date palms, and a tiled courtyard under a clear sky.
+Subject: Recognizable Oman travel landmark and landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Centered mosque landmark with mountains and palms, generous safe margins, suitable for cropping to 1254x1254.
+
+## NP-PA-retry merged - OM wide:
+OM wide:
+Use case: illustration-story
+Asset type: country travel illustration, wide PNG source for OM
+Primary request: Create a simple vector-illustration travel image for Oman in a wide 2:1 composition.
+Scene/backdrop: Sultan Qaboos Grand Mosque-inspired white domes and minarets, warm desert mountains in the distance, date palms, and a tiled courtyard under a clear sky.
+Subject: Recognizable Oman travel landmark and landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
+Composition: Expansive horizontal mosque courtyard panorama with mountains and palms, generous safe margins, suitable for cropping to 1774x887.

@@ -1,0 +1,7 @@
+# PE prompts
+
+## PE-PN merged - PE square prompt: Simple vector-illustration travel image for Peru, square composition. Show Machu Picchu stone terraces and ruins in the Andes with Huayna Picchu mountain behind, layered green peaks, soft morning mist, and warm sunlight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PE square prompt: Simple vector-illustration travel image for Peru, square composition. Show Machu Picchu stone terraces and ruins in the Andes with Huayna Picchu mountain behind, layered green peaks, soft morning mist, and warm sunlight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+
+## PE-PN merged - PE wide prompt: Simple vector-illustration travel image for Peru, wide panoramic composition. Show Machu Picchu stone terraces and ruins in the Andes with Huayna Picchu mountain behind, layered green peaks, soft morning mist, and warm sunlight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.
+PE wide prompt: Simple vector-illustration travel image for Peru, wide panoramic composition. Show Machu Picchu stone terraces and ruins in the Andes with Huayna Picchu mountain behind, layered green peaks, soft morning mist, and warm sunlight. Clean flat shapes, subtle texture, bright natural colors, no text, no flags, no people, no watermark.

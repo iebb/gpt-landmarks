@@ -1,0 +1,23 @@
+# BN prompts
+
+## BG-BO merged - BN square prompt:
+BN square prompt:
+Use case: stylized-concept
+Asset type: native square country travel illustration, 1254x1254 final PNG
+Primary request: Brunei (BN) simple vector-illustration travel image.
+Scene/backdrop: a serene Brunei travel scene with Sultan Omar Ali Saifuddien Mosque golden dome, lagoon reflections, lush rainforest, and water village hints.
+Subject: simplified mosque-and-lagoon composition that reads immediately as Brunei.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: square 1:1, golden dome and lagoon centered, rainforest framing, generous margins, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.
+
+## BG-BO merged - BN wide prompt:
+BN wide prompt:
+Use case: stylized-concept
+Asset type: native wide country travel illustration, 1774x887 final PNG
+Primary request: Brunei (BN) simple vector-illustration travel image matching the square version.
+Scene/backdrop: a serene Brunei travel scene with Sultan Omar Ali Saifuddien Mosque golden dome, lagoon reflections, lush rainforest, and water village hints.
+Subject: simplified mosque-and-lagoon composition that reads immediately as Brunei.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle texture, rich but balanced colors, polished app asset.
+Composition: wide 2:1 panorama, mosque near center, lagoon reflections and rainforest extending across frame, no border.
+Constraints: no text, no letters, no numbers, no watermark, no flags as the main subject, no photorealism.

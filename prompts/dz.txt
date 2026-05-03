@@ -1,0 +1,23 @@
+# DZ prompts
+
+## DZ-ET merged - DZ square:
+DZ square:
+Use case: stylized-concept
+Asset type: country travel illustration, native square format
+Primary request: Algeria (DZ) simple vector-illustration travel image for a country image asset.
+Canvas: square composition, designed to crop cleanly at 1254x1254.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: Sahara dunes under a clear warm sky, with a recognizable white-and-blue Touareg-inspired desert architecture silhouette and distant rock formations evoking Tassili n'Ajjer.
+Subject: Algeria landmark landscape, desert dunes and oasis palms, balanced central composition with strong readable silhouettes.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.
+
+## DZ-ET merged - DZ wide:
+DZ wide:
+Use case: stylized-concept
+Asset type: country travel illustration, native wide format
+Primary request: Algeria (DZ) simple vector-illustration travel image for a country image asset.
+Canvas: wide panoramic composition, designed to crop cleanly at 1774x887.
+Style: clean modern flat vector illustration, crisp geometric shapes, smooth gradients only where subtle, no text, no flags, no watermark, no people, polished travel-poster feel.
+Scene/backdrop: sweeping Sahara dunes under a clear warm sky, with a recognizable white-and-blue desert kasbah/oasis architecture silhouette and distant Tassili n'Ajjer style rock formations.
+Subject: Algeria landmark landscape, broad desert panorama with oasis palms and architecture arranged across the lower third for a strong wide travel header.
+Avoid: photorealism, typography, country-code letters, maps, political borders, clutter.

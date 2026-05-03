@@ -1,0 +1,7 @@
+# KE prompts
+
+## IT-KH merged - KE square prompt: Simple vector-illustration travel image for Kenya, square composition. Show Mount Kenya and an acacia tree over golden savanna with distant safari wildlife silhouettes and a bright East African sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+KE square prompt: Simple vector-illustration travel image for Kenya, square composition. Show Mount Kenya and an acacia tree over golden savanna with distant safari wildlife silhouettes and a bright East African sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+
+## IT-KH merged - KE wide prompt: Simple vector-illustration travel image for Kenya, wide panoramic composition. Show Mount Kenya across the horizon, acacia trees, golden savanna grasses, and distant safari wildlife silhouettes under a bright East African sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.
+KE wide prompt: Simple vector-illustration travel image for Kenya, wide panoramic composition. Show Mount Kenya across the horizon, acacia trees, golden savanna grasses, and distant safari wildlife silhouettes under a bright East African sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.

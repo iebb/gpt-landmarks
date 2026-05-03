@@ -1,0 +1,7 @@
+# AU prompts
+
+## AU square
+Create a simple vector-illustration style travel image for Australia (country code AU), native square composition. Format suitable for a 1254x1254 PNG. Show Sydney Opera House and Harbour Bridge, blue harbor water, eucalyptus greenery, and clear sunny light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## AU wide
+Create a simple vector-illustration style travel image for Australia (country code AU), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Sydney Opera House and Harbour Bridge, blue harbor water, eucalyptus greenery, and clear sunny light, composed horizontally with Opera House and bridge fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

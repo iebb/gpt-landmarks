@@ -1,0 +1,7 @@
+# JP prompts
+
+## IT-KH merged - JP square prompt: Simple vector-illustration travel image for Japan, square composition. Show Mount Fuji behind Chureito Pagoda with cherry blossoms and a calm lake reflection. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+JP square prompt: Simple vector-illustration travel image for Japan, square composition. Show Mount Fuji behind Chureito Pagoda with cherry blossoms and a calm lake reflection. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1254x1254 country travel image.
+
+## IT-KH merged - JP wide prompt: Simple vector-illustration travel image for Japan, wide panoramic composition. Show Mount Fuji across the horizon with Chureito Pagoda, cherry blossom trees, and a calm lake reflection under a clear morning sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.
+JP wide prompt: Simple vector-illustration travel image for Japan, wide panoramic composition. Show Mount Fuji across the horizon with Chureito Pagoda, cherry blossom trees, and a calm lake reflection under a clear morning sky. Clean geometric shapes, flat colors, subtle texture, no text, no people, no logos, no watermark. Designed as a native 1774x887 country travel image.

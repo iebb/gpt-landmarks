@@ -1,0 +1,21 @@
+# NG prompts
+
+## MY-NI merged - NG square prompt:
+NG square prompt:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254
+Primary request: Simple polished vector-style travel illustration for Nigeria, square composition.
+Scene/backdrop: Zuma Rock rising from a green savanna landscape near Abuja, warm golden sky, foreground grasses, subtle Nigerian green and white color accents.
+Subject: Recognizable Zuma Rock, Nigerian savanna, natural landmark travel scene.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 1:1 square crop with Zuma Rock fully visible and centered.
+
+## MY-NI merged - NG wide prompt:
+NG wide prompt:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887
+Primary request: Simple polished vector-style travel illustration for Nigeria, wide panoramic composition.
+Scene/backdrop: Wide savanna panorama near Abuja with Zuma Rock as the main landmark, green grasses, distant hills, warm golden sky, subtle Nigerian green and white color accents.
+Subject: Recognizable Zuma Rock, Nigerian savanna, natural landmark travel scene.
+Style: Clean flat vector illustration, crisp geometric shapes, smooth gradients used sparingly, bright travel-poster mood, no text, no labels, no watermark.
+Composition: Designed natively for a 2:1 wide landscape frame with Zuma Rock fully visible and open scenery around it.

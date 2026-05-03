@@ -1,0 +1,23 @@
+# BE prompts
+
+## AW-BF merged - BE square prompt:
+BE square prompt:
+Use case: illustration-story
+Asset type: native square 1254x1254 travel image for country code BE, Belgium
+Primary request: Create a simple vector-illustration travel image for Belgium, square composition.
+Scene/backdrop: Bruges canal with stepped-gable medieval houses, stone bridge, calm reflections, flower boxes, and soft northern European daylight.
+Subject: Belgium travel landmark scene centered on Bruges canal architecture and bridge.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, warm brick colors with canal blues, no photorealism.
+Composition: native square layout, canal leading into the scene, gabled buildings as focal detail, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.
+
+## AW-BF merged - BE wide prompt:
+BE wide prompt:
+Use case: illustration-story
+Asset type: native wide 1774x887 travel image for country code BE, Belgium
+Primary request: Create a simple vector-illustration travel image for Belgium, wide panoramic composition matching the square BE concept.
+Scene/backdrop: Bruges canal with stepped-gable medieval houses, stone bridge, calm reflections, flower boxes, and soft northern European daylight.
+Subject: Belgium travel landmark scene with Bruges canal architecture stretching along the water and bridge.
+Style: clean modern flat vector illustration, crisp geometric shapes, subtle grain texture, warm brick colors with canal blues, no photorealism.
+Composition: native wide 2:1 layout, long canal perspective, gabled buildings across the frame, no border.
+Constraints: no text, no labels, no flag, no watermark, no people, no logos.

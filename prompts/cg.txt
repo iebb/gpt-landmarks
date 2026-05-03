@@ -1,0 +1,7 @@
+# CG prompts
+
+## CG square
+Create a simple vector-illustration style travel image for Congo (country code CG), native square composition. Format suitable for a 1254x1254 PNG. Show the Congo River near Brazzaville, tropical forested banks, river boats, soft skyline hints, and warm equatorial light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CG wide
+Create a simple vector-illustration style travel image for Congo (country code CG), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: the Congo River near Brazzaville, tropical forested banks, river boats, soft skyline hints, and warm equatorial light, composed horizontally with river and banks fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

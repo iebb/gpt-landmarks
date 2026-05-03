@@ -1,0 +1,7 @@
+# CI prompts
+
+## CI square
+Create a simple vector-illustration style travel image for Côte d’Ivoire (country code CI), native square composition. Format suitable for a 1254x1254 PNG. Show Basilica of Our Lady of Peace in Yamoussoukro, palms, reflecting water, tropical greenery, and warm West African sunlight. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CI wide
+Create a simple vector-illustration style travel image for Côte d’Ivoire (country code CI), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Basilica of Our Lady of Peace in Yamoussoukro, palms, reflecting water, tropical greenery, and warm West African sunlight, composed horizontally with the basilica fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

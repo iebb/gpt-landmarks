@@ -1,0 +1,7 @@
+# CK prompts
+
+## CK square
+Create a simple vector-illustration style travel image for Cook Islands (country code CK), native square composition. Format suitable for a 1254x1254 PNG. Show Aitutaki lagoon with turquoise water, coral motu islands, palms, outrigger canoe, and bright South Pacific light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CK wide
+Create a simple vector-illustration style travel image for Cook Islands (country code CK), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Aitutaki lagoon with turquoise water, coral motu islands, palms, outrigger canoe, and bright South Pacific light, composed horizontally with lagoon and islands fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

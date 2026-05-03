@@ -1,0 +1,7 @@
+# CU prompts
+
+## CU square
+Create a simple vector-illustration style travel image for Cuba (country code CU), native square composition. Format suitable for a 1254x1254 PNG. Show Havana Malecon with colorful colonial buildings, classic cars, ocean waves, palms, and warm Caribbean sunset light. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.
+
+## CU wide
+Create a simple vector-illustration style travel image for Cuba (country code CU), native wide panoramic composition. Format suitable for a 1774x887 PNG. Use the same visual concept and style as the square version: Havana Malecon with colorful colonial buildings, classic cars, ocean waves, palms, and warm Caribbean sunset light, composed horizontally with waterfront and buildings fully visible. Clean flat shapes, subtle texture, polished travel-card illustration, no text, no flags, no watermark.

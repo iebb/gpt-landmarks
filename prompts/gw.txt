@@ -1,0 +1,13 @@
+# GW prompts
+
+## GN-GW merged - GW square: Use case: stylized-concept
+GW square: Use case: stylized-concept
+Asset type: country travel image, native square variant
+Primary request: Create a simple vector-illustration style travel image for Guinea-Bissau (GW), square composition. Show the Bijagos Archipelago with calm mangrove-lined channels, sandy islands, traditional wooden pirogue boats, tropical palms, and clear Atlantic water. Clean flat shapes, crisp edges, warm coastal daylight, natural greens and aquas. No text, no flags, no watermark.
+Composition: centered island and boat scene, designed for a square crop with generous safe margins.
+
+## GN-GW merged - GW wide: Use case: stylized-concept
+GW wide: Use case: stylized-concept
+Asset type: country travel image, native wide variant
+Primary request: Create a simple vector-illustration style travel image for Guinea-Bissau (GW), wide panoramic composition. Show the Bijagos Archipelago with calm mangrove-lined channels, sandy islands, traditional wooden pirogue boats, tropical palms, and clear Atlantic water. Clean flat shapes, crisp edges, warm coastal daylight, natural greens and aquas. No text, no flags, no watermark.
+Composition: panoramic island channels and boats banner arranged naturally across a 2:1 frame with generous safe margins.
