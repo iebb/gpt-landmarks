@@ -19,3 +19,25 @@ Scene/backdrop: A wide Pacific atoll lagoon panorama with turquoise water, coral
 Subject: Recognizable Marshall Islands tropical atoll seascape spread across a horizontal banner.
 Style: clean modern flat vector illustration rendered as raster PNG, crisp shapes, subtle texture, polished travel-poster feel, recognizable landmark/landscape.
 Composition: wide 2:1 panorama, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay.
+
+## Anomaly fix - MH square:
+MH square:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254 for a postage-stamp gallery.
+Primary request: Create a simple vector-illustration travel image for the Marshall Islands (MH), square composition.
+Scene/backdrop: Serene Pacific atoll lagoon with turquoise water, white sand, coconut palms, coral reef shallows, low palm-covered islets, a small outrigger canoe, and bright tropical sky.
+Subject: Marshall Islands tropical atoll seascape as the unmistakable main scene, low coral island and lagoon foreground.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, bright natural colors, no photorealism.
+Composition: native 1:1 square, centered lagoon and low islet, palms and canoe framing the scene, generous safe margins.
+Constraints: no mountains, no churches, no European lake, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay, no people.
+
+## Anomaly fix - MH wide:
+MH wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887 for a postage-stamp gallery.
+Primary request: Create a simple vector-illustration travel image for the Marshall Islands (MH), wide panoramic composition.
+Scene/backdrop: Wide Pacific atoll lagoon panorama with turquoise water, coral reef patterns visible below, low palm-covered islets, white sandbar, coconut palms, small outrigger canoe, and bright tropical sky.
+Subject: Marshall Islands tropical atoll seascape spread across a horizontal banner.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, bright natural colors, no photorealism.
+Composition: native 2:1 panorama, lagoon and coral shallows stretching horizontally, low islets and canoe as focal details, generous safe margins.
+Constraints: no mountains, no churches, no European lake, no text, no letters, no numbers, no labels, no watermark, no border, no flag overlay, no people.

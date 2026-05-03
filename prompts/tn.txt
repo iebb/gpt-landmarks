@@ -1,0 +1,23 @@
+# TN prompts
+
+## Anomaly fix - TN square:
+TN square:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254 for a postage-stamp gallery.
+Primary request: Create a simple vector-illustration travel image for Tunisia (TN), square composition.
+Scene/backdrop: Tunisian Mediterranean and desert heritage scene with Sidi Bou Said white-and-blue architecture, an old medina archway, date palms, warm ochre stone, and subtle Roman ruins or amphitheater forms in the background.
+Subject: Tunisia travel landmarks and landscape, clearly North African and Tunisian rather than Greek island scenery.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, warm Mediterranean colors, no photorealism.
+Composition: native 1:1 square, Tunisian archway and white-blue town elements balanced with palms and ruins, generous safe margins.
+Constraints: no Santorini, no Greek church domes, no Greek island village, no text, no letters, no numbers, no labels, no watermark, no flags, no people.
+
+## Anomaly fix - TN wide:
+TN wide:
+Use case: illustration-story
+Asset type: native wide country travel image, final PNG 1774x887 for a postage-stamp gallery.
+Primary request: Create a simple vector-illustration travel image for Tunisia (TN), wide panoramic composition.
+Scene/backdrop: Tunisian Mediterranean and desert heritage panorama with Sidi Bou Said white-and-blue architecture, an old medina archway, date palms, warm ochre stone, Mediterranean coast, and subtle Roman ruins or amphitheater forms in the background.
+Subject: Tunisia travel landmarks and landscape, clearly North African and Tunisian rather than Greek island scenery.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, warm Mediterranean colors, no photorealism.
+Composition: native 2:1 panorama, white-blue town and medina elements across the frame with coast and ruins beyond, generous safe margins.
+Constraints: no Santorini, no Greek church domes, no Greek island village, no text, no letters, no numbers, no labels, no watermark, no flags, no people.

@@ -3,21 +3,38 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Country Stamps Gallery</title>
+  <title>ISO 3166-2 Stamps Gallery</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="hero">
     <p class="eyebrow">Postage Album</p>
-    <h1>Country Stamps</h1>
-    <p class="lede">A collector's grid of 262 generated travel illustrations, framed as postage stamps. Images are resized on the fly through <a href="https://wsrv.nl" target="_blank" rel="noopener">wsrv.nl</a>.</p>
+    <h1>ISO 3166-2 Stamps</h1>
     <div class="aspect-toggle" role="group" aria-label="Stamp aspect ratio">
       <button type="button" data-aspect="square" aria-pressed="true">1 &times; 1</button>
       <button type="button" data-aspect="wide" aria-pressed="false">2 &times; 1</button>
     </div>
   </header>
 
-  <main class="gallery" id="gallery" data-aspect="square" aria-label="Country stamp gallery"></main>
+  <main class="gallery" id="gallery" data-aspect="square" aria-label="ISO 3166-2 stamp gallery"></main>
+
+  <div class="stamp-modal" id="stamp-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal-backdrop" data-close-modal></div>
+    <figure class="modal-stamp-shell">
+      <button class="modal-close" type="button" aria-label="Close full resolution stamp" data-close-modal>&times;</button>
+      <div class="modal-stamp">
+        <div class="stamp-inner modal-stamp-inner">
+          <div class="stamp-top">
+            <span class="stamp-country" id="modal-title"></span>
+            <span class="stamp-code" id="modal-code"></span>
+          </div>
+          <img class="modal-img" id="modal-img" alt="">
+          <figcaption class="stamp-caption" id="modal-caption"></figcaption>
+          <div class="postmark modal-postmark" aria-hidden="true"></div>
+        </div>
+      </div>
+    </figure>
+  </div>
 
   <footer class="page-foot">
     <p>Source artwork: <a href="https://github.com/iebb/gpt-landmarks" target="_blank" rel="noopener">iebb/gpt-landmarks</a> &middot; resized via <a href="https://wsrv.nl" target="_blank" rel="noopener">images.weserv.nl</a></p>
@@ -298,11 +315,25 @@
       `https://wsrv.nl/?url=${ORIGIN}/${path}&w=${w}&h=${h}&fit=cover&output=jpg&q=82`;
 
     const gallery = document.getElementById("gallery");
+    const modal = document.getElementById("stamp-modal");
+    const modalTitle = document.getElementById("modal-title");
+    const modalCode = document.getElementById("modal-code");
+    const modalImg = document.getElementById("modal-img");
+    const modalCaption = document.getElementById("modal-caption");
+    const modalPostmark = modal.querySelector(".modal-postmark");
     const frag = document.createDocumentFragment();
+    let activeAspect = "square";
+    let lastFocusedStamp = null;
 
     for (const [code, name, desc] of COUNTRIES) {
       const fig = document.createElement("figure");
       fig.className = "stamp";
+      fig.tabIndex = 0;
+      fig.setAttribute("role", "button");
+      fig.setAttribute("aria-label", `View full resolution ${name} stamp`);
+      fig.dataset.code = code;
+      fig.dataset.name = name;
+      fig.dataset.desc = desc;
 
       const inner = document.createElement("div");
       inner.className = "stamp-inner";
@@ -336,6 +367,7 @@
 
     function applyAspect(aspect) {
       const cfg = SIZES[aspect];
+      activeAspect = aspect;
       gallery.dataset.aspect = aspect;
       for (const img of gallery.querySelectorAll(".stamp-img")) {
         img.src = weserv(`images/${cfg.folder}/${img.dataset.code}.png`, cfg.w, cfg.h);
@@ -347,9 +379,57 @@
       }
     }
 
+    function fullImagePath(code, aspect = activeAspect) {
+      return `images/${SIZES[aspect].folder}/${code}.png`;
+    }
+
+    function openStampModal(stamp) {
+      const { code, name, desc } = stamp.dataset;
+      lastFocusedStamp = stamp;
+      modalTitle.textContent = name;
+      modalCode.textContent = code.toUpperCase();
+      modalCaption.textContent = desc;
+      modalImg.src = fullImagePath(code);
+      modalImg.alt = `Full resolution travel illustration of ${name}`;
+      modalPostmark.innerHTML = `<span>${code.toUpperCase()}</span><em>Air Mail</em>`;
+      modal.hidden = false;
+      document.body.classList.add("modal-open");
+      modal.querySelector(".modal-close").focus();
+    }
+
+    function closeStampModal() {
+      if (modal.hidden) return;
+      modal.hidden = true;
+      modalImg.removeAttribute("src");
+      document.body.classList.remove("modal-open");
+      lastFocusedStamp?.focus();
+    }
+
     document.querySelector(".aspect-toggle").addEventListener("click", (e) => {
       const btn = e.target.closest("button[data-aspect]");
       if (btn) applyAspect(btn.dataset.aspect);
+    });
+
+    gallery.addEventListener("click", (e) => {
+      const stamp = e.target.closest(".stamp");
+      if (stamp) openStampModal(stamp);
+    });
+
+    gallery.addEventListener("keydown", (e) => {
+      const stamp = e.target.closest(".stamp");
+      if (!stamp) return;
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        openStampModal(stamp);
+      }
+    });
+
+    modal.addEventListener("click", (e) => {
+      if (e.target.closest("[data-close-modal]")) closeStampModal();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") closeStampModal();
     });
 
     applyAspect("square");

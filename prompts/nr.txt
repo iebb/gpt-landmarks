@@ -23,3 +23,14 @@ Primary request: Create a simple vector-illustration travel image for Nauru in a
 Scene/backdrop: Tropical Pacific island coastline with turquoise lagoon water, white coral sand, palm groves, coral limestone pinnacles, and inland Buada Lagoon greenery visible beyond the beach.
 Subject: Recognizable Nauru travel landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
 Composition: Expansive horizontal coastline and lagoon view, generous safe margins, suitable for cropping to 1774x887.
+
+## Anomaly fix - NR square:
+NR square:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254 for a postage-stamp gallery.
+Primary request: Create a simple vector-illustration travel image for Nauru (NR), square composition.
+Scene/backdrop: Tropical Pacific island coastline at Anibare Bay with turquoise lagoon water, white coral sand, palm trees, coral limestone pinnacles, seabirds, and a small hint of inland Buada Lagoon greenery beyond the beach.
+Subject: Nauru island lagoon and coral limestone coastal landscape as the unmistakable main scene.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, bright natural colors, no photorealism.
+Composition: native 1:1 square, centered coastline and lagoon, limestone pinnacles and palms framing the scene, generous safe margins.
+Constraints: no snowy mountains, no Himalayas, no stupa, no prayer flags, no temples, no text, no letters, no numbers, no labels, no watermark, no flags, no people.

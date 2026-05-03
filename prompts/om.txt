@@ -23,3 +23,14 @@ Primary request: Create a simple vector-illustration travel image for Oman in a 
 Scene/backdrop: Sultan Qaboos Grand Mosque-inspired white domes and minarets, warm desert mountains in the distance, date palms, and a tiled courtyard under a clear sky.
 Subject: Recognizable Oman travel landmark and landscape, clean geometric shapes, flat colors, subtle paper texture, crisp edges, no text, no flag, no watermark.
 Composition: Expansive horizontal mosque courtyard panorama with mountains and palms, generous safe margins, suitable for cropping to 1774x887.
+
+## Anomaly fix - OM square:
+OM square:
+Use case: illustration-story
+Asset type: native square country travel image, final PNG 1254x1254 for a postage-stamp gallery.
+Primary request: Create a simple vector-illustration travel image for Oman (OM), square composition.
+Scene/backdrop: Muscat's Sultan Qaboos Grand Mosque-inspired white domes and minarets, tiled courtyard, date palms, warm ochre desert mountains in the distance, clear golden sky.
+Subject: Omani mosque architecture as the unmistakable main landmark, with desert mountains and palms as supporting context.
+Style: clean modern flat vector illustration rendered as raster PNG, crisp geometric shapes, subtle paper-like texture, polished travel-poster look, bright warm natural colors, no photorealism.
+Composition: native 1:1 square, centered mosque landmark with domes and minarets, generous safe margins, balanced courtyard foreground and mountain background.
+Constraints: no snowy mountains, no alpine lake, no stupa, no prayer flags, no Panama Canal, no text, no letters, no numbers, no labels, no watermark, no flags, no people.
